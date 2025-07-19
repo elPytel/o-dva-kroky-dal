@@ -27,7 +27,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/o-dva-kroky-dal"
 url: "https://elpytel.github.io"
 github_username:  elPytel
-
+github_username:  Sunflavoured
 # Build settings
 theme: minima
 plugins:
