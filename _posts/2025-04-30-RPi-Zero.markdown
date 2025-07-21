@@ -1,0 +1,68 @@
+---
+layout: post
+title:  "Raspberry Pi Zero"
+date:   2025-04-30 15:11:11 +0200
+categories: raspberry-pi zero
+---
+
+# Zero Gothi
+Našel jsem na dně skříně raspberry pi zero w (ta první verze), které tam už nějaký ten pátek lezělo. Napadlo mě že je to vlastně škoda, že pro něj nemám žádné využití a začali mi šrotovat myšlenky. 
+Co by s ním šlo udělat? Armový procesor asi tak o stejném výkonu jako raspberry pi model B (ano ten model B, tenkrát jim ještě nedávali čísla...), které vykukovala za ním kdesi v povzdálí.
+To vlastně není zas tak špatné, když na tom nechcete provozovat grafické rozhraní. 
+
+Dlouze jsem se zamyslel. Kapesní server! To je to co by s tím šlo udělat. 
+uSD karty dnes dosahují docela slušných kapacit, jedná přijít jako bootovací a druhá s jednoduchou redukcí se dájako úložiště. 
+Aby to byl opravdu přenosný server, tak to chce ještě nějakou baterku. Možná pro ovládání by se hodil displej a tlačítka.
+
+![UPS HAT](https://camo.githubusercontent.com/71e71421acd0326ef1c49fd9f5d177e8ca01e219ebcc086b0076831f82150461/68747470733a2f2f7777772e7761766573686172652e636f6d2f772f75706c6f61642f7468756d622f302f30642f5550532d4841542d432d312e6a70672f38303070782d5550532d4841542d432d312e6a7067)
+
+![1.3inch OLED HAT](https://camo.githubusercontent.com/213d8b67642838a3490c3bb8bc5cfdc6344fddb46e9de5493c20b6fe64f57618/68747470733a2f2f7777772e7761766573686172652e636f6d2f772f75706c6f61642f7468756d622f652f65332f312e33696e63682d4f4c45442d4841542d312e6a70672f36303070782d312e33696e63682d4f4c45442d4841542d312e6a7067)
+
+No ale pro propojení musí mít deska header...
+
+Tak jsem si vše objednal.
+Bohužel mojí upáječku již odvál čas, tak jsem se domluvil s kamarádem že mi půjčí své pájecí pero abych si to mohl u něj zapájet.
+
+Co jsem se naučil na elektroprumyslovce jsem ještě pořád nezapomněl.
+
+Nainstaluji NAS na raspberry a možná ještě nějaké další utility. Pujde pak na něj na cestách zálohovat data a to i bez přístupu na internet. Taky ny tam mohly být uložené filmy a seriály v hojném počtu, protože se takový kapasni lokálně stresovaný Netflix docela vlastně tak hodí.
+
+Založil jsem si repozitář: 
+[Github: RPi Zero Gothi](https://github.com/elPytel/RPi_Zero_Gothi)
+
+# UI
+Jak to vlastně budu ovládat?
+Flipper!
+
+![flipperzero](https://flipperzero.one/img/tild6566-3434-4266-b037-646663393733__fpr_web_1.jpg)
+
+Vzpomněl jsem si na hezkou hackerskou hračku so jsem si nemohl dovolit. Nepotřebuji si kupovat ten HW, stačí mi portnout grafický rozhraní na raspberry, přemapovat ovládací klávesy a voila!
+Ne tak zhurta. Celý projekt je napsaný v jazyce C, pro RTOS. To je operační systém co funguje jinak než Linux. Musím přepsat spoustu kódu spočívajícím na systémových volání a sheduleru ze strany operačního systému. A v C se mi taková práce opravdu nechce dělat. Tak to bych to mohl rovnou celý přepsat do Pythonu. Nepotřebuji aby to byl Flipper zero na RPi zero (hmm souhra jmen?), ale abych měl GUI podobného rázu.
+Zkopíroval jsem si jejich repozitář a začal jsem se prokousávat grafickými assety.
+
+
+Na Aukru jsem úplně náhodou narazil na dražbu 10 Nokii od koruny. A mezi nimi N95 a N900. Tak ty musím mít!
+Za mrzkých 1000 Kč bez poštovného se mi podařilo dražbu vyhrát.
+No Eriku jsem moc touto šťastnou novinou nepotěšil.
+
+# N900
+Naprostá legenda mezi telefony, ať se jde první iPhone vycpat! 
+No co teď s ním?
+Má baterku, klávesnici, displej 800x600, dotyk, wifi, 3G, IR, GPS, AV out, stereo, radio recive/transmit...
+
+| Vlastnost | Specifikace |
+| --- | --- |
+| Processor | 0.6 GHz ARM Cortex-A8 |
+| RAM | 256MB |
+| Storage | 32GB internal, microSD slot |
+| Display | 3.5 inch, 800x480 pixels |
+| Camera | 5MP |
+
+To je hafo rozhraní a senzorů.
+Dokonce mám i pro něj někde novou baterku.
+
+Na co že jsem měl to raspberry? Aha a nebylo by mnohem víc cool mít N900? Bylo! Takže zpátky na stromy. Hodil jsem rpi zpátky do šuplíku.
+
+Jo a taky z Nokie na všechny strany nekoukají dráty... (Aspoň zatím)
+
+[N900 notes]({{ site.baseurl }}{% link _posts/2025-06-12-N900-notes.markdown %})
