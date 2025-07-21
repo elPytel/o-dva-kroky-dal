@@ -5,4 +5,4 @@
 layout: home
 ---
 
-Tohle je naše stránka!
+Tohle je naše stránka.

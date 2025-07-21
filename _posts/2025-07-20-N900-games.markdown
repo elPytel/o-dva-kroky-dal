@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "Nokia N900 hry"
+date:   2025-07-20 15:11:11 +0200
+categories: n900 games
+---
+
+# Pokémoni 
+První hrou, kterou jsem kdy na počítači hrál (na emulátoru) byli Pokémoni. Takže když jsem se rozhodoval co nahrát do VGBA (virtual game boy advance) emulatoru na Nokii tak Pokémoni byli jasná volba.
+
+![pokemoni](https://raw.githubusercontent.com/elPytel/nokia-n900-notes/refs/heads/main/assets/Screenshots/Screenshot-20250717-221611.png)
+
+Emulátor funguje překvapivě dobře — asi na 98 % času běží bez problémů, jen občas se objeví drobné zpomalení.
+
+Ovládání je mapováno následovně:
+- Šipky pro pohyb
+- Druhá řada kláves pro potvrzení
+- Třetí řada pro zpět
+- Stisknutí **Ctrl + Enter** přepíná do režimu celé obrazovky
+
+Displej je na retro hraní vlastně dost dobrý — rozlišení i velikost jsou super na hraní. Na přímém slunci se sice barvy trochu mění, ale kontrast zůstává dobře čitelný.
+
+Stereo reproduktory v N900 jsou překvapivě dost dobré. Zvukové efekty i hudba na něm opravdu vyniknou — je to jako malá retro konzole s vestavěnými hi-fi repráky.
+
+Nejdřív jsem emulátor spoučtěl na Linuxovém jádře, které podporuje přetaktování a nastavil jsem 800 MHz. Po několika hrách, kdy jsem parkrát zapomněl při spuštění nastavit správné jádro jsem zjistil, že emulátor funguje i na 600 MHz 98 % času. Tak jsem nakonec zůstal hrát na nepřetaktovaném systému.
+
+S novou baterií Nokie vydrží něco mezi 3-4 hodinami hraní. 
+
+ROMky se dají stáhnout [zde](https://vimm.net/vault/GBA). VGBA umožnuje spouštět hru z libovolného adresáře, ale po přehlednost doporučuji je umístit do adresáře `/home/user/MyDoc/Games/VGBA/`, nebo na podobné místo, kde je snadno najdete.
+
+- [můj 1 post na Redditu](https://www.reddit.com/r/n900/comments/1lo3752/summerready_setup_n900_as_a_pokémon_machine/)
+- [můj 2 post na Redditu](https://www.reddit.com/r/n900/comments/1m2x4jm/18_hours_in_n900_still_going_strong_as_a_pokémon/)
