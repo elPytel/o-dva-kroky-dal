@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "Nokia N900 poznámky"
+date:   2025-05-12 15:11:11 +0200
+categories: n900 notes
+---
+
+# N900 - Legenda mezi telefony
+
+## Poznámky
+Forknul jsem repositář s poznámkami o N900:
+[GitHub: elPytel/nokia-n900-notes](https://github.com/elPytel/nokia-n900-notes)
+
+## Konektor
+N900 má microUSB konektor, který je bohužel dost náchylný na poškození.
+Lidé často píšou, že se jim na N900 rozbil napájecí konektor. To se mi nikdy nestalo, ale pro jistotu a jednoduchost jsem s ní začal používat magnetické kabely a konektory (stejně tak jako u veškeré mé malé elektroiky, kterou používám), dají se koupit na Alze [zde](https://www.alza.cz/alzapower-magcore-usb-c-5a-100w-2m-cerny-d6969312.htm).
+
+## Baterie
+Co by jste chtěli od baterie, které je skoro 20 let? Některé kupodivu drží, jiné už jsou dávno nafouklé. Mám jich několik zástupců a pořídil jsem si také jednu novou od výrobce Patona, která je kompatibilní s N900. Je to Li-Ion baterie s kapacitou 1500mAh a napětím 3,7V. Vydrží mi zhruba 3-4 hodiny běžného používání, nebo 3+ dny v pohotovostním režimu. 
+
+| Výrobce | Model | Kapacita |
+| --- | --- | --- |
+| PATONA | Nokia BL-5J | 1500mAh |
+
+Lze jí koupit na Alze [zde](https://www.alza.cz/patona-pro-bl-5j-1500mah-3-7v-li-ion-d4928416.htm).
+
+## Další posty
+
+- [Nokia N900 hry]({{ site.baseurl }}{% link _posts/2025-07-20-N900-games.markdown %})

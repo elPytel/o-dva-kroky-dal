@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Nokia N900 hry"
+title:  "Nokia N900 a hry"
 date:   2025-07-20 15:11:11 +0200
 categories: n900 games
 ---
