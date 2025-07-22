@@ -43,6 +43,21 @@ Navigace typu bread-crums (jak by to pojmenovali Jeníček a Mařenka), která u
 
 ![Garmin Instinct 2X Solar Flame Red](https://image.alza.cz/products/PPinst2X9b2/PPinst2X9b2-02.jpg?width=500&height=500)
 
+| výbava | typ |
+| --- | --- |
+| Tvar ciferníku | Kulatý |
+| Typ displeje | Transflektivní MIP |
+| Sklíčko | Power Glass |
+| Max. výdrž baterie | 960 h (40 d) |
+| Velikost pouzdra | 50 mm |
+| Materiál pouzdra | Plast |
+| Barva pouzdra | Červená |
+| Vodotěsnost | 100 m (10 ATM) |
+| Standard odolnosti | MIL-STD 810G |
+| Hmotnost | 67 g |
+| Bezdrátové technologie | ANT+, Bluetooth, GPS, NFC |
+| Typ NFC platby | Garmin Pay |
+
 Ale byli dražší, dalo mi to dost rozhodvání, naž jsem se finálně rozhodl. Ve výsledku mě přesvdčila lampička a solární dobíjení. Nakonec jsem se rozhoupal a hodinky Instinct 2X Solar jsem si 9. 4. 2024 koupil. 
 
 ## Aplikace
@@ -57,7 +72,8 @@ Jestli chcete své hodinky používat naplno, tak budete ve svém mobilu potřeb
 Pro ty odvážnější z vás, kterí mají na počítači operačný systém Windows 7 a starší, tak si můžete stáhnout Garmin Explore jako desktopovu aplikaci. 
 
 Asi vám právě vyvstala otázka, proč nemají jednu aplikaci? 
-Odpovědí je: **Garmin**.
+
+Odpovědí je: **Garmin △**.
 
 ### Connect
 Tato aplikace je základ jejich ekosystému aplikací. Člověk zde má svůj účet a synchronizují se mu zde všechny jeho aktivity. Můžete je pak sdílet s přáteli a sbírat oznáčky (jako malý skaut).
@@ -72,4 +88,4 @@ TIP: Po spuštění navigace můžete s nastavení aktivity přepnout na určit�
 
 ### Mapy.cz
 Určitě se teď ptáte: Jak získám trasu ve formátu GPX?
-Snadno! Ve své nejoblíbenější mobilní mapě od seznamu si naklikáte trasu a místo navigovat dáte expoertovat ve formátu GPX, soubor na na mobilu stačí otevřít v Explore a máte hotovo.
+Snadno! Ve své nejoblíbenější mobilní mapě od seznamu si naklikáte trasu a místo navigovat dáte exportovat ve formátu GPX, soubor na mobilu ho stačí otevřít v Explore a máte hotovo.
