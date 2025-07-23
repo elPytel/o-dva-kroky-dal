@@ -30,7 +30,13 @@ Nainstaluji NAS na raspberry a možná ještě nějaké další utility. Pujde p
 Založil jsem si repozitář: 
 [Github: RPi Zero Gothi](https://github.com/elPytel/RPi_Zero_Gothi)
 
-# UI
+## Displej a baterie
+Výrobce HW má na svých stránkách demo programy, pro otestování jak baterie tak displeje.
+Umožnuji komunikaci po sběrnicích a zobrazování textu a obrázků na displeji. A také vyčítání stavu nabití a odběru z bateie.
+
+Oba programy jsem vyzkoušel a řádně otestoval a mírně poupravil pro mé potřeby.
+
+## UI
 Jak to vlastně budu ovládat?
 Flipper!
 
@@ -40,6 +46,41 @@ Vzpomněl jsem si na hezkou hackerskou hračku so jsem si nemohl dovolit. Nepot�
 Ne tak zhurta. Celý projekt je napsaný v jazyce C, pro RTOS. To je operační systém co funguje jinak než Linux. Musím přepsat spoustu kódu spočívajícím na systémových volání a sheduleru ze strany operačního systému. A v C se mi taková práce opravdu nechce dělat. Tak to bych to mohl rovnou celý přepsat do Pythonu. Nepotřebuji aby to byl Flipper zero na RPi zero (hmm souhra jmen?), ale abych měl GUI podobného rázu.
 Zkopíroval jsem si jejich repozitář a začal jsem se prokousávat grafickými assety.
 
+Flipper má displej s jednobarevným (oranžovým) podsvitem, můj displej na RPi Zero má stejné rozlišení, ale je oled s modrými ledkami.
+
+Přenost hrafických prvků tak nepotřebuje škálování obrazu. 
+
+Rozhodl jsem že přepíšu postupně celé zobrazování do pythonu a využiji co největšího množství již existujích knihoven abych si tu práci ušetřil. 
+
+Chtěl jsem také aplikaci udělat neblokující, aby se mohli na pozadí vykonávat věci, zatímco se uživateli zobrazuje obrázek, či hezká animaci. Python nemá rád vlákna a tak jsem se rozhodil vydat cestou asynchroních funcí. 
+
+Jako první cíl jsem si stanovil spouštění aplikace s loading scénou. 
+
+## Načítání
+
+Našel jsem grafikcý asset s sekvencí snímku otáčejících se hodin.
+Flipper používá doprovodný konfigurační soubor k animacím, která obsahuje poředí snímků a dálku zobrazování. Tan bude pro mě klíčový pro přenesení animací na moje RPi. 
+Rozchodil jsem otáčející se přesýpačky v jupiter notebooku a následně aktualizoval aplikaci tak, aby po inicializaci základního softwaru ovládající baterii a displej se načte animace hodin. Ta trvá dokud se neinicializují ostatní závislosti aplikace.
+
+Cool, tohle fakt funguje.
+
+## Aktualizace (skoro) za běhu
+
+Rozchodil jsem OTA updaty (over the air). Součástí aplikace je script, který:
+- vypne program,
+- stáhne aktuální verzi z gitu,
+- updatuje závislosti,
+- spustí znovu aplikaci.
+
+Není to zrovna seamless, ale pro můj vývoj to na rychlé nasazování bohatě stačí.
+
+## Emulátor
+
+Ale to pořád nebylo pro mě dost rychlé pro vývoj. Chtěl bych testovat můj kód přímo na počítači, kde jej programuji. Python jako Python... Jen je potřeba podvrhnout dotazy na HW. Napsal jsem moduly pro displej a baterii (mock-up, demo), které mají stejné funkce jako ty skutečné, ale vracejí data o baterii, která vypdají reálně, ale jsou vycucaná z prstu. Stejně také umožnují vykreslovat obraz UI do grafického okna.
+
+A bylo to dobré...
+
+## Sidequest
 
 Na Aukru jsem úplně náhodou narazil na dražbu 10 Nokii od koruny. A mezi nimi N95 a N900. Tak ty musím mít!
 Za mrzkých 1000 Kč bez poštovného se mi podařilo dražbu vyhrát.

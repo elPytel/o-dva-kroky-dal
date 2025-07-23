@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Garmin Instinct"
-date:   2025-04-09 10:24:06 +0200
+date:   2024-04-09 10:24:06 +0200
 categories: garmin instinct
 ---
 
