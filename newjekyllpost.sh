@@ -10,9 +10,11 @@ fi
 cat > $filename <<EOF
 ---
 layout: post
-title: A title
+title: "A title"
 description: A description
 categories: ["tag"]
 social_image: add here
 ---
 EOF
+
+echo "New post created: $filename"
