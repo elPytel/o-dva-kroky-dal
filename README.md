@@ -14,6 +14,8 @@
 
 ## Testování na lokálním serveru
 
+[dokumentace](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll)
+
 ### Instalace Jekyll
 Pro lokální testování je potřeba nainstalovat Jekyll a Ruby. Následující příkazy nainstalují Ruby a Jekyll na Debian/Ubuntu:
 

@@ -59,6 +59,8 @@ options:
 Le GUI aplikace:
 ![app](https://github.com/elPytel/Universal_downloader/raw/main/assets/app.png)
 
+Bohužel sdílej přešlo na placený model a tak již moje aplikace nefunguje.
+
 # Přínos
 
 Naučil jsem se:
