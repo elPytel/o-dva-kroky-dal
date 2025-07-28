@@ -38,6 +38,10 @@ Mé poznámky a postupy jsou zde:
 
 Obraz disku jsem si vybral s grafikcým prostředím i3wm. Otestoval jsem i verzi s pouze příkazovou řádku, která poskytuje menší obraz a také xfce, ale to bylo nesnesitelně pomalé (za to pravděpodobně může chybějící grafická akcelerace).
 
+![pmOS terminál](https://i.redd.it/6aki9gtqtb1f1.png)
+
+Post na Redditu: [r/n900: n900 back in the game](https://www.reddit.com/r/n900/comments/1koqmgo/n900_back_in_the_game/)
+
 ## i3wm
 
 Pokud se poprvé setkáváte se správcem oken i3, tak je dobré se podívat alespoň na tyto klávesové zkratky, které vám pomohou začít:

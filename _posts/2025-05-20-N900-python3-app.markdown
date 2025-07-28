@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "Nokia N900 a python aplikace"
+date:   2025-05-20 15:11:11 +0200
+categories: n900 postmarketOS
+---
+
+# N900 a Python3 na postmarketOS
+
+Takže N900 je cesta kupředu. Pod postmarket OS může člověk nainstalovat jaký balíček se mu zlíbí. Git, nejnovější Python a potřebné knihovny.
+Musel jsem přepsat moduly na úrovni ovládačů, abych měl abstrakci hw na všech podporovaných platformách. Když už jsem měl napsaný emulátor aplikace z dřívěška, tak nebylo zas tak těžké rozšířit sadu detekovaného hw na to, aby se rozpoznala Nokie a načetlo se UI obdobně jako na na počítači. Součástí linuxového systému jsou ovladače i na hw a ten je přístupný v podobě souborů v adresářové struktuře. Vyčítání stavu baterie tedy není nikterak složité.
+
+Musel jsem naučit ovládání window managera. Všechno je v i3wm dělané na klávesové zkratky (více v předchozím článku).
+
+Momentálně je systém nastavený tak že při spuštění programu se otevře vlastní okno ve které běží aplikace. Jde tedy ve split-screenu sledovat jak logovani v konzoli, tak i UI aplikace. Zachytávání kláves funguje stejně špatně jako na PC, což je lepší než nic.
+
+Chci napsat aplikaci tak, aby detekoval vysunutí a zasunutí klávesnice a podle toho se buď zobrazovala ve Fullscreenu a ovládala klávesnici, nebo aby se zmenšila a objevili se vedle ní tlačítka na ovládání.
+
+Jedna z vychytávek by mohlo být ovládání rádio vysílače, aby šla puštěná hudba přehrávat v rádiu.
+
+![app split screen](https://i.redd.it/0bcyeg2yly1f1.jpeg)
+
+Post na Redditu: [r/n900](https://www.reddit.com/r/n900/comments/1kr8gyf/postmarked_os_python_3_app/)
+
+## Cíle
+
+- [x] Spouštění aplikace s loading scénou
+- [ ] Zobrazování UI
+- [ ] Levlování delfína
+- [ ] Ovládání hotspotu
+- [ ] Přehrávání hudby
+- [ ] Ovládání přehrávače hudby
+- [ ] Ovládání rádio vysílače
+- [ ] Ovládání Bluetooth
+- [ ] Práce s IRdA
