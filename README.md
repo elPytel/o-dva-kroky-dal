@@ -32,7 +32,7 @@ bundle install
 
 ### Spuštění serveru
 Lokální spuštění: `jekyll serve`
-```
+```bash
 bundle exec jekyll serve --baseurl="" --livereload
 ```
 

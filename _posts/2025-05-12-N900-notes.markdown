@@ -21,8 +21,12 @@ Co by jste chtěli od baterie, které je skoro 20 let? Některé kupodivu drží
 | Výrobce | Model | Kapacita |
 | --- | --- | --- |
 | PATONA | Nokia BL-5J | 1500mAh |
+| Original | Nokia BL-5J | 1320mAh |
 
 Lze jí koupit na Alze [zde](https://www.alza.cz/patona-pro-bl-5j-1500mah-3-7v-li-ion-d4928416.htm).
+
+## Import kontaktů
+Importování kontaktů z Google účtu do N900 je velmi jednoduché. Stačí si stáhnout kontakty ve formátu vCard a nahrát je do N900 přes USB. Pak na soubor kliknete a vyberete "Importovat do adresáře".
 
 ## Další posty
 

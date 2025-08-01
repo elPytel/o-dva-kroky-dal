@@ -11,6 +11,11 @@ categories: camping
 - [záplaty](https://www.4camping.cz/p/zaplaty-gear-aid-tenacious-tape-repair-tape/#cerna)
 
 Stejné se dá najít i v jiných outdoor obchodech, například v Decathlonu.
+
+![lepidlo](https://cdn.4camping.cz/files/photos/1600/9/96c45c22-lepidlo-gear-aid-seam-grip-wp.webp)
+
+![záplata](https://cdn.4camping.cz/files/photos/1600/d/d4537ddc-zaplaty-gear-aid-tenacious-tape-repair-2023.webp)
+
 ## Video tutoriály
 - [Youtube: The 101: How to Fix a Sleeping Pad](https://www.youtube.com/watch?v=_07peoySzvA)
 - [Youtube: Classic Valve Replacement Kit](https://www.youtube.com/watch?v=x_Ryr67PmnE)
