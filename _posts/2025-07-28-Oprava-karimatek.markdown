@@ -6,6 +6,17 @@ categories: camping
 
 # Jak spravit prasklou nafukovačku?
 
+- [Jak spravit prasklou nafukovačku?](#jak-spravit-prasklou-nafukovačku)
+  - [Co budete potřebovat](#co-budete-potřebovat)
+  - [Video tutoriály](#video-tutoriály)
+  - [Postup](#postup)
+    - [1. Najdětě díru](#1-najdětě-díru)
+    - [2. Očistěte místo kolem díry](#2-očistěte-místo-kolem-díry)
+    - [3. Naneste lepidlo na díru a nechte zaschnout](#3-naneste-lepidlo-na-díru-a-nechte-zaschnout)
+    - [4. Přiložte záplatu a důkladně ji přitlačte](#4-přiložte-záplatu-a-důkladně-ji-přitlačte)
+  - [Osobní zkušenost](#osobní-zkušenost)
+
+
 ## Co budete potřebovat
 - [lepidlo](https://www.4camping.cz/p/lepidlo-gear-aid-seam-grip-wp/)
 - [záplaty](https://www.4camping.cz/p/zaplaty-gear-aid-tenacious-tape-repair-tape/#cerna)

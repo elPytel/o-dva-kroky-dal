@@ -31,7 +31,7 @@ S funkčním u-bootem je instalce postmarketOS vlastně jen rozbalení obrazu di
 
 Je potřeba u-bootu přidat záznam pro bootování z SD karty.
 
-Všechno je dobře popsáno v oficiální dokumentaci postmarketOS: [Nokia N900 ](https://wiki.postmarketos.org/wiki/Nokia_N900_(nokia-n900))
+Všechno je dobře popsáno v oficiální dokumentaci postmarketOS: [Nokia N900](https://wiki.postmarketos.org/wiki/Nokia_N900_(nokia-n900))
 
 Mé poznámky a postupy jsou zde:
 [Postmarket OS na N900](https://github.com/elPytel/nokia-n900-notes/blob/main/pmOS_files/Postmarket%20OS.md)

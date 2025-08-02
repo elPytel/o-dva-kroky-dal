@@ -5,6 +5,13 @@ description: "Program pro stahování různých typů souborů z internetu"
 categories: Python
 ---
 
+- [Pohled do histore](#pohled-do-histore)
+- [Král je mrtev, ať žije král!](#král-je-mrtev-ať-žije-král)
+- [A co na to já?](#a-co-na-to-já)
+- [Universal Downloader](#universal-downloader)
+- [Přínos](#přínos)
+
+
 # Pohled do histore
 
 S kamerády jsme na ještě na střední škole hojně využívali služeb Uložta. Když člověk chtěl v těchti dřevních dobách stahovat rychleji enž je mrzkých 300kbps, tak si musel člověk zaplatit za stažené gigabity dat. Metodou pokud->omyl jsem zjistil, že když začnete stahovat jeden soubor v jednom prolížeči a další v jiném. Tak vás Uložto neodstřihne. Nainstaloval jsem si hned čtyři další webové prohlížeče. Takhle to šlo rok za rokem až jednou jeden z nás narazil na naprosto revoluční způsob stahování: [Vžum!](https://vzum.hys.cz/). 

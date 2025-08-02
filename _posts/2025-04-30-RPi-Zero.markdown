@@ -5,6 +5,16 @@ date:   2025-04-30 15:11:11 +0200
 categories: raspberry-pi zero
 ---
 
+- [Zero Gothi](#zero-gothi)
+  - [Displej a baterie](#displej-a-baterie)
+  - [UI](#ui)
+  - [Načítání](#načítání)
+  - [Aktualizace (skoro) za běhu](#aktualizace-skoro-za-běhu)
+  - [Emulátor](#emulátor)
+  - [Sidequest](#sidequest)
+- [N900](#n900)
+
+
 # Zero Gothi
 Našel jsem na dně skříně raspberry pi zero w (ta první verze), které tam už nějaký ten pátek lezělo. Napadlo mě že je to vlastně škoda, že pro něj nemám žádné využití a začali mi šrotovat myšlenky. 
 Co by s ním šlo udělat? Armový procesor asi tak o stejném výkonu jako raspberry pi model B (ano ten model B, tenkrát jim ještě nedávali čísla...), které vykukovala za ním kdesi v povzdálí.

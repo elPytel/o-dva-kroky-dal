@@ -5,6 +5,12 @@ date:   2025-07-14 13:40:06 +0200
 categories: garmin factory-reset
 ---
 
+- [Garmin jak vyresetovat hodinky](#garmin-jak-vyresetovat-hodinky)
+  - [Jak na to?](#jak-na-to)
+  - [Proč se hodinky zasekly?](#proč-se-hodinky-zasekly)
+  - [Linky](#linky)
+
+
 # Garmin jak vyresetovat hodinky
 
 Dneska jsem si chtěl do svých hodinek nahrát trasu kolem Chorvatského ostrova Murter. Explor aplikaci trvalo celou věčnost nahrát předem navolenou trasu do hodinek. Restartoval jsem jak aplikaci, tak mobil. Nekonec jsme vyrazili na náš vyklo výlet bez navigace. 

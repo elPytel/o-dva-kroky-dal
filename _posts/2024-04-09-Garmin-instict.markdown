@@ -5,6 +5,15 @@ date:   2024-04-09 10:24:06 +0200
 categories: garmin instinct
 ---
 
+- [Používej svůj instinct!](#používej-svůj-instinct)
+  - [Neo](#neo)
+  - [Garmin Instinct](#garmin-instinct)
+  - [Aplikace](#aplikace)
+    - [Connect](#connect)
+    - [Connect IQ](#connect-iq)
+    - [Explore](#explore)
+    - [Mapy.cz](#mapycz)
+  
 # Používej svůj instinct!
 
 Nebo aspoň tak nějak to tvrdí prodejci hodinek Garmin na veletrhu se spotřebitelskou elektronikou.

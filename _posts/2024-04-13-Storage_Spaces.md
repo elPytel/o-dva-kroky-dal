@@ -6,7 +6,17 @@ categories: ["windows", "storage"]
 ---
 # Storage Space
 
-Máte počítač windows? Ale libí se vím představa toho, že můžete spojit více svých disků do jednoho velkého uložiště jako to jde na Linuxu třeba s použitím [MergerFS]({{ site.baseurl }}{% link _posts/2023-08-01-NAS.md %}). Tak nezoufejte! Microsoft má pro vás řešení (alespoň částečně)!
+- [Storage Space](#storage-space)
+  - [Disky](#disky)
+  - [Prostory uložišť](#prostory-uložišť)
+  - [Dále návod na realizaci:](#dále-návod-na-realizaci)
+    - [Konfigurace softwarového RAIDu ve Windows 10](#konfigurace-softwarového-raidu-ve-windows-10)
+    - [Nastavení cachovaného disku](#nastavení-cachovaného-disku)
+      - [Vytvoření svazku](#vytvoření-svazku)
+      - [Odstranění svazku](#odstranění-svazku)
+    - [Přesun disků mezi počítači](#přesun-disků-mezi-počítači)
+
+Máte počítač windows? Ale libí se vím představa toho, že můžete spojit více svých disků do jednoho velkého uložiště jako to jde na Linuxu třeba s použitím [MergerFS]({{ site.baseurl }}{% link _posts/2023-08-02-MergerFS.md %}). Tak nezoufejte! Microsoft má pro vás řešení (alespoň částečně)!
 
 ## Disky
 Chtěl jsem říci že se mi kolem váleli tyto disky, ale je to jen poloviční pravda. M.2 SATA SSD mělo krizi osobnosti a válejíce se kolem si hrálo na velkou flashku. SATA 3.5" 3TB HDD disk jsem si dokoupil z druhé ruky v podobě externího disku. 
