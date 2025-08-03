@@ -22,11 +22,12 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/o-dva-kroky-dal"
 url: "https://elpytel.github.io"
 github_username:  elPytel
-github_username:  Sunflavoured
+# github_username:  Sunflavoured
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.
