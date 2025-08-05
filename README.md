@@ -8,6 +8,7 @@
     - [Spuštění serveru](#spuštění-serveru)
   - [Nový blog-post](#nový-blog-post)
   - [Linky](#linky)
+  - [Zdroje:](#zdroje)
 
 ## Webová stránka
 [https://elpytel.github.io/o-dva-kroky-dal/](https://elpytel.github.io/o-dva-kroky-dal/)
@@ -65,3 +66,6 @@ Remember to include the file extension when using the link tag. To use it to cre
 
 - [stackoverflow: jekyll markdown internal links](https://stackoverflow.com/questions/4629675/jekyll-markdown-internal-links)
 - [jekyllrb: links](https://jekyllrb.com/docs/liquid/tags/#links)
+
+## Zdroje:
+- [jansim/cookbook](https://github.com/jansim/cookbook/tree/master)

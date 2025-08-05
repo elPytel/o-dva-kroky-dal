@@ -13,11 +13,9 @@ categories: garmin factory-reset
 
 # Garmin jak vyresetovat hodinky
 
-Dneska jsem si chtěl do svých hodinek nahrát trasu kolem Chorvatského ostrova Murter. Explor aplikaci trvalo celou věčnost nahrát předem navolenou trasu do hodinek. Restartoval jsem jak aplikaci, tak mobil. Nekonec jsme vyrazili na náš vyklo výlet bez navigace. 
+Dneska jsem si chtěl do svých hodinek nahrát trasu kolem Chorvatského ostrova [Murter]({{ site.baseurl }}{% link _posts/2025-07-14-Výlet-Murtet.md %}). Explor aplikaci trvalo celou věčnost nahrát předem navolenou trasu do hodinek. Restartoval jsem jak aplikaci, tak mobil. Nekonec jsme vyrazili na náš vyklo výlet bez navigace. 
 Cestou jsem se pokoušel aspoň zapnout navigaci po minulé trase, která byla sice místama odlišná, ale měla společný start, cíl a skoro půlku trasy. Poprvé to selhalo a hodinky se restartovali.
-Podruhé se mi to již povedlo, ale když jsem pipínal aktivitu z *navigovat* na *kolo*, tak se hodinky znovu restartovali. Tentokrát to však nešlo všechno tak hladce. Zlstali zaseklé v bootloopu...
-
-[Murter]({{ site.baseurl }}/gpx/Murter.gpx) - cyklo
+Podruhé se mi to již povedlo, ale když jsem pipínal aktivitu z *navigovat* na *kolo*, tak se hodinky znovu restartovali. Tentokrát to však nešlo všechno tak hladce. Zůstali zaseklé v bootloopu...
 
 Celý den jsem strávil s nápisem **Garmin** a hezkým trojuhelníčkem v místech, která běžně podporují můj navigační instinct všemožná data z hodinek které jsou military-grade, IP-všechno, odolné pro rekreační potápění a bůh ví co ještě. 
 
