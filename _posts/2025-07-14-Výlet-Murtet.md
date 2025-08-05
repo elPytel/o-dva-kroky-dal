@@ -2,12 +2,12 @@
 layout: post
 title: "Výlet na ostrov Murter"
 description: A description
-categories: ["turistika", "cyklo", "Murter"]
+categories: ["turistika", "cyklo", "Dalmacie", "Murter"]
 ---
 
 # Cyklo turistika v Chorvatsku
 
-Při našem tří-týdením dovolenkovém pobytu v Dalmácii jsme se několikrát vydali na výlet na ostrov Murter. Auto můžete zdarma nechat na prosotrném parkovišti v zálivu v Tisnu. 
+Při našem tří-týdením dovolenkovém pobytu v Dalmácii jsme se několikrát vydali na výlet na ostrov Murter. Auto můžete zdarma nechat na prostorném parkovišti v zálivu v Tisnu. 
 
 ## Tisno
 
