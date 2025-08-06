@@ -8,6 +8,9 @@
     - [Spuštění serveru](#spuštění-serveru)
   - [Nový blog-post](#nový-blog-post)
   - [Linky](#linky)
+  - [Layouts](#layouts)
+    - [cookbook](#cookbook)
+  - [recipe](#recipe)
 
 ## Webová stránka
 [https://elpytel.github.io/o-dva-kroky-dal/](https://elpytel.github.io/o-dva-kroky-dal/)
@@ -65,3 +68,18 @@ Remember to include the file extension when using the link tag. To use it to cre
 
 - [stackoverflow: jekyll markdown internal links](https://stackoverflow.com/questions/4629675/jekyll-markdown-internal-links)
 - [jekyllrb: links](https://jekyllrb.com/docs/liquid/tags/#links)
+
+## Layouts
+
+- [Layouts](https://jekyllrb.com/docs/layouts/)
+
+### cookbook
+
+- [recipe.html](https://github.com/jansim/cookbook/blob/master/_layouts/recipe.html)
+- [git: Amerikanische Pancakes](https://github.com/jansim/cookbook/blob/master/_recipes/Amerikanische%20Pancakes.md?plain=1)
+- [blog: Amerikanische Pancakes](https://simson.io/cookbook/recipes/Amerikanische-Pancakes/)
+
+## recipe
+
+- [gkeepapi](https://github.com/kiwiz/gkeepapi)
+- [gkeepapi documentation](https://gkeepapi.readthedocs.io/en/latest/)
