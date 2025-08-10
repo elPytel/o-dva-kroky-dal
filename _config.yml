@@ -23,6 +23,15 @@ baseurl: "/o-dva-kroky-dal"
 url: "https://elpytel.github.io"
 github_username:  elPytel
 # github_username:  Sunflavoured
+header_pages:
+  - recepty.md
+  - about.markdown
+
+collections:
+  recipes:
+    output: true
+    permalink: /_recipes/:name/
+
 # Build settings
 theme: minima
 plugins:

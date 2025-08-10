@@ -4,3 +4,7 @@ _site/
 .jekyll-cache/
 .jekyll-metadata
 vendor/
+
+*.config
+dont_include/*
+keep.json
