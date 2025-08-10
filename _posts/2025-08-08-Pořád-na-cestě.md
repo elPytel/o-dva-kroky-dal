@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Den druhý"
+title: "Pořád na cestě"
 description: "Pořád na cestě"
 categories: ["expedice", "Norsko"]
 ---

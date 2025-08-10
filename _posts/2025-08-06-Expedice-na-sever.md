@@ -26,4 +26,7 @@ Za tím vším je skládací postel. Auto je v prostoru zadních okýnek rozší
 
 Všude jsou poschovávany malé šuplíky a skříňky. 
 
+Ponorkový kapitáni v kriges marine zjistili že dva záchody jsou luxus, který si na měsíční plavbě posádka nemůže dovolit. Rozhodli se tak nacpat dodatečný proviant nejen do všech volných otvorů na lodi, ale i na druhý záchod.
+My ač vybavení pouze jedním záchodem jsme se rozhodli stejně. Víc jídla pro nás!
+
 Dnes naše dobrodružství započne. Čeká nás testovací spaní v kufru auta.
