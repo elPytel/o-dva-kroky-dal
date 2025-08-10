@@ -5,6 +5,18 @@ description: "Seznam aplikací pro Garmin hodinky"
 categories: ["garmin", "apps"]
 ---
 
+- [Garmin applikace](#garmin-applikace)
+	- [Navigace a mapy](#navigace-a-mapy)
+	- [Aplikace](#aplikace)
+		- [BaseCamp](#basecamp)
+			- [Instalace map](#instalace-map)
+		- [Instinct 2X](#instinct-2x)
+		- [Watch face](#watch-face)
+		- [Apps](#apps)
+			- [Navigace:](#navigace)
+			- [Pro jiné hodinky:](#pro-jiné-hodinky)
+
+
 # Garmin applikace
 
 Výhoda hodinek od Garminu je možnost doinstalovávání aplikací. Čím novější model, tím vyžší má verzi appi a tedy i petřější skálu fukcí, které by mohli jeho aplikace podporovat. 

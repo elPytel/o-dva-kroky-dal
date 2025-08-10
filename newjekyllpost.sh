@@ -13,7 +13,6 @@ layout: post
 title: "A title"
 description: A description
 categories: ["tag"]
-social_image: add here
 ---
 EOF
 
