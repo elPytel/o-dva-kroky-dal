@@ -6,3 +6,5 @@ _site/
 vendor/
 
 *.config
+dont_include/*
+keep.json
