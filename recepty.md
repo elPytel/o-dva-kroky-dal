@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Recepty
+title: Receptoár
 permalink: /recepty/
 ---
-
-# Recepty
 
 <ul>
   {% for recipe in site.recipes %}
