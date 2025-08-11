@@ -2,9 +2,6 @@
 
 import json
 import os
-import glob
-import uuid
-from datetime import datetime
 
 KEEP_JSON = "keep.json"
 RECIPES_FOLDER = "./_recipes"
@@ -21,13 +18,18 @@ title: {title}
 {content}
 """
 
+H1_list = [
+    "Ingredience:",
+    "Postup:",
+    "Zdroje:"
+]
+
 def format_content(note):
     content = note['content']
-    # za ":" musí být \n
-    content = content.replace(":", ":\n")
-    # před ingrediencemi musí být prázdný řádek
-    content = content.replace("Ingredience:", "\n# Ingredience:")
-    content = content.replace("Postup:", "\n# Postup:")
+    # :\n 
+    content = content.replace(":\n", ":\n\n")
+    for h1 in H1_list:
+        content = content.replace(h1, f"\n# {h1}")
     return content
 
 # from notes in list to .md files in _recipes

@@ -82,8 +82,25 @@ Remember to include the file extension when using the link tag. To use it to cre
 
 ## recipe
 
+Nejdříve jsem se snažil použít gkeepapi. Nepoužívají však pro přihlašování app-passwords, ale master-token, takže jsem se rozhodl pro jiný postup.
 - [gkeepapi](https://github.com/kiwiz/gkeepapi)
 - [gkeepapi documentation](https://gkeepapi.readthedocs.io/en/latest/)
+
+Jako najsnazší postup se ukázalo stáhnout exportovaná data z googlu jako zip. Následně upravit jednoduchý skript, který převede json soubory na markdown soubory s recepty.
+
+Převod exportovaných dat z Google Keep do jednoho jsonu:
+```bash
+python keep_to_simplenote.py
+```
+Script je upravený a očekává soubory v sectě: `./dont_include/Keep/`.
+
+Převod velkého json soubor na markdown soubory s recepty provede script:
+```bash
+python json2recipe.py
+```
+
+- [Google Takeout](https://takeout.google.com/)
+- [keep_to_simplenote.py](https://gist.github.com/echus/ce7cd43ec18edaad8105ca37349af41b#file-keep_to_simplenote-py)
 
 ## Zdroje:
 - [jansim/cookbook](https://github.com/jansim/cookbook/tree/master)
