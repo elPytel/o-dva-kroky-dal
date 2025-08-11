@@ -8,6 +8,7 @@
     - [Spuštění serveru](#spuštění-serveru)
   - [Nový blog-post](#nový-blog-post)
   - [Linky](#linky)
+  - [Obrázky](#obrázky)
   - [Layouts](#layouts)
     - [cookbook](#cookbook)
   - [recipe](#recipe)
@@ -69,6 +70,13 @@ Remember to include the file extension when using the link tag. To use it to cre
 
 - [stackoverflow: jekyll markdown internal links](https://stackoverflow.com/questions/4629675/jekyll-markdown-internal-links)
 - [jekyllrb: links](https://jekyllrb.com/docs/liquid/tags/#links)
+
+## Obrázky
+Pro zmenšení obrázků použijte příkaz:
+```bash
+mogrify -resize 1920x1920\> -quality 75 -strip *.jpg
+```
+Tento příkaz zmenší všechny obrázky v aktuálním adresáři na maximální rozměr 1920x1920 pixelů, nastaví kvalitu na 75 a odstraní metadata z obrázků.
 
 ## Layouts
 

@@ -15,24 +15,25 @@ Na poslední chvíli jsme ještě sháněli pláštěnkové kalhoty pro Eriku a 
 
 ## Norden kayaking packing
 
-    ☐ To-do
+    To-do:
         ☐ Koupit kšiltovku
         ☐ Aeropress
         ☐ Koupit tričko s dlouhým rukávem
-        ☐ Koupit oříšky/sušené maso/sušené ovoce/bonbony
-    ☐ Packing list
-        ☐ Několik rukavic
-        ☐ Karimatky
-        ☐ Set na karimatky
-        ☐ Péřovky
-        ☐ Žárovka do stanu
-        ☐ Repelenty
-    ☑ Povlak na karimatky
-    ☑ Návleky na polštáře
-    ☑ Čelovky
-    ☑ Coudaky proti komárům
-    ☑ Sítkové organizátory na oblečení
-    ☑ Pláštěnkové kalhoty pro Eriku
+        ☑ Koupit oříšky/sušené maso/sušené ovoce/bonbony
+
+    Packing list:
+        ☑ Několik rukavic
+        ☑ Karimatky
+        ☑ Set na karimatky
+        ☑ Péřovky
+        ☑ Žárovka do stanu
+        ☑ Repelenty
+        ☑ Povlak na karimatky
+        ☑ Návleky na polštáře
+        ☑ Čelovky
+        ☑ Coudaky proti komárům
+        ☑ Sítkové organizátory na oblečení
+        ☑ Pláštěnkové kalhoty pro Eriku
 
 ## 6.8. Přesun do Něměcka
 
@@ -51,3 +52,5 @@ Ponorkový kapitáni v kriges marine zjistili že dva záchody jsou luxus, kter�
 My ač vybavení pouze jedním záchodem jsme se rozhodli stejně. Víc jídla pro nás!
 
 Dnes naše dobrodružství započne. Čeká nás testovací spaní v kufru auta.
+
+![nosič s loděmi]({{ site.baseurl }}/assets/fotky/IMG_20250807_135736151_HDR.jpg)

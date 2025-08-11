@@ -17,6 +17,8 @@ Další patra:
 - 10 - restaurace, krámek a bar,
 - 11 - vyhládková paluba.
 
+![Erička viking]({{ site.baseurl }}/assets/fotky/IMG_20250807_234435868.jpg)
+
 Od okamžiku kdy loď vyplouvá, tak jsou garážové paluby uzamčeny, takže si dobře rozmislete, co si sebou budete chtít vzít. 
 
 Pokud se rozhodnete někdy nocovat na lodi TT-line, tak máte několik možností. My jsme zvolili tu ne zcela ideální, někdo by řekl nejvíce zážitkovou (Erika prohlásila rovnou nejjextrémnější).

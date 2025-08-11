@@ -7,7 +7,7 @@ categories: ["expedice", "Švédsko"]
 
 # Den druhý
 
-Program se nese ve stejném duchu jako včerejšek. Jen s tím rozdílem že všichni pospáváme na růných místech auta. Štefan tedy opět řídí už má vyhlídlé místo kde by jsme mohli spát. Je na programu asi 600 km. Po cestičkách si to hočíme pohodovou rychlostí 83 km/h (aspoň to udává tempomat) a se spotřebou 11.8/100 l/km. 
+Program se nese ve stejném duchu jako včerejšek. Jen s tím rozdílem že všichni pospáváme na růných místech auta. Štefan tedy opět řídí už má vyhlídlé místo kde by jsme mohli spát. Je na programu asi 600 km. Po cestičkách si to hučíme pohodovou rychlostí 83 km/h (aspoň to udává tempomat) a se spotřebou 11.8/100 l/km. 
 
 ## Tak jsme na místě
 
@@ -22,7 +22,10 @@ Nečekalo nás žádné vynošené půlky auta, modlenení se aby nezačalo prš
 Štefan zapl bojler a otevřel zasloužené 2l brankáře v petce. Lola v hluboké pánvi ohřála brambory a vedle v konvici postavila vodu na čaj. Špinavé nádobí jsme z části umyli v dřezu, z části v kýbli venku, ale horkou vodou!
 
 To se vlastně ani nedá srovnávat. 
+
 "To je ale hnusné pivo." Prohlásil Štefan a napil se znovu z 2l brankáře. 
+
+![Štefan a Braníci]({{ site.baseurl }}/assets/fotky/IMG_20250808_172057610_HDR.jpg)
 
 Zažíváme první otázku naší splečné harmonizace na naší právě. Rozkládáme spaní. Dnes nás porpvé čeká spát všechny čtyři pod jednou střechou našeho domečku na kolečkých. Místa v tu fakt není na zbyt. Pokud se dva lidi v autě (eg jeden na posteli a druhý v kuchyni/východ/zadní sedačka) chtějí vyhnout tak je to logistická úloha asi na takové úrovni, jako zásobování německých vojsk za druhé světové války v severní Africe. A to jsme do toho ještě nepřidali skládací shody do druhého patra a to nemluvě o dalších dvou lidech...
 

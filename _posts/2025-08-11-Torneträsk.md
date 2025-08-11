@@ -6,8 +6,8 @@ categories: ["expedice", "Švédsko"]
 ---
 
 # 11.8. Den 5
-Konečně jsme dorazili do prvního cíle naší expedice, na břeh jezera Tornetrask.
-Nadmořská výška 336m a předpověď pro dnešní den ne 14°C, mírně zataženo a 10% šance na déšť. 
+Konečně jsme dorazili do prvního cíle naší expedice, na břeh jezera Torneträsk.
+Nadmořská výška 336 m a předpověď pro dnešní den je 14°C, mírně zataženo a 10% šance na déšť.
 
 | událost | čas |
 | --- | --- |
@@ -16,14 +16,18 @@ Nadmořská výška 336m a předpověď pro dnešní den ne 14°C, mírně zata�
 | Svítání | 2:14 |
 | Rozbřesk | 3:52 |
 
-Cestou jsme přijeli kolem důlního města Kiruna. Těží se ude železná ruda ve velkém. Přesunuli celý kopec. Je to opravdu malé městečko. Zimi tu budou asi dost kruté. Většina domů vypadá jako nová zástavba takové malé paneláky a jsou nasackovane blízko sebe, dost možná mají propojená přízemí aby člověk nemusel v zimě ven.
+Cestou jsme projeli kolem důlního města Kiruna. Těží se zde železná ruda ve velkém. Přesunuli celý kopec. Je to opravdu malé městečko. Zimy tu budou asi dost kruté. Většina domů vypadá jako nová zástavba, takové malé paneláky, a jsou nasáčkované blízko sebe. Dost možná mají propojená přízemí, aby člověk nemusel v zimě ven.
 
-Máme výhled na okolní holé kopce vysoké jako Ještěd. Na nich je ke spatření pořád ještě sníh.
+![Staré věže u Kiruny]({{ site.baseurl }}/assets/fotky/IMG_20250811_122457617_HDR.jpg)
 
-Vodu z oliv lejte rovnou do salátů. Ve vodě z párků uvařte kinou.
+Lesy pomalu mizí ve prospěch zakrslým břízám.
+
+Máme výhled na okolní holé kopce vysoké jako Ještěd. Na nich je pořád ještě k vidění sníh.
+
+Vodu z oliv lijte rovnou do salátů. Ve vodě z párků uvařte quinou.
 
 Štefan testuje svůj benzínový vařič.
 
-Trochu se zatáhlo a začalo foukat. Prevlekam se do tlustších kalhot, mikiny a bundy.
+Trochu se zatáhlo a začalo foukat. Převlékám se do tlustších kalhot, mikiny a bundy.
 
-Čeká nás balení na tři dny na jezeře. Chceme si dnes před balit všechny potřebné věci aby jsme zítra mohli už rovnou hodit věci na vodu a vyplout.
+Čeká nás balení na tři dny na jezeře. Chceme si dnes předbalit všechny potřebné věci, abychom zítra mohli už rovnou hodit věci na vodu a vyplout.
