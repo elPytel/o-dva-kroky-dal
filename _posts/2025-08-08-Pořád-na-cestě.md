@@ -2,7 +2,7 @@
 layout: post
 title: "Pořád na cestě"
 description: "Pořád na cestě"
-categories: ["expedice", "Norsko"]
+categories: ["expedice", "Švédsko"]
 ---
 
 # Den druhý

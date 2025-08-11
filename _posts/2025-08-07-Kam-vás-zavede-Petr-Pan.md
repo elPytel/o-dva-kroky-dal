@@ -2,7 +2,7 @@
 layout: post
 title: "Den první"
 description: "Cesta lodí"
-categories: ["expedice", "Norsko"]
+categories: ["expedice", "Švédsko"]
 ---
 
 # Den první

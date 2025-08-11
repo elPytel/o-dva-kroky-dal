@@ -2,7 +2,7 @@
 layout: post
 title: "Expedice na sever"
 description: "Ve výru příprav."
-categories: ["expedice", "Norsko"]
+categories: ["expedice", "Švédsko"]
 ---
 
 # Rodiná dovolená 2
@@ -12,6 +12,27 @@ Před týdnem jsme se vrátili ze třech týdnů strávených koupáním a rekre
 Už jsme se nemohli dočkat, celý výkend jsme postupně snášeli naše věci na hromadu a sdělovali si štastná provolání o tom, jak už se zase těšíme za dobrodružstvím. 
 
 Na poslední chvíli jsme ještě sháněli pláštěnkové kalhoty pro Eriku a sítkové organizátory na oblečení z DMka.
+
+## Norden kayaking packing
+
+    ☐ To-do
+        ☐ Koupit kšiltovku
+        ☐ Aeropress
+        ☐ Koupit tričko s dlouhým rukávem
+        ☐ Koupit oříšky/sušené maso/sušené ovoce/bonbony
+    ☐ Packing list
+        ☐ Několik rukavic
+        ☐ Karimatky
+        ☐ Set na karimatky
+        ☐ Péřovky
+        ☐ Žárovka do stanu
+        ☐ Repelenty
+    ☑ Povlak na karimatky
+    ☑ Návleky na polštáře
+    ☑ Čelovky
+    ☑ Coudaky proti komárům
+    ☑ Sítkové organizátory na oblečení
+    ☑ Pláštěnkové kalhoty pro Eriku
 
 ## 6.8. Přesun do Něměcka
 

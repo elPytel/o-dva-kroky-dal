@@ -2,7 +2,7 @@
 layout: post
 title: "Torneträsk"
 description: "Na břehu jezera Torneträsk."
-categories: ["expedice", "Norsko"]
+categories: ["expedice", "Švédsko"]
 ---
 
 # 11.8. Den 5
