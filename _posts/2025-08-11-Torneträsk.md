@@ -30,4 +30,10 @@ Vodu z oliv lijte rovnou do salátů. Ve vodě z párků uvařte quinou.
 
 Trochu se zatáhlo a začalo foukat. Převlékám se do tlustších kalhot, mikiny a bundy.
 
+Vemte si v létě do severního Švédska:
+- Podvlíkačky
+- Zimní bundu
+
+Večer klesá teplota k 8°C a fouká vítr.
+
 Čeká nás balení na tři dny na jezeře. Chceme si dnes předbalit všechny potřebné věci, abychom zítra mohli už rovnou hodit věci na vodu a vyplout.
