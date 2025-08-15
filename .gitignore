@@ -9,4 +9,4 @@ vendor/
 dont_include/*
 keep.json
 
-workspace.json
+.obsidian/workspace.json

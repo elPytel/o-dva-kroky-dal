@@ -4,11 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "8ab4a1bfedb9707b",
+        "id": "dc7aed8008a3e30f",
         "type": "tabs",
         "children": [
           {
             "id": "8cad3438145dca9a",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "assets/fotky/IMG_20250815_125006671_HDR.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "IMG_20250815_125006671_HDR"
+            }
+          }
+        ]
+      },
+      {
+        "id": "babcaff28cf59b47",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "64352625c7916614",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -168,34 +186,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8cad3438145dca9a",
+  "active": "64352625c7916614",
   "lastOpenFiles": [
-    "_site/assets/fotky/IMG_20250813_124113225.jpg",
+    "assets/fotky/IMG_20250815_125006671_HDR.jpg",
+    "_posts/2025-08-15-Hamn.md",
+    "_posts/2025-08-14-Cesta-k-moři.md",
+    "assets/fotky/IMG_20250814_092938284_HDR.jpg",
+    "assets/fotky/IMG_20250814_092747928_HDR.jpg",
+    "assets/fotky/IMG_20250814_091645594.jpg",
+    "_posts/2025-08-13-Výlez-za-vodopádem.md",
+    "assets/fotky/IMG_20250813_193036516.jpg",
+    "assets/fotky/IMG_20250813_175446777_HDR.jpg",
+    "assets/fotky/IMG_20250813_162509793_HDR.jpg",
+    "_posts/2025-08-12-Výlet-na-jezero.md",
+    "assets/fotky/IMG_20250813_142321451_HDR.jpg",
+    "assets/fotky/IMG_20250813_130742052_HDR.jpg",
     "assets/fotky/IMG_20250813_124113225.jpg",
+    "_posts/2025-08-10-Pořád-na-cestě-3.md",
+    "assets/fotky/IMG_20250810_130752288_HDR.jpg~",
+    "assets/fotky/IMG_20250810_115428572_HDR.jpg~",
+    "assets/fotky/IMG_20250808_172057610_HDR.jpg~",
+    "assets/fotky/IMG_20250807_135736151_HDR.jpg~",
     "assets/fotky/IMG_20250815_125006671_HDR.jpg~",
     "assets/fotky/IMG_20250814_092938284_HDR.jpg~",
     "assets/fotky/IMG_20250814_092747928_HDR.jpg~",
     "assets/fotky/IMG_20250814_091645594.jpg~",
     "assets/fotky/IMG_20250813_193036516.jpg~",
     "assets/fotky/IMG_20250813_175446777_HDR.jpg~",
-    "assets/fotky/IMG_20250813_162509793_HDR.jpg~",
-    "assets/fotky/IMG_20250813_142321451_HDR.jpg~",
-    "assets/fotky/IMG_20250813_130742052_HDR.jpg~",
-    "assets/fotky/IMG_20250813_124113225_MF_PORTRAIT.jpg~",
-    "_site/assets/fotky/IMG_20250815_125006671_HDR.jpg",
-    "assets/fotky/IMG_20250815_125006671_HDR.jpg",
-    "_site/assets/fotky/IMG_20250814_092938284_HDR.jpg",
-    "assets/fotky/IMG_20250814_092938284_HDR.jpg",
-    "_site/assets/fotky/IMG_20250814_092747928_HDR.jpg",
-    "assets/fotky/IMG_20250814_092747928_HDR.jpg",
-    "_site/assets/fotky/IMG_20250814_091645594.jpg",
-    "assets/fotky/IMG_20250814_091645594.jpg",
-    "_site/assets/fotky/IMG_20250813_193036516.jpg",
     "_site/kategorie.md",
     "kategorie.md",
-    "_posts/2025-08-11-Torneträsk.md",
-    "_posts/2025-08-13-Výlez-za-vodopádem.md",
-    "_posts/2025-08-14-Cesta-k-moři.md",
-    "_posts/2025-08-15-Hamn.md"
+    "_posts/2025-08-11-Torneträsk.md"
   ]
 }

@@ -3,11 +3,14 @@ layout: post
 title: "Cesta k moři"
 description: "Na cestě do Norska."
 categories: ["expedice", "Norsko"]
+thumbnail: /assets/fotky/IMG_20250814_092747928_HDR.jpg
 ---
 
 # Balíme tábor
 Celé dopoledne balíme věci do lodí. Musíme složit všechny tři stany, rozebrat židličky a stolečky, zabalit se do pytlů a přeplout jezeru na druhou stranu. Zkouším navigaci na hodinkách k předem uloženému místu. Má nám pomoci se navést na správné místo na druhé straně jezera. 
-
+![IMG_20250814_091645594.jpg]({{ site.baseurl }}/assets/fotky/IMG_20250814_091645594.jpg)
+![IMG_20250814_092747928_HDR.jpg]({{ site.baseurl }}/assets/fotky/IMG_20250814_092747928_HDR.jpg)
+![IMG_20250814_092938284_HDR.jpg]({{ site.baseurl }}/assets/fotky/IMG_20250814_092938284_HDR.jpg)
 ## Víte jak poznáte že jste v Norsku? Všude jsou Tesly.
 
 Poslední ICA (nákupák) před hranicemi, největší konec světa a jsou tu čtyři rychlonabíječky na elektro auta. Na parkovišti míjíme dvě Tesly s Norsku poznávací značkou.
