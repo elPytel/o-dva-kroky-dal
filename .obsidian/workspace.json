@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "fb9282317ecefe68",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ab4a1bfedb9707b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8cad3438145dca9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2025-08-13-Výlez-za-vodopádem.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-08-13-Výlez-za-vodopádem"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "25f1e6abf88ffbbb",
+    "type": "split",
+    "children": [
+      {
+        "id": "c4fed2d9e27f3d23",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8bb953af2c05f57c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "665b7093edde1459",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5bdb878e229d70bc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "72ff75b0d6a578b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "27222447c67da539",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac72873255af0d22",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_posts/2025-08-13-Výlez-za-vodopádem.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2025-08-13-Výlez-za-vodopádem"
+            }
+          },
+          {
+            "id": "597260955dd23eb9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_posts/2025-08-13-Výlez-za-vodopádem.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2025-08-13-Výlez-za-vodopádem"
+            }
+          },
+          {
+            "id": "eacf57016bbc574e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f512757aac753781",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_posts/2025-08-13-Výlez-za-vodopádem.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2025-08-13-Výlez-za-vodopádem"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8cad3438145dca9a",
+  "lastOpenFiles": [
+    "_site/expedice/švédsko/2025/08/13/Výlez-za-vodopádem.html",
+    "_site/expedice/švédsko/2025/08/13",
+    "_site/2025/08/13/Výlez-za-vodopádem.html",
+    "_site/2025/08/13",
+    "_site/2025/08",
+    "_site/2025",
+    "_posts/2025-08-14-Cesta-k-moři.md",
+    "_posts/2025-08-15-Hamn.md"
+  ]
+}
