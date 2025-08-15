@@ -26,6 +26,7 @@ github_username:  elPytel
 # github_username:  Sunflavoured
 header_pages:
   - recepty.md
+  - kategorie.md
   - about.markdown
 
 collections:
