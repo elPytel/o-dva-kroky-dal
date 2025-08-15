@@ -35,7 +35,9 @@ Erika se rozhodla takového zážitku pro jistotu úplně zdržet. Začali jsme 
 Přešli jsme do kokpitu naše obytného vozu a v prostoru nad hlavou nad sedačkami jsme začali opět zapínat jednotlivé systémy vozu stejně jako to dělají v helikoptérách řady black-hawk.
 
 Voda ... checked!
+
 Mněnič... checked!
+
 Čerpadlo ... checked!
 
 Vše zatím nad očekávání naběhlo. Přešli jsme do střední části a začali na otočném voliči subsystému pro hybridní disel-ektrický ohřev vody spouštět jednotlivé funkce. 

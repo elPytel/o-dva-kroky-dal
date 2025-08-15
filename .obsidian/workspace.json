@@ -170,12 +170,17 @@
   },
   "active": "8cad3438145dca9a",
   "lastOpenFiles": [
+    "_includes/post-navigation.html",
+    "_layouts/post-navigation.html",
+    "assets/main.scss",
+    "_layouts/post.html",
+    "_layouts/page.html",
+    "_layouts/home.html",
+    "_layouts/default.html",
     "_site/expedice/švédsko/2025/08/13/Výlez-za-vodopádem.html",
     "_site/expedice/švédsko/2025/08/13",
     "_site/2025/08/13/Výlez-za-vodopádem.html",
     "_site/2025/08/13",
-    "_site/2025/08",
-    "_site/2025",
     "_posts/2025-08-14-Cesta-k-moři.md",
     "_posts/2025-08-15-Hamn.md"
   ]
