@@ -3,6 +3,7 @@ layout: post
 title: "Den první"
 description: "Cesta lodí"
 categories: ["expedice", "Švédsko"]
+thumbnail: /assets/fotky/IMG_20250807_234435868.jpg
 ---
 
 # Den první

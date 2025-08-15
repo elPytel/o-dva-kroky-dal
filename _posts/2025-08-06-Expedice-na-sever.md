@@ -3,6 +3,7 @@ layout: post
 title: "Expedice na sever"
 description: "Ve výru příprav."
 categories: ["expedice", "Švédsko"]
+thumbnail: /assets/fotky/IMG_20250807_135736151_HDR.jpg
 ---
 
 # Rodiná dovolená 2

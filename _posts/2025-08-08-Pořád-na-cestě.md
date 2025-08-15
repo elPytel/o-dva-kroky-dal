@@ -3,6 +3,7 @@ layout: post
 title: "Pořád na cestě"
 description: "Pořád na cestě"
 categories: ["expedice", "Švédsko"]
+thumbnail: /assets/fotky/IMG_20250808_172057610_HDR.jpg
 ---
 
 # Den druhý

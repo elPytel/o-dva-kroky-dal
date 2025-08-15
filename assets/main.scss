@@ -4,6 +4,30 @@
 
 @import "minima";
 
+.post-description {
+  font-style: italic;
+  color: #555;
+  margin-top: 0.3em;
+}
+
+.post-categories {
+  font-size: 0.9em;
+  color: #777;
+}
+
+.post-thumbnail {
+  float: right;
+  margin-bottom: 1em;
+}
+
+.post-thumbnail img {
+  border-radius: 10px;
+  max-height: 140px; 
+  width: auto;
+  height: auto;
+  object-fit: cover; 
+}
+
 .post-navigation {
   display: flex;
   justify-content: space-between;
