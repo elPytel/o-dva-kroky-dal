@@ -9,4 +9,9 @@ vendor/
 dont_include/*
 keep.json
 
-.obsidian/workspace.json
+
+### Obsidian ###
+# config dir
+.obsidian/
+
+#workspace.json
