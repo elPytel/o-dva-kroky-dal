@@ -1,8 +1,10 @@
 ---
 layout: post
-title: "Universal Downloader"
-description: "Program pro stahování různých typů souborů z internetu"
-categories: Python
+title: Universal Downloader
+description: Program pro stahování různých typů souborů z internetu
+categories:
+  - Python
+thumbnail: https://github.com/elPytel/Universal_downloader/raw/main/assets/app.png
 ---
 
 - [Pohled do histore](#pohled-do-histore)

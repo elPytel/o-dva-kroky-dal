@@ -3,6 +3,7 @@ layout: post
 title:  "Nokia N900 a hry"
 date:   2025-07-20 15:11:11 +0200
 categories: n900 games
+thumbnail: https://raw.githubusercontent.com/elPytel/nokia-n900-notes/refs/heads/main/assets/Screenshots/Screenshot-20250717-221611.png
 ---
 
 # Pokémoni 

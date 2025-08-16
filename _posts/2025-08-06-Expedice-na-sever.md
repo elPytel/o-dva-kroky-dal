@@ -23,27 +23,27 @@ Na poslední chvíli jsme ještě sháněli pláštěnkové kalhoty pro Eriku a 
         ☑ Koupit oříšky/sušené maso/sušené ovoce/bonbony
 
     Packing list:
-        ☑ Několik rukavic
+        ☑ Repelenty
+        ☑ Coudaky proti komárům
         ☑ Karimatky
         ☑ Set na karimatky
-        ☑ Péřovky
-        ☑ Žárovka do stanu
-        ☑ Repelenty
         ☑ Povlak na karimatky
         ☑ Návleky na polštáře
         ☑ Čelovky
-        ☑ Coudaky proti komárům
+        ☑ Žárovka do stanu
+        ☑ Péřovky
+        ☑ Několik rukavic
         ☑ Sítkové organizátory na oblečení
         ☑ Pláštěnkové kalhoty pro Eriku
 
-## 6.8. Přesun do Něměcka
+## 6.8. Přesun do Německa
 
 Na cestu se k nám přidal ještě Dan. 
 
 U Štefana na zahradě jsme se přebalili do Mercedesu 4x4 v přestavbě obytnák. Je to raketa, teda obrazně, aspoň co se týče interiéru. Už vím jak se musí cítit kosmonauti vysláni do vesmíru na palubě raketoplánu. 
-Vybavení automobilu se sestává z předních sedaček, skladného stolku (o chlub menšího než najdete v českých drahách), druhé řady 1,5 sedačka, kde člověka zachranuje to že, jeden může s trochou snahy mít vystrčenou hlavu z okénka a druhý sedět s nohou do uličky. 
+Vybavení automobilu se sestává z předních sedaček, skladného stolku (o chlub menšího než najdete v českých drahách), druhé řady 1,5 sedačka, kde člověka zachraňuje to že, jeden může s trochou snahy mít vystrčenou hlavu z okénka a druhý sedět s nohou do uličky. 
 
-Pak následuje chodbyčka do zadu. Na straně u vysouvacích dveří je malý sporák a hned vedle něho mikro dřez. Máme plyn a tekoucí vodu! Když zatopíme tak i teplou, kdo to má? Poslední kus vybavení kuchynǩy je lednička, který prokáže zda mé skóre z tetrisu bylo zýskáno oprávněně či ne. Na druhé straně komnata nejvyšší potřeby. Sprcha s roztahovacím závěsem, záchod, vyklápecí umyvadlo a vytahovací kohoutek co se mění na sprchovou hlavici, zrcadlo a skříňka na kartáčky, malé okénko a to vše ve dvou metrech krychlových! No dobře to přeháním, zas tak ta místnost velká není...
+Pak následuje chodbička dozadu. Na straně u vysouvacích dveří je malý sporák a hned vedle něho mikro dřez. Máme plyn a tekoucí vodu! Když zatopíme tak i teplou, kdo to má? Poslední kus vybavení kuchyňky je lednička, který prokáže zda mé skóre z tetrisu bylo získáno oprávněně či ne. Na druhé straně komnata nejvyšší potřeby. Sprcha s roztahovacím závěsem, záchod, vyklápěcí umyvadlo a vytahovací kohoutek co se mění na sprchovou hlavici, zrcadlo a skříňka na kartáčky, malé okénko a to vše ve dvou metrech krychlových! No dobře to přeháním, zas tak ta místnost velká není...
 
 Za tím vším je skládací postel. Auto je v prostoru zadních okýnek rozšířené o plastové váklenka na obě starany, které zýskávají pro postel rozměr 185 cm, což je tak minimum aby člověk mé délky 175 cm, tak akorát byl shopen pohodlně natáhnout. 
 
@@ -55,3 +55,7 @@ My ač vybavení pouze jedním záchodem jsme se rozhodli stejně. Víc jídla p
 Dnes naše dobrodružství započne. Čeká nás testovací spaní v kufru auta.
 
 ![nosič s loděmi]({{ site.baseurl }}/assets/fotky/IMG_20250807_135736151_HDR.jpg)
+
+Postup našeho dobrodružství také popisuje souběžně Štefan na svém blog:
+
+[wildnorthernkayakingadventures.com](https://wildnorthernkayakingadventures.com/2025/08/07/2025-08_nur-noch-gen-nord/)
