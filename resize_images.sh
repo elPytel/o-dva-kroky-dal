@@ -18,7 +18,7 @@ function Help() {
 	echo
 	echo "Options:"
 	echo "-s source         source foulcer"
-	echo "-c compresion     Compresion quality, defoult 75"
+	echo "-c compresion     Compresion quality, defoult: 75"
 	echo "-h                Description of the script operation"
 }
 
