@@ -35,7 +35,7 @@ do
 done
 
 # Projít všechny JPG soubory ve složce
-for img in $(ls "$PHOTO_DIR"*.jpg); do
+for img in $(ls "${PHOTO_SOURCE_DIR}"*.jpg); do
     # Zjistit velikost souboru v bytech
     FILE_SIZE=$(stat -c %s "$img")
 

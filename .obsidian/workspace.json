@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2025-08-16-Další-trajekt.md",
+                "file": "_posts/2025-08-25-Odjezd.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-08-16-Další-trajekt"
+              "title": "2025-08-25-Odjezd"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 321.5
   },
   "right": {
     "id": "72ff75b0d6a578b1",
@@ -168,8 +168,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8bb953af2c05f57c",
+  "active": "64352625c7916614",
   "lastOpenFiles": [
+    "assets/fotky/IMG_20250823_113320427.jpg",
+    "assets/fotky/IMG_20250823_104438346.jpg",
+    "assets/fotky/IMG_20250821_182851172_HDR.jpg",
+    "assets/fotky/IMG_20250821_141104321_HDR.jpg",
+    "assets/fotky/IMG_20250820_181531245_HDR.jpg",
+    "assets/fotky/IMG_20250820_153506926_HDR.jpg",
+    "assets/fotky/IMG_20250820_131207871_HDR.jpg",
+    "assets/fotky/IMG_20250820_130622776_HDR.jpg",
+    "assets/fotky/IMG_20250820_130033182_HDR.jpg",
+    "assets/fotky/IMG_20250820_125347139.jpg",
+    "assets/fotky/IMG_20250820_150153.jpg",
+    "_posts/2025-08-22-Život-na-Matrefjordu.md",
+    "_posts/2025-08-21-První-nový-den-na-břehu-zálivu.md",
+    "_posts/2025-08-20-Matrefjord.md",
+    "_posts/2025-08-17-Dlouhá-cesta-na-jih.md",
+    "_posts/2025-08-16-Další-trajekt.md",
     "_site/garmin/factory-reset/2025/07/14/Garmin-factory-reset.html",
     "_site/garmin/factory-reset/2025/07/14",
     "_site/garmin/factory-reset/2025/07",
@@ -180,14 +196,8 @@
     "_site/2025/08",
     "_site/2025",
     "_site/garmin/apps/2025/03/02/Garmin-apps.html",
-    "_site/garmin/apps/2025/03/02",
     "_posts/2025-08-11-Torneträsk.md",
-    "_posts/2025-08-16-Další-trajekt.md",
     "_posts/2025-08-06-Expedice-na-sever.md",
-    "_site/assets/fotky/IMG_20250815_151629679.jpg",
-    "assets/fotky/IMG_20250815_151629679.jpg",
-    "_site/big_photos/IMG_20250815_151629679.jpg",
-    "big_photos/IMG_20250815_151629679.jpg",
     "_posts/2025-08-08-Pořád-na-cestě.md",
     "2025-08-16-Další-trajekt.md",
     "_posts/2025-08-07-Kam-vás-zavede-Petr-Pan.md",
@@ -198,22 +208,13 @@
     "_posts/2025-03-02-Garmin-apps.md",
     "_posts/2025-02-14-Universal_downloader.md",
     "_posts/2024-08-02-desktop.md",
-    "assets/pc/správce úloh.PNG",
     "_posts/2023-08-02-MergerFS.md",
     "_posts/2023-08-01-Pripojovani-disku-pod-Linuxem.md",
     "_posts/2024-04-13-Storage_Spaces.md",
     "2025-08-16-Výlez-za-vodopádem.md",
     "_posts/2025-08-15-Hamn.md",
-    "assets/fotky/IMG_20250815_125006671_HDR.jpg",
     "_posts/2025-08-14-Cesta-k-moři.md",
-    "assets/fotky/IMG_20250814_092938284_HDR.jpg",
-    "assets/fotky/IMG_20250814_092747928_HDR.jpg",
-    "assets/fotky/IMG_20250814_091645594.jpg",
     "_posts/2025-08-13-Výlez-za-vodopádem.md",
-    "assets/fotky/IMG_20250813_193036516.jpg",
-    "_posts/2025-08-12-Výlet-na-jezero.md",
-    "_posts/2025-08-10-Pořád-na-cestě-3.md",
-    "_site/kategorie.md",
-    "kategorie.md"
+    "_posts/2025-08-12-Výlet-na-jezero.md"
   ]
 }
