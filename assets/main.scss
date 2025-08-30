@@ -1,0 +1,49 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+.post {
+  text-align: justify;
+}
+
+.post-description {
+  font-style: italic;
+  color: #555;
+  margin-top: 0.3em;
+}
+
+.post-categories {
+  font-size: 0.9em;
+  color: #777;
+}
+
+.post-thumbnail {
+  float: right;
+  margin-bottom: 1em;
+}
+
+.post-thumbnail img {
+  border-radius: 10px;
+  max-height: 140px; 
+  width: auto;
+  height: auto;
+  object-fit: cover; 
+}
+
+.post-navigation {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 2em;
+  font-size: 0.9em;
+
+  a {
+    text-decoration: none;
+    color: #007acc;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}

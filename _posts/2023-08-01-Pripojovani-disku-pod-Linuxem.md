@@ -3,6 +3,7 @@ layout: post
 title: "Připojování disků pod Linuxem"
 description: "Jak připojit disky pod Linuxem"
 categories: ["Linux", "Disk"]
+thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/506px-Tux.svg.png
 ---
 
 # Připojování disků pod Linuxem

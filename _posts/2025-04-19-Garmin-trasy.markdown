@@ -3,6 +3,7 @@ layout: post
 title:  "Garmin trasy"
 date:   2025-04-19 09:24:06 +0200
 categories: garmin gpx
+thumbnail: https://cdn.iconscout.com/icon/free/png-256/free-garmin-3628786-3030148.png
 ---
 
 # Garmin trasy

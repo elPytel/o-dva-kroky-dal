@@ -16,6 +16,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: O dva kroky dál
+author: Erika a Jarda
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Náš společný blog pro mě a Eriku. Budeme sem sdílet náš Děníček (o tom co se zrovna děje a stojí to poslat dál), mapy z našich výletů a GPX soubory, recepty vyexportované z google keepu a další.
@@ -23,6 +24,16 @@ baseurl: "/o-dva-kroky-dal"
 url: "https://elpytel.github.io"
 github_username:  elPytel
 # github_username:  Sunflavoured
+header_pages:
+  - recepty.md
+  - kategorie.md
+  - about.markdown
+
+collections:
+  recipes:
+    output: true
+    permalink: /_recipes/:name/
+
 # Build settings
 theme: minima
 plugins:

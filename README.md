@@ -8,6 +8,10 @@
     - [Spuštění serveru](#spuštění-serveru)
   - [Nový blog-post](#nový-blog-post)
   - [Linky](#linky)
+  - [Obrázky](#obrázky)
+  - [Layouts](#layouts)
+    - [cookbook](#cookbook)
+  - [recipe](#recipe)
   - [Zdroje:](#zdroje)
 
 ## Webová stránka
@@ -66,6 +70,45 @@ Remember to include the file extension when using the link tag. To use it to cre
 
 - [stackoverflow: jekyll markdown internal links](https://stackoverflow.com/questions/4629675/jekyll-markdown-internal-links)
 - [jekyllrb: links](https://jekyllrb.com/docs/liquid/tags/#links)
+
+## Obrázky
+Pro zmenšení obrázků použijte příkaz:
+```bash
+mogrify -resize 1920x1920\> -quality 75 -strip *.jpg
+```
+Tento příkaz zmenší všechny obrázky v aktuálním adresáři na maximální rozměr 1920x1920 pixelů, nastaví kvalitu na 75 a odstraní metadata z obrázků.
+
+## Layouts
+
+- [Layouts](https://jekyllrb.com/docs/layouts/)
+
+### cookbook
+
+- [recipe.html](https://github.com/jansim/cookbook/blob/master/_layouts/recipe.html)
+- [git: Amerikanische Pancakes](https://github.com/jansim/cookbook/blob/master/_recipes/Amerikanische%20Pancakes.md?plain=1)
+- [blog: Amerikanische Pancakes](https://simson.io/cookbook/recipes/Amerikanische-Pancakes/)
+
+## recipe
+
+Nejdříve jsem se snažil použít gkeepapi. Nepoužívají však pro přihlašování app-passwords, ale master-token, takže jsem se rozhodl pro jiný postup.
+- [gkeepapi](https://github.com/kiwiz/gkeepapi)
+- [gkeepapi documentation](https://gkeepapi.readthedocs.io/en/latest/)
+
+Jako najsnazší postup se ukázalo stáhnout exportovaná data z googlu jako zip. Následně upravit jednoduchý skript, který převede json soubory na markdown soubory s recepty.
+
+Převod exportovaných dat z Google Keep do jednoho jsonu:
+```bash
+python keep_to_simplenote.py
+```
+Script je upravený a očekává soubory v sectě: `./dont_include/Keep/`.
+
+Převod velkého json soubor na markdown soubory s recepty provede script:
+```bash
+python json2recipe.py
+```
+
+- [Google Takeout](https://takeout.google.com/)
+- [keep_to_simplenote.py](https://gist.github.com/echus/ce7cd43ec18edaad8105ca37349af41b#file-keep_to_simplenote-py)
 
 ## Zdroje:
 - [jansim/cookbook](https://github.com/jansim/cookbook/tree/master)
