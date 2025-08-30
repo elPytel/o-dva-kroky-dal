@@ -7,6 +7,9 @@ categories: garmin gpx
 
 # Garmin trasy
 
+K náhledu GPX souborů online lze použít například web [gpx.studio](https://gpx.studio/app#0/0/0).
+
+- [GPXMapy](https://www.gpxmapy.cz/)
 
 ## Po ČR
 - [Výlet po českém ráji]({{ site.baseurl }}/gpx/Výlet%20po%20českém%20ráji.gpx)
