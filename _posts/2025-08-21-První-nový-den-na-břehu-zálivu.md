@@ -6,6 +6,8 @@ categories: ["expedice", "Norsko"]
 thumbnail: /assets/fotky/IMG_20250821_182851172_HDR.jpg
 ---
 
+I přes zničenou karimatku jsem se vyspal na travnatých muldách docela dobře.
+
 Jako trosečníci na ostrově ve stylu Robinsona Crusoe by jsme moc nepochodil. 
 
 Chystáme se vyplout na cestu zpátky k autu a přivést vše co jsme si zapomněli.
