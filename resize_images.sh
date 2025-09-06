@@ -43,14 +43,29 @@ for img in $(ls "${PHOTO_SOURCE_DIR}"*.jpg); do
     # Pokud je obrázek větší než 500 KB
     if [ $FILE_SIZE -gt $MAX_SIZE ]; then
         # Změnit velikost obrázku
-        while [ $FILE_SIZE -gt $MAX_SIZE ]; do
-            # Změnit velikost obrázku
-            mogrify -resize $RESOLUTION\> -quality 75 -strip "$img"
-            FILE_SIZE=$(stat -c %s "$img")
-        done
+        mogrify -resize $RESOLUTION\> -quality $COMPRESION -strip "$img"
+        FILE_SIZE=$(stat -c %s "$img")
         echo "Obrázek $img byl zmenšen na velikost $FILE_SIZE bytes."
     else
         echo "Obrázek $img je již menší než 500 KB, nic se neděje."
+    fi
+done
+
+# Projít všechny PNG soubory ve složce a zmenšit je pomocí pngquant
+for img in $(ls "${PHOTO_SOURCE_DIR}"*.png); do
+    # Kontrola dostupnosti pngquant
+    if ! command -v pngquant &> /dev/null; then
+        echo "Chyba: pngquant není nainstalován. Nainstalujte jej například příkazem: sudo apt install pngquant"
+        exit 1
+    fi
+
+    FILE_SIZE=$(stat -c %s "$img")
+    if [ $FILE_SIZE -gt $MAX_SIZE ]; then
+        pngquant --quality=65-80 --ext .png --force "$img"
+        FILE_SIZE=$(stat -c %s "$img")
+        echo "PNG $img byl zkomprimován na velikost $FILE_SIZE bytes."
+    else
+        echo "PNG $img je již menší než 500 KB, nic se neděje."
     fi
 done
 
