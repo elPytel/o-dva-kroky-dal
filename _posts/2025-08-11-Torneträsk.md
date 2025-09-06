@@ -38,3 +38,5 @@ Vemte si v létě do severního Švédska:
 Večer klesá teplota k 8°C a fouká vítr.
 
 Čeká nás balení na tři dny na jezeře. Chceme si dnes předbalit všechny potřebné věci, abychom zítra mohli už rovnou hodit věci na vodu a vyplout.
+
+![Trasové body]({{ site.baseurl }}/assets/fotky/Screenshot_20250811-150530.png)

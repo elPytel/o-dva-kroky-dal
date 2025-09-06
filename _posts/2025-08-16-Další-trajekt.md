@@ -26,3 +26,6 @@ Místo dnešního přespání:
 66.379622, 14.148095
 
 Malé parkoviště u jezera, přístup do vody je obtížný. Údolím děsně fouká vítr, dnes opět povečeříme v autě.
+
+
+![Trasové body]({{ site.baseurl }}/assets/fotky/Screenshot_20250816-120758.png)

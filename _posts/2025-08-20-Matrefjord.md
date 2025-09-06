@@ -26,3 +26,5 @@ Jdeme spát, mám na sobě dalších bez mála deset klíšťat. Erika jenom jed
 Roztrhla se karimatka na které spím. Rozlepilo se místoy kde je přidělaný ventil. Máme sice sadu na opravu, ale tohle asi nepůjde spravit.
 
 V noci tu je tma. Čelovky a světlo do stanu konečně našlo využití.
+
+![Trasové body]({{ site.baseurl }}/assets/fotky/Screenshot_20250820-154454.png)
