@@ -63,6 +63,7 @@ Modely rady Instinct mají kvůlu technologii displeje poměrně omezený výber
 - [Barcode Wallet (1D/2D)](https://apps.garmin.com/apps/ad2ef902-b229-4ab8-bd0e-86c102529f93)
 - [Pomodoro](https://apps.garmin.com/apps/4b11ad8f-3e48-4112-83df-336065c49829)
 - [Ebike Field](https://apps.garmin.com/apps/1532f0d9-fd19-4b63-b038-435d8fd670a4)
+- [Handsfree: outgoing phone calls and more (widget)](https://apps.garmin.com/cs-CZ/apps/629f3ba5-66bc-4b44-a078-3365a85212f8)
 
 #### Navigace:
 - [dwMap](https://apps.garmin.com/apps/2750f280-82f4-4f21-a32c-57acc7ce4870?tid=0)
