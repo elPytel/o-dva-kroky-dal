@@ -3,9 +3,14 @@ layout: post
 title: "Konečně doma"
 description: Konečně doma
 categories: ["expedice", "Švédsko"]
+thumbnail: /assets/fotky/IMG_20250830_095250464.jpg
 ---
 
 # Konečně doma
+
+Snídíme doma kaviár a chléb.
+
+![Snídaně doma]({{ site.baseurl }}/assets/fotky/IMG_20250830_095250464.jpg)
 
     Co bych si příště vzal sebou:
     - náš čaj,
@@ -21,9 +26,8 @@ Zážitky z pohledu Štefana [zde](https://wildnorthernkayakingadventures.com/20
 
 Naše postupné projíždění Skandinávií:
 
-<!-- Přidejte do svého .md souboru -->
 <div id="gallery">
-  <img id="rotating-img" src="{{ site.baseurl }}/assets/fotky/Screenshot_20250811-150530.png" width="400">
+  <img id="rotating-img" src="{{ site.baseurl }}/assets/fotky/Screenshot_20250811-150530.png" width="400" height="700">
   <br>
   <div style="display: flex; justify-content: space-between; width: 400px;">
     <button onclick="prevImg()">Předchozí</button>

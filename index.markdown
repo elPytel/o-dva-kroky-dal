@@ -5,4 +5,4 @@
 layout: home
 ---
 
-Tohle je naše stránka.
+Náš blok o tom, co se zrovna děje...

@@ -9,6 +9,7 @@
   - [Nový blog-post](#nový-blog-post)
   - [Linky](#linky)
   - [Obrázky](#obrázky)
+    - [Rotace obrázků](#rotace-obrázků)
   - [Layouts](#layouts)
     - [cookbook](#cookbook)
   - [recipe](#recipe)
@@ -77,6 +78,12 @@ Pro zmenšení obrázků použijte příkaz:
 mogrify -resize 1920x1920\> -quality 75 -strip *.jpg
 ```
 Tento příkaz zmenší všechny obrázky v aktuálním adresáři na maximální rozměr 1920x1920 pixelů, nastaví kvalitu na 75 a odstraní metadata z obrázků.
+
+### Rotace obrázků
+
+```bash
+convert input.jpg -rotate 90 output.jpg
+```
 
 ## Layouts
 
