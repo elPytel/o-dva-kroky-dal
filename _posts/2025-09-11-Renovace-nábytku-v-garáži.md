@@ -3,6 +3,7 @@ layout: post
 title: "Renovace nábytku v garáži"
 description: Jako Pat a Mat
 categories: ["rekonstrukce"]
+thumbnail: /assets/fotky/IMG_20250911_164835143.jpg
 ---
 
 # Tvorba pracovního stolu

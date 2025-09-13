@@ -3,6 +3,7 @@ layout: post
 title: "Rekonstrukce díl 2"
 description: Stačí to jenom dodělat...
 categories: ["rekonstrukce"]
+thumbnail: /assets/fotky/IMG_20250912_101404524.jpg
 ---
 
 # 8.9.
