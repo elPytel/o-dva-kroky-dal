@@ -15,6 +15,8 @@ Vrtání děr pro kolíky nešlo úplně podle plánu.
 
 Nohy jsem zavětroval lištama, které jsem nařezal z Eričiné staré poličky. To vyřešilo většinu problémů s kolíbáním a rojíděním nožiček. 
 
+![Stůl]({{ site.baseurl }}/assets/fotky/IMG_20250911_164835143.jpg)
+
 # Výroba poliček
 
 Materiál na poličku:
@@ -27,12 +29,20 @@ Výsledný rozměr poliček bude: 30x60
 
 Závesný hranol na skříňky: 2x1x30
 
+## Hranol
 Hranol jsem nařezal přímočarkou. Přes veškerou snahu a použití druhého melkého kusu pravouhlůeho odřezku dřeva jako pomocnou vodící lišty jsem všechny 30cm úseky uřízl kosé. Pilník odvedl svou práci. Aspoň budou "naše". Do jednoho kusu jsem vyvrtal díry vrtákem rozměru 3mm a pak jsem jej použil jako příložnou šablonu pro navrtání děr do všech ostatních. Pak už jenom stačilo zahlobit díry pro hlavičky vrutů.
 
 ![30cm hranoly na škřínky]({{ site.baseurl }}/assets/fotky/IMG_20250911_192009992.jpg)
 
-Spárovku jsme nařezali maflem. Pořídil jsem si svorky pro přichycení pomocného profilu pro odměření místa řezu.
 Otvory pro vruty jsme do bukového hranolu převrtali a připravili díry na hlavičky. 
+
+## Spárovka
+
+Spárovku jsme nařezali maflem.
+
+![Erika upíná svorky]({{ site.baseurl }}/assets/fotky/IMG_20250912_131547286_HDR.jpg)
+
+Pořídil jsem si svorky pro přichycení pomocného profilu pro odměření místa řezu.
 
 Dřevo jsme obrousili smirkovým papírem a natřeli olejem. 
 
@@ -59,10 +69,17 @@ Otvor potřebný pro prostrčené háčku 2x2cm, tlouška boku skřínky je 1,8c
 
 Na výsledek sice nejsem hrdý, ale kovaní by mělo fungovat a vnitřek skříněk půjde bíle polepit v místech, kde se záda trochu vytrhla. 
 
+Návod jak zavěsit kuchynskou linku (skřínky) na lištu: [zde](https://www.stavebni-vzdelani.cz/jak-zavesit-kuchynskou-linku/)
+
+## Madla
+
+Ke dvířkům jsme pořídili i nová madla, ale o jiném rozteči, než co původně na dvířkách byl. Zaměřili jsme si nové díry a pak je vyvrtali. Potíž byla trochu v tom, že v sadě vrtáků byl vrtách na dřevo 5mm úplně tupý, budeme muset koupit nový při příští návštěvě Bauhausu. Po vyvrtání děř a ozkoušení rozteče jsme dvířka následně polepili folií a přištoubování madel byl až poslední krok. 
+
 ## Polep fólií
 
 Návod aplikace samolepící fole:
 Pro použití d-c-fix fólie připravte hladký, čistý a nesavý podklad, který je třeba odmastit. Na několika centimetrech fólie odlepte krycí papír a fólii přiložte k hraně podkladu. Postupně stahujte papír a fólii vyhlazujte stěrkou nebo hadříkem od středu k okrajům, abyste odstranili bublinky. Rohy a hrany lze nahřát fénem, aby se fólie lépe tvarovala. 
 
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fJcXCpgSPo8" title="Jak lepit vinilové polepy" frameborder="0" allowfullscreen></iframe>
+
+Fóli jsme rozřízli na dva pruhy o šířce 34cm (což tak akorát stačí na naše dvářka 1+31,5+1). Ty jsem pak nastříhali na úseky o délce 70cm (výška dvířek 64). Při nalepování jsme pokračovali podle video návodu. 
