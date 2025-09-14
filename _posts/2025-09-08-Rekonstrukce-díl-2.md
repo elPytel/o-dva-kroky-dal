@@ -107,23 +107,130 @@ Rozměry dřezu: 440 × 760 × 175 mm
 
 Dnes jsme vymalovali strop a stěny první vrstvou bílé barvy. Doporučuje se poříidit si k válečku i teleskovpickou tyč, at nemusíte rozebírat koště jako mi. 5kg kýbl při ředění 3ml na 1kg barvy padl tak akorát na jednu vrstvu. 
 
+![starý dřez]({{ site.baseurl }}/assets/fotky/IMG20250913140423.jpg)
+
 Už už jsme chtěli jet řezat do garáže díru do linky, když nás napadlo, že můžeme přeměřit starý dřez a skřínku pod ním. Skřínka má vnitřní hloubku 41cm náš nový dřez má rozměr 44cm... Někdě jsme udělali chybu. Rozebíráme strou linku, aby jsme se dobře seznámili s vnitřními rozměry. Odpojit vodu, rozebrat lišty, vyšroubovat všechny vruty. Vrtačka zůstala včera v garáži. Bereme Danův starý aku šroubovák, který tu nechal. 
 
 Prostor kolem dřezu je vhorším stavu než se původně předpokládalo. Plvodní dřez také v jednom místě přesahoval nad zadní podpěru skřínky. 
 
 Hledáme technický výkres k našemu dřezu.
 
-Vnitřní rozměr je uváděný 39cm, když vyřízneme díru 40cm, tak se do rozteže skřínky vejdeme.
+Vnitřní rozměr je uváděný 39cm, když vyřízneme díru 40cm, tak se do rozteče skřínky vejdeme.
 
 Vynesli jsme novou linku domů, aby jsme jí položili na místo té staré a obralili si vnitřní rozměry skřínky. 
 
+<div id="gallery">
+  <img id="rotating-img" src="{{ site.baseurl }}/assets/fotky/IMG20250913140417.jpg" width="400" height="700">
+  <br>
+  <div style="display: flex; justify-content: space-between; width: 400px;">
+    <button onclick="prevImg()">Předchozí</button>
+    <button onclick="nextImg()">Další</button>
+  </div>
+</div>
+
+<script>
+const path = "{{ site.baseurl }}/assets/fotky/";
+
+const images = [
+  "IMG20250913140417.jpg", 
+  "IMG20250913142355.jpg", 
+  "IMG20250913144139.jpg",   
+  "IMG20250913145944.jpg"
+];
+
+let idx = 0;
+
+function showImg() {
+    document.getElementById('rotating-img').src = path + images[idx];
+}
+
+function prevImg() {
+    idx -= 1;
+    if (idx < 0) idx = 0;
+    showImg();
+}
+
+function nextImg() {
+    idx = idx + 1;
+    if (idx >= images.length) idx = images.length - 1;
+    showImg();
+}
+</script>
+
 Dřez zpátky do auta. Jedeme do gráže, dřez necháváme v garáži, bereme sedačky do auta. Návrat domů, sprcha, oblečení, dárek. Jedeme na oslavu babičiných narozenin. Já musím ještě jet vezvednout babičku a dědu domů. 
+
+![oslava]({{ site.baseurl }}/assets/fotky/IMG_2025-09-13.jpg)
 
 Nahrávám máme knížky do čtečky. 
 
 Po oslavě ještě Erika doma maluje druhou vrstvu bílou barvou. Já opravuji nabíječku na dědův telefon.
 
 # 14.9.
+
+Den jsme začali snídani ze zbytků z oslavy. První bod dnešního programu byla další výprava do Bauhausu, aby jsme dokoupili bílou barvu na strop a lem 4kg (třeba něco zbude do chodby na příště) a vanilkovou na zdi 5kg, také jsme pořídili bilou barvu na kov pro renovaci futer. Pořídili jsme také nové háčky na ručníky, které věsíme na dveře od skříně, takže mi už snad pořád nebude padat můj ručník. Další příjemná změna po třech letech. 
+
+Dále jsme jeli do garáže, aby jsme vyřízli díru na dřez do naší nové linky.
+
+![stará linka]({{ site.baseurl }}/assets/fotky/IMG20250914105856.jpg)
+
+Ze staré linky jsme odřízli díru po dřezu a prohnilou část. Mafl si sní poradil docela dobře, ale na lepší rež by to chtělo pilu ještě s menšími zuby. Z vrchní části desky se vyštípávají 2mm useky s polepem.
+
+![zaměřujeme]({{ site.baseurl }}/assets/fotky/IMG20250914120034.jpg)
+
+Linku jsme nejdříve zařízli o okraj. 8mm vpředu a 6mm v zadu, hold doma zdi nenáme do pravého úhle. Díky čarám určující rozmery a polohu skřínky jsme se pustili do umístování dřezu. Ať jsme to měřili jak jsme chtěli, tak dřez přesahuje o jeden centimetr do boků. Po chvíli hlasitého uvažování o tom kdo za to může, jsem přišel s myšlenkou, že nejlepším řešením bude umístit dřez zarovnaný s přední stěnou skřínky a v zadu udělat prostě prořez prknem tak aby se tam dřez vešel. Zabalili jsme si sebou do auta prknou, ze kterého by šlo vymyslet vystužení zad/vzěru pod zadní stranu linky.
+
+![sláva]({{ site.baseurl }}/assets/fotky/IMG20250914125207.jpg)
+![dřez sedí]({{ site.baseurl }}/assets/fotky/IMG20250914125215.jpg)
+
+Balíme vše i s nářadím do Galaxy a vyrazili jsme domů. 
+
+U oběda jsme dokoukali Teorii Velkého třesku, čeká nást vybírání nového seriálu. 
+
+Linka sedla a dřez v ní pasuje i do skříňky.
+
+Načež Erika pronesla památnou větu: "..nejlepší den v mém životě, vklouzl tam uplně celý!"
+
+![sestavujem doma]({{ site.baseurl }}/assets/fotky/IMG20250914133913.jpg)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sBNYxLuJQGs" title="Instalace granitového dřezu" frameborder="0" allowfullscreen></iframe>
+
+[Jak instalovat sifón do kuchyňského dřezu Primagran - návod](https://www.youtube.com/watch?v=3yzd0xeFqUc&t=63s)
+
+Montujeme sifon. Konické těsnění patří na posuvné trubky. Informace, kterou do návodu nezvládli uvést... 
+Dřez má tři navody na instalci, sifon, který je součástí dřezu nemá žádný návod na instalaci.
+Po přiložení sifonu k dřezu je vidět, že překáží poličce na jar a odkapávač, bude potřeba do ní vyříznout díru.
+
+Lepíme hranu na linku za pomocí žehličky. YouTube je opět nezměrným pomocníkem.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yJAYJmvIz8A" title="Jak nažehlit nábytkovou nažehlovací hranu" frameborder="0" allowfullscreen></iframe>
+
+Namontovali jsme baterii do dřezu a přepad umyvadla, aby jsme si usnadnili montáž pod deskou.
+
+Lepíme dřez na linku pomocí čirého silikonu. Instalace probíhá dle slov pána co nám v Bauhausu poradil: "Prostě tam vymáčkněte pořádnýho hada!"
+Desku jsme zatížili pomocí býklů barvy, aby se silikon pořádně vymáčkl a přilepil. 
+
+Zkrátil jsem potřebné trubky od sifonu a odpadu. Přímočarka na to není ideální nástroj, ale poradil jsem si. Vše je smontováno. 
+
+Erika uklízí na chodbě a ve vátahu protože máme tento týden službu a zbylo tam po nás docela dost bordelu.
+
+Napouštíme pomocí lavoru dřez, aby jsme otestovali tesnot odtoku. Odto tesní, ale dřez správně neodtéhá. Zůstává na dně kaluž vodu, která je pod lemem výlevky. 
+
+Gumové těsnění patří vně pod výlevku, divno těsnění patří do dřezu pod odtok. Když je prohodite, tak bude výlevka moc vysoko a voda vám z dřezu nebude odtékat (odzkoušeno).
+
+Ještě napojit vodu. Pancéřové hadice nejsou popsané, takže to bude pokus omyl. V garáži jsem si zapomněl francouzský klíč a mám tu jen sikovky, takže mě čeká další výlet do garáže. Trubky jsem prohodil, až se vrátím s nářadím na dotažení, tak je budu muset přepojit. 
+
+Musím vyzvednout nový filtr do vysavače v alzabxu (původní zplesnivěl po umytí).
+
+Dovezl jsem dědovi telefon s opravenou nabíječkou.
+
+Voda připojena, spoje drží. Ještě jsem nařezal lišty okolo linky. S japonskou pilkou to šlo velmi dobře, už je zbývá jen nalepit.
+
+Na vaření už nebyla síla a tak jsme si obějnali knedlíčky. 
+
+Táta přivezl fábii na vrácení, bez okénka. Asi zase praskla stahovačka, tentokrát u spolujezdce. Tak náše čeká ještě servis v následujícím týdnu.
+
+Po večeři jsme nalepili lišty kolem linky. Erika myje nádobí a ještě dotahujeme odpad dřezu. Snad už to bude s linkou všechno. Zítra pověsím v nad linou nové světlo.
+
 
     Již jsme zvládli:
         ☑ Vylít podlahu,
@@ -134,3 +241,5 @@ Po oslavě ještě Erika doma maluje druhou vrstvu bílou barvou. Já opravuji n
         ☑ koupit dřez,
         ☑ zrenovovat staré skřínky, 
         ☑ vyrobit poličky,
+        ☑ nainstalovat novou linku,
+        ☑ zapojit dřez a vodovodní baterii

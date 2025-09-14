@@ -84,3 +84,7 @@ Pro použití d-c-fix fólie připravte hladký, čistý a nesavý podklad, kter
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fJcXCpgSPo8" title="Jak lepit vinilové polepy" frameborder="0" allowfullscreen></iframe>
 
 Fóli jsme rozřízli na dva pruhy o šířce 34cm (což tak akorát stačí na naše dvářka 1+31,5+1). Ty jsem pak nastříhali na úseky o délce 70cm (výška dvířek 64). Při nalepování jsme pokračovali podle video návodu. 
+
+![Před folii]({{ site.baseurl }}/assets/fotky/IMG20250912160836.jpg)
+![Pp folii]({{ site.baseurl }}/assets/fotky/IMG20250912160649.jpg)
+![Po folii]({{ site.baseurl }}/assets/fotky/IMG20250912160640.jpg)

@@ -82,6 +82,9 @@ Na večeři jsme pozvaní k mámě.
 
 # 7.9.
 
+![Strop]({{ site.baseurl }}/assets/fotky/IMG20250907190825.jpg)
+
+
 Igor pokrakuče ve štukování zdí a omítá vápennou omítkou. Já škrábu lepidlo z podlahy, aby se mohla vylít nová podlaha.
 
 S Erikou plánujeme rande v kině, když už je ta neděle. Šli jsme na Jak vycvičit draka, hranou verzi.

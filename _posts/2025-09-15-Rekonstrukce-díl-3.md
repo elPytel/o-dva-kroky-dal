@@ -15,6 +15,8 @@ categories: ["rekonstrukce"]
         ☐ připojit spotřebiče,
         ☐ vrátit nábytek,
         ☐ udělat ze staré linky pracovní desku nad spotřebiče,
+        ☐ nové světlo du kuchyně
+        ☐ vyříznout v poličce díru na syfon. 
 
 
 ## Všechno sem!
