@@ -115,6 +115,8 @@ Prostor kolem dřezu je vhorším stavu než se původně předpokládalo. Plvod
 
 Hledáme technický výkres k našemu dřezu.
 
+<embed src="{{ site.baseurl }}/assets/Kuchinox-RAB_granitový_dřez.pdf" width="100%" height="600" type="application/pdf">
+
 Vnitřní rozměr je uváděný 39cm, když vyřízneme díru 40cm, tak se do rozteče skřínky vejdeme.
 
 Vynesli jsme novou linku domů, aby jsme jí položili na místo té staré a obralili si vnitřní rozměry skřínky. 
