@@ -84,9 +84,9 @@ Já prohledávám internet pro inspiraci. Nové skříňky nechceme kupovat, ale
 
 Igor omýtá zbylé zdi. Já trávím většinu dne v garáží upravami starých skříněk a přípravou materiálu na nové poličky. V Bauhausu jsem pořídil kování a lišty pro závěs skříňek. 
 
-# 12.9.
-
 ![omýtnuto]({{ site.baseurl }}/assets/fotky/IMG_20250912_101404524.jpg)
+
+# 12.9.
 
 Já a Erika jsme se vydali do garáže, aby jsme pokračovali na práci na skřínkách. Nejprve jsme se vydali do Glóbusu na větnamský oběd.
 V garáži jsme pak nařezali prkno na pličky a zaoblili přední stranu. Pak jsme se pustili do vrtaní nových otvorů pro madla a lepení polepu na stará dvířka. Akce byla přerušena mím výjezdem za Igorem, protože jsme mu sice nechali klíče za dveřma, ale nedošlo nám že se nemá jak dostat do vchodu. Nedojel jsem ani na Šaldák a už mi volal že se dostal dovnitř protože jej někdo pustil do vchodu. 
@@ -231,6 +231,7 @@ Táta přivezl fábii na vrácení, bez okénka. Asi zase praskla stahovačka, t
 
 Po večeři jsme nalepili lišty kolem linky. Erika myje nádobí a ještě dotahujeme odpad dřezu. Snad už to bude s linkou všechno. Zítra pověsím v nad linou nové světlo.
 
+# Shrnutí týdne
 
     Již jsme zvládli:
         ☑ Vylít podlahu,
