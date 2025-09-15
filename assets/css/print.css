@@ -1,0 +1,6 @@
+@media print {
+  /* Příklad: schovat prvky při tisku */
+  nav, footer, .sidebar {
+    display: none;
+  }
+}

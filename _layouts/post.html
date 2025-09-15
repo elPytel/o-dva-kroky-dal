@@ -4,6 +4,7 @@ layout: default
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
+    <link rel="stylesheet" href="/assets/css/print.css" media="print">
     <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
     <p class="post-meta">
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
@@ -27,11 +28,5 @@ layout: default
 </article>
 
 <hr>
-
-<div style="margin-top:2em; text-align:center;">
-  <a href="https://www.printfriendly.com/print?url={{ site.url }}{{ page.url }}" target="_blank" rel="noopener" style="font-size:1.2em;">
-    🖨️ Tisk / 📄 PDF
-  </a>
-</div>
 
 {% include post-navigation.html %}
