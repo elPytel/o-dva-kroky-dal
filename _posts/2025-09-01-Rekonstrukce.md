@@ -18,6 +18,8 @@ Hlavní cíle rekonstrukce:
 - udělat ze staré linky pracovní desku nad spotřebiče,
 - koupit novu linku do kuchyně,
 
+<embed src="{{ site.baseurl }}/assets/Oznámení_o_rekonstrukci.pdf" width="100%" height="600" type="application/pdf">
+
 ## "Všichni ven!"
 Vyklízíme malý pokoj a sundáváme postel a koberce ze zdí. Už to opravdu chtělo, jsou v nich zakuklení všude moli. Odhalili jsme krysí hnízdo kabelů. Igor zde kdysi zapojil psa do zásuvky a do něj prodlužku a kabel od světla v kuchyni, které mizí ve zdi. Kabely visí po stěně křížem. Bude to zajímavé, až se je budu snažit schovat do lišt.
 
