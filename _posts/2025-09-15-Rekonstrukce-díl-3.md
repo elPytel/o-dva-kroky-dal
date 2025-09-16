@@ -30,6 +30,14 @@ Večer jsme s Erikou ještě vymalovali strop druhou vrstvou bílé barva. Když
 
 # 16.9.
 
+Dneska jsem začal den tím, že jsem vymaloval strop druhou vrstvou bílé a vymyl válečky a štětce. 
+
+Po obědě jsem dal fabii do servisu, aby vyměnili stahovačku.
+
+Zbytek odpoledně od 4 do 8 byl naplněně malováním zdí v pokoji. Zdaleka nejvíce času zabralo nalepit lem pod stropem a oblepit všechna místa kam by se neměla dostat barva. Pak jsem vše objel malým válečkem. Sranda byla malovat za topením. Vymalování zbytku s velkým válečkem na tyči pak už byla hračka. Spořeboval jsem na to asi polovinu jednoho kýble barvy. 
+
+# 17.9.
+
 ## Všechno sem!
 
 Při věšení skřínek jsme použili filcové a podložky pod nábytek, které jsme nalepili na spodní stranu, aby jsme dorovnali vzdálenost pantů od stěny.
