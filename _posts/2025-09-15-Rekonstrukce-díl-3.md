@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "Rekonstrukce díl 3"
-description: Aneb rodinná dovolená 3
+description: Aneb jako rodinná dovolená 3
 categories: ["rekonstrukce"]
+thumbnail: /assets/fotky/IMG_20250917_081516597.jpg
 ---
 
 # TODO:
@@ -16,7 +17,7 @@ categories: ["rekonstrukce"]
         ☐ připojit spotřebiče,
         ☐ vrátit nábytek,
         ☐ udělat ze staré linky pracovní desku nad spotřebiče,
-        ☐ nové světlo du kuchyně
+        ☐ nové světlo du kuchyně,
         ☐ vyříznout v poličce díru na syfon. 
 
 
@@ -30,6 +31,8 @@ Večer jsme s Erikou ještě vymalovali strop druhou vrstvou bílé barva. Když
 
 # 16.9.
 
+![nabílo]({{ site.baseurl }}/assets/fotky/IMG_20250916_172426334.jpg)
+
 Dneska jsem začal den tím, že jsem vymaloval strop druhou vrstvou bílé a vymyl válečky a štětce. 
 
 Po obědě jsem dal fabii do servisu, aby vyměnili stahovačku.
@@ -37,6 +40,17 @@ Po obědě jsem dal fabii do servisu, aby vyměnili stahovačku.
 Zbytek odpoledně od 4 do 8 byl naplněně malováním zdí v pokoji. Zdaleka nejvíce času zabralo nalepit lem pod stropem a oblepit všechna místa kam by se neměla dostat barva. Pak jsem vše objel malým válečkem. Sranda byla malovat za topením. Vymalování zbytku s velkým válečkem na tyči pak už byla hračka. Spořeboval jsem na to asi polovinu jednoho kýble barvy. 
 
 # 17.9.
+
+![vanilkově]({{ site.baseurl }}/assets/fotky/IMG_20250917_081516597.jpg)
+
+Večeři si nosíme z menzy v krabičkách. 
+Zapojil jsem světlo v pokoji. Vymaloval jsem pokoj druhou vrstvou vanilkové.
+
+Auto má opravenou stahovačku a vyzvedl jsem ho ze servisu.
+
+# 18.9.
+
+# 19.9.
 
 ## Všechno sem!
 
@@ -48,6 +62,15 @@ Při věšení skřínek jsme použili filcové a podložky pod nábytek, které
     Již jsme zvládli:
         ☑ nové světlo du kuchyně,
         ☑ vyříznout v poličce díru na syfon,
+        ☑ vymalovat,
+        ☑ zapojit lustr,
+        ☐ navrtat lišty na zdi,
+        ☐ zapojit elektroinstalaci,
+        ☐ položit lino,
+        ☐ koupit myčku,
+        ☐ připojit spotřebiče,
+        ☐ vrátit nábytek,
+        ☐ udělat ze staré linky pracovní desku nad spotřebiče.
 
 ## Rozpočet
 
@@ -65,8 +88,8 @@ Při věšení skřínek jsme použili filcové a podložky pod nábytek, které
 | Myčka |  |
 | Tlumící podložky pod pračku |  |
 
-[siko: drezova baterie](https://www.siko.cz/drezova-baterie-sat-se-silikonovym-raminkem-cerna-matna-satbsd290cm/p/SATBSD290CM)
-[bauhaus: Kuchinox Vestavný dřez RAB](https://www.bauhaus.cz/kuchinox-vestavny-drez-rab-31325697)
+- [siko: drezova baterie](https://www.siko.cz/drezova-baterie-sat-se-silikonovym-raminkem-cerna-matna-satbsd290cm/p/SATBSD290CM)
+- [bauhaus: Kuchinox Vestavný dřez RAB](https://www.bauhaus.cz/kuchinox-vestavny-drez-rab-31325697)
 
 Podlahy a zdi vzal Igor na sebe.
 Máma nám přispěla 5000 Kč na rekonstrukci.

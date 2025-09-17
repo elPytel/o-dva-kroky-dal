@@ -165,6 +165,8 @@ Dřez zpátky do auta. Jedeme do gráže, dřez necháváme v garáži, bereme s
 
 Nahrávám máme knížky do čtečky. 
 
+![Erika maluje]({{ site.baseurl }}/assets/fotky/IMG_20250913_123422835.jpg)
+
 Po oslavě ještě Erika doma maluje druhou vrstvu bílou barvou. Já opravuji nabíječku na dědův telefon.
 
 # 14.9.
@@ -180,6 +182,8 @@ Ze staré linky jsme odřízli díru po dřezu a prohnilou část. Mafl si sní 
 ![zaměřujeme]({{ site.baseurl }}/assets/fotky/IMG20250914120034.jpg)
 
 Linku jsme nejdříve zařízli o okraj. 8mm vpředu a 6mm v zadu, hold doma zdi nenáme do pravého úhle. Díky čarám určující rozmery a polohu skřínky jsme se pustili do umístování dřezu. Ať jsme to měřili jak jsme chtěli, tak dřez přesahuje o jeden centimetr do boků. Po chvíli hlasitého uvažování o tom kdo za to může, jsem přišel s myšlenkou, že nejlepším řešením bude umístit dřez zarovnaný s přední stěnou skřínky a v zadu udělat prostě prořez prknem tak aby se tam dřez vešel. Zabalili jsme si sebou do auta prknou, ze kterého by šlo vymyslet vystužení zad/vzěru pod zadní stranu linky.
+
+![Erika řeže]({{ site.baseurl }}/assets/fotky/IMG_20250914_123200580.jpg)
 
 ![sláva]({{ site.baseurl }}/assets/fotky/IMG20250914125207.jpg)
 ![dřez sedí]({{ site.baseurl }}/assets/fotky/IMG20250914125215.jpg)
