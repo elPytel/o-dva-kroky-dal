@@ -85,9 +85,60 @@ Zásuvky v kuchyni jsme se rozhodli umístit z boku pod kuchynskou linku. Bohuž
 
 ![zásuvky kuchyně]({{ site.baseurl }}/assets/fotky/IMG_20250919_190749345.jpg)
 
+Napsal jsem Honzovi, zda by nám nepůjčil vybrační brusku.
+
 # 20.9.
 
+Honza nám odpověděl, že se pro rusku můžeme klidně stavit. Takže jsme den začali výletem na zahrádku za Honzou. Pro nákup lina potřebujeme Galxy s velkým kufrem. Vadali jsme se pro další výměnu auta s tátou. Pozval nás nahoru, aby jsme Zlatce pomohli zprovoznit notebook, gmail (na který ji přišel Xaiomy aktivační kód) a její novou elektrickou koloběžku. 
+
+## S filcem nebo bez filcu?
+
+Nasedáme do Galaxy a je pomalu čas oběda. Vydali jsme se nakonec ne do levných koberců, kde budou brzo zavírat, ale do Brena. Nakonec nám padlo do oka PVC AMBIENT [Havanna Oak 669D](https://www.breno.cz/pvc-ambient-havanna-oak-669d-300) s 0.7mm nášlapovou vrsvou bez filcu. Filc zvyšuje měkkost a izoluje hluk a teplo a vyrovnává více nerovnosti. Jeho problémem je však to, že se do něj bude více propadat nábytek. Čím tlustší nášlapovou vrstvu si člověk vybere tím tuží lino bude a také odolnější proti protržení či prodření. 
+
+Nechali jsme si uříznout z 3m role 415cm. 
+
+V Brenu jsme si koupili:
+- lino,
+- pevný nůž,
+- 2x1l lepidla.
+
+Budeme se muset později ještě stavit pro lišty. 
+
+![Galaxy a lino]({{ site.baseurl }}/assets/fotky/IMG_20250920_130809771_HDR.jpg)
+
+Ještě jsme se stavili v Globusu na oběd.
+
+## Voda
+
+Po návratu domů jsme se vrhli na instalci nového přivodu vody s odbočkou pro myčku. Takzvaný kombinovaný rohový ventil s rozměry závitů: 1/2" × 3/8" × 3/4". Byl to díl, který splnoval naší potřeba, jak zároveň připojit pancéřovou hadici do kuchyně, tak zároveň i budoucí novou myčku. Bohužel však na své místo nepasoval, normálně se instaluje na trubku kolmo žouhající ze zdi, ale v našem případě jsme jej chěli připojit na již stávající rozbočku tvaru T pro připojení pračky. Vzálenost od zdi byla tak menší, než jaký byl rozměr rohového ventilu. Co teď?
+
+Nabízelo se několik možností:
+1. vyšroubovat velkou ocelovou truku o půl závitu a tak získat dost manévrovacího prostoru kolem,
+2. vše nafotit a jet znovu do Bauhasu a žádat o radu odborníky na slovo vzaté,
+3. vyškrábat díru do zdi do hloubky 5mm aby se dal ventil otočit v závitu.
+
+Nebudu vás dlouho napínat... Vytáhli jsme majzlík, kladivo a škrabku a jako největší neandrtálci jsme začali vytloukat do naší ani ne týden staré omýtky novou díru tam, kde ani dříve nebyla...
+
+Nutno podotknout že stará truka se ani nehla když jsme se na ní věšel s francouzkým klíčem a do Bauhausu se nám opět zase nechtělo.
+
+![a je to!]({{ site.baseurl }}/assets/fotky/IMG_20250920_203241585.jpg)
+
+## Zase něco malujeme
+
+Pak jsme si rozdělili činosti. Erika se vrhla na broušení stěrky a já se s Galaxy vydal na otočku do garáže pro upravené skřínky a renovovaná dvířka. 
+
+Když jsem dorazil zpět, tak jsem se pustil do uklízení věcí, které již nebudeme potřebovat a Erika přetřela bílou barvou místa na zdi, která bylo potřeba opravit a pak bílou na kov obnovila nátěr na trubkách od topení.
+
+![Erika natírá trubky]({{ site.baseurl }}/assets/fotky/IMG_20250920_191815064.jpg)
+
+Erička prohlásila dnešek za produktivní. 
+
+K večeři jsme si dali Quesadiju.
+
+
 # 21.9.
+
+- [breno: jak položit lino](https://www.breno.cz/blog/jak-polozit-lino-pvc-poradime-jak-to-zvladnete-sami)
 
 ## Všechno sem!
 
@@ -103,8 +154,12 @@ Při věšení skřínek jsme použili filcové a podložky pod nábytek, které
         ☑ zapojit lustr,
         ☑ navrtat lišty na zdi,
         ☑ zapojit elektroinstalaci,
+        ☑ koupit lino,
+        ☑ natřít topení na bílo, 
         ☐ pověsit skříňky,
         ☐ položit lino,
+        ☐ naolejovat poličky,
+        ☐ natřít futra,
         ☐ koupit myčku,
         ☐ připojit spotřebiče,
         ☐ vrátit nábytek,
@@ -123,12 +178,16 @@ Při věšení skřínek jsme použili filcové a podložky pod nábytek, které
 | Baterie | 1352 |
 | Materiál polička | 842 |
 | Materiál renovace skříněk | 600 |
-| Lino, lišty, lepidla |  |
+| Lino, lišty, lepidla | 6396 |
 | Myčka |  |
 | Tlumící podložky pod pračku |  |
 
 - [siko: drezova baterie](https://www.siko.cz/drezova-baterie-sat-se-silikonovym-raminkem-cerna-matna-satbsd290cm/p/SATBSD290CM)
 - [bauhaus: Kuchinox Vestavný dřez RAB](https://www.bauhaus.cz/kuchinox-vestavny-drez-rab-31325697)
+- [kvelektro: tango zásuvka](https://www.kvelektro.cz/krabice-listova-kopos-lk-80x28-2zt-hb-bila-pro-dvojzasuvky-tango-p1187250)
+- [breno: havanna oak](https://www.breno.cz/pvc-ambient-havanna-oak-669d-300)
+- [bauhaus: Rohový ventil kombinovaný](https://www.bauhaus.cz/rohovy-ventil-kombinovany-13332373)
+
 
 Podlahy a zdi vzal Igor na sebe.
 Máma nám přispěla 5000 Kč na rekonstrukci.
