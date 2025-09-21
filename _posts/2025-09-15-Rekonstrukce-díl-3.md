@@ -89,7 +89,7 @@ Napsal jsem Honzovi, zda by nám nepůjčil vybrační brusku.
 
 # 20.9.
 
-Honza nám odpověděl, že se pro rusku můžeme klidně stavit. Takže jsme den začali výletem na zahrádku za Honzou. Pro nákup lina potřebujeme Galxy s velkým kufrem. Vadali jsme se pro další výměnu auta s tátou. Pozval nás nahoru, aby jsme Zlatce pomohli zprovoznit notebook, gmail (na který ji přišel Xaiomy aktivační kód) a její novou elektrickou koloběžku. 
+Honza nám odpověděl, že se pro brusku můžeme klidně stavit. Takže jsme den začali výletem na zahrádku za Honzou. Pro nákup lina potřebujeme Galxy s velkým kufrem. Vadali jsme se pro další výměnu auta s tátou. Pozval nás nahoru, aby jsme Zlatce pomohli zprovoznit notebook, gmail (na který ji přišel Xaiomy aktivační kód) a její novou elektrickou koloběžku. 
 
 ## S filcem nebo bez filcu?
 
@@ -138,17 +138,66 @@ K večeři jsme si dali Quesadiju.
 
 # 21.9.
 
+Důkladně jsem vyluxovali podlahu.
+Zakreslili jsme díry pro vruty na přichycení lišt pro montáž skřínek. Je neděle, díry budu vrtat až v pondělí. 
+Znovu jsme rozebrali vodu, protože ventil kapal a přetěsnili jsme pásku. Tentokrát to šlo utahovat upravdu ztuha. Tak snad bude mrcha držet.
+
+Igor se stavil pro část věcí co u nás nechal. 
+
 - [breno: jak položit lino](https://www.breno.cz/blog/jak-polozit-lino-pvc-poradime-jak-to-zvladnete-sami)
 
-## Všechno sem!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iEVAONIJzLc" title="Instalace granitového dřezu" frameborder="0" allowfullscreen></iframe>
 
-Při věšení skřínek jsme použili filcové a podložky pod nábytek, které jsme nalepili na spodní stranu, aby jsme dorovnali vzdálenost pantů od stěny.
+## Pokládání
 
+Vyklidili jsme veškerý obsah místnosti, aby jsme do ní mohli umístit lino. Přeměřili jsme opdlahu na třech místech: 237, 237, 238cm.
+Přinesli jsme lino do pokoje. Nejříve jsme jej umístili otočené o 90, aby jsme ho mohli po částech rozrolovat a zkrátit na rozměr 245cm. Pak jsme ho znovu srolovali a otočili ho tak, aby již šlo rozvinout ve správném směru. Poposouvali jsme ho po místnosti, tak aby mírně překrávalo všechny okolní stěny a práh dveří do místnosti. 
+
+Čas na oběd.
+
+## Řezání
+
+Lino se rozleželo, vlny se vyhladily. Ořízli jsme ho do finální podoby. Nůž na koberce, rovný nůž na lino a ocelové pravídko (ti chudší z vás použijí pekáč jako my), jsou nepostradatelné nástroje pro tuto operaci. Jako poslední krok jsem vyřízl díry na troubky od topení. Nejdříve jsem vyřízl dlouhým řezem spáru pro vložení trubky, pak jsem okolo položil jednu stranu lina. V místě kde překážela trubka jsem ještě kolmo nařízl lino, tak aby si mohlo lehnout na podlahu. Vznikly tak dva trojůhelníčkové tvary odchlíplé okolo trubky. Přiložil jsem přímí nůž a obroužil jsem potrubí, tak abych odřízl přebytečné lino. Tak se mi podařilo vykrojit docela podařené šišoidy obepínající topení.
+
+Kolem stěn jsme nechali spáru 2-5mm aby se lino mohlo roztánout až si bude sedat a nevyboulilo se.
+
+## Lepení
+Lino jsme nalepil fixačním lepidlem, které je přímo dělané na pokládku lin. Jeho výhoda je v tom, že lepí tak akorát. Lino zafixuje na místě, ale po čase umožní jeho snadné odtržení od země.
+
+Lino jsme přehnuli na půl.
+
+Použili jsme malý pěnový váleček pro rovnoměrné roztírání lepidla po podlaze. Pak jsme počkali asi 30 minut, než lepidlo odvětralo a změnilo barvu z bílé na průhlednou. Tento krok není nutný ale je lepší počkat pro optimální přilepení lina. 
+
+Pak jsme přilepili jednu půlku lina. Lino jsme vyhladili a primackli na lipidlo pomoci nohy od stolu obalené utěrkou. 
+
+![u okna]({{ site.baseurl }}/assets/fotky/IMG_20250921_171638768.jpg)
+
+Obdobně jsme prilepili i druhou část lina.
+
+![u dveří]({{ site.baseurl }}/assets/fotky/IMG_20250921_170239235_HDR.jpg)
+
+Máme přilepeno.
+
+![Lino]({{ site.baseurl }}/assets/fotky/IMG_20250921_200442854.jpg)
+
+## Soklové lišty
+
+Já jsem se stavil v Brenu pro lišty pro zakrytí okrajů, které v sobě mají žlábek pro kabel. Lišty se lepí na zeď a tak jsem ještě dokoupil Mamut lepidlo, které mi v prodejně pro instalací doporučili.
+
+Pořídil jsem:
+- 5ks lišt,
+- 3 kouty,
+- 2 propojky,
+- pravý roh,
+- mamuta,
+- filcové nálepky na nábytek.
+
+Japonskou pilkou jsem zkrátil lišty na potřebné délky. Uděli jsme díru do krabičky elrktroinstalce pod zásuvkou, aby skrz ní šel protáhnout ethernetový kabel. Lišty jsme začali postupně lepit mamutem ode dveří a schovávat do nich internetový kabel. Ten jsem vytáhli z kritky za topením, aby si človek mohl připojit svůj notebook na internet, když sedí u kuchyňského stolu.
 
 ## Máme hotové
 
     Již jsme zvládli:
-        ☑ nové světlo du kuchyně,
+        ☑ nové světlo do kuchyně,
         ☑ vyříznout v poličce díru na syfon,
         ☑ vymalovat,
         ☑ zapojit lustr,
@@ -156,42 +205,4 @@ Při věšení skřínek jsme použili filcové a podložky pod nábytek, které
         ☑ zapojit elektroinstalaci,
         ☑ koupit lino,
         ☑ natřít topení na bílo, 
-        ☐ pověsit skříňky,
-        ☐ položit lino,
-        ☐ naolejovat poličky,
-        ☐ natřít futra,
-        ☐ koupit myčku,
-        ☐ připojit spotřebiče,
-        ☐ vrátit nábytek,
-        ☐ udělat ze staré linky pracovní desku nad spotřebiče.
-
-## Rozpočet
-
-| Co  | Cena (Kč) |
-|-----|-----------|
-| Barvy na zdi a strop | 2000 |
-| Elektroinstalace (krabičky) | 1420 |
-| Elektroinstalace lišty + | 458 |
-| Nové světlo do kuchyně | 549 |
-| Nová linka do kuchyně | 2000 |
-| Dřez | 2590 |
-| Baterie | 1352 |
-| Materiál polička | 842 |
-| Materiál renovace skříněk | 600 |
-| Lino, lišty, lepidla | 6396 |
-| Myčka |  |
-| Tlumící podložky pod pračku |  |
-
-- [siko: drezova baterie](https://www.siko.cz/drezova-baterie-sat-se-silikonovym-raminkem-cerna-matna-satbsd290cm/p/SATBSD290CM)
-- [bauhaus: Kuchinox Vestavný dřez RAB](https://www.bauhaus.cz/kuchinox-vestavny-drez-rab-31325697)
-- [kvelektro: tango zásuvka](https://www.kvelektro.cz/krabice-listova-kopos-lk-80x28-2zt-hb-bila-pro-dvojzasuvky-tango-p1187250)
-- [breno: havanna oak](https://www.breno.cz/pvc-ambient-havanna-oak-669d-300)
-- [bauhaus: Rohový ventil kombinovaný](https://www.bauhaus.cz/rohovy-ventil-kombinovany-13332373)
-
-
-Podlahy a zdi vzal Igor na sebe.
-Máma nám přispěla 5000 Kč na rekonstrukci.
-
-## Moho by se příště hodit
-
-[web pro kutily](https://www.stavebni-vzdelani.cz/rekonstrukce/)
+        ☑ položit lino.
