@@ -21,6 +21,9 @@ Hlavní cíle rekonstrukce:
 <embed src="{{ site.baseurl }}/assets/Oznámení_o_rekonstrukci.pdf" width="100%" height="600" type="application/pdf">
 
 ## "Všichni ven!"
+
+![Sundaváme postel]({{ site.baseurl }}/assets/fotky/IMG_20250831.jpg)
+
 Vyklízíme malý pokoj a sundáváme postel a koberce ze zdí. Už to opravdu chtělo, jsou v nich zakuklení všude moli. Odhalili jsme krysí hnízdo kabelů. Igor zde kdysi zapojil psa do zásuvky a do něj prodlužku a kabel od světla v kuchyni, které mizí ve zdi. Kabely visí po stěně křížem. Bude to zajímavé, až se je budu snažit schovat do lišt.
 
 ![Sundaváme koberce ze zdí]({{ site.baseurl }}/assets/fotky/IMG_20250831_140403484.jpg)

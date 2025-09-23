@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "Rekonstrukce díl 4"
-description: Záveř
+description: Závěr
 categories: ["rekonstrukce"]
+thumbnail: /assets/fotky/IMG_20250922_151556095.jpg
 ---
 
 # TODO:
@@ -48,6 +49,10 @@ Pomocí vazacího drátu a 4 vrutů jsem zpevnil křížem skřínku bez zad, ab
 
 Jako poslední jsme stěhovali pračku. Kolečka nám na polovnu cesty přišly vhod. V jídelně jsme ji již na finální destinaci odnesli v rukách. 
 
+Před:
+![Sundaváme postel]({{ site.baseurl }}/assets/fotky/IMG_20250831.jpg)
+
+Po:
 ![Gotovo je gotovo!]({{ site.baseurl }}/assets/fotky/IMG_20250922_204731235.jpg)
 
 Do místnosti ještě v budoucnu přibyde:
@@ -56,6 +61,17 @@ Do místnosti ještě v budoucnu přibyde:
 - rohová Ikea skříň,
 - něco malého na zeď (asi tapiserie rodu Blacků...)
 
+## Máme hotové
+
+    Již jsme zvládli:
+        ☑ pověsit skříňky,
+        ☑ vrátit nábytek,
+        ☑ fixovat záda skříně bez zad,
+        ☐ naolejovat poličky,
+        ☐ natřít futra,
+        ☐ koupit myčku,
+        ☐ připojit spotřebiče,
+        ☐ udělat ze staré linky pracovní desku nad spotřebiče.
 
 ## Rozpočet
 
