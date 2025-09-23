@@ -11,7 +11,7 @@ Není tomu ani dva dny, co jsme se vrátili z dovolené, a už jsme se pustili d
 
 Hlavní cíle rekonstrukce:
 - sundat koberce a postel ze zdí,
-- opravit díry ve zdích po hmožinkách,
+- opravit díry ve zdích po hmoždinkách,
 - vybrat barvu a vymalovat,
 - zakrýt kachličky (obklad palubkami),
 - pořídit a zapojit myčku,
@@ -46,11 +46,11 @@ Podle Igora nejlépe, když se to udělá všechno najednou, když už bude štu
 
 ![Sundaváme kachličky]({{ site.baseurl }}/assets/fotky/IMG_20250901_174654621_HDR.jpg)
 
-Sundávám kachle ze zdí. Podlahu necháme tak jak je, zakreje se zase kobercem. Vršek zdi pod stropem není vůbec rovný, nějak jim tu nevyšly panely. Igor udělá ještě nové podhledy, aby se to srovnalo.
+Sundávám kachle ze zdí. Podlahu necháme tak jak je, zakryje se zase kobercem. Vršek zdi pod stropem není vůbec rovný, nějak jim tu nevyšly panely. Igor udělá ještě nové podhledy, aby se to srovnalo.
 
 # 3.9.
 
-Sundavám lepidlo ze zdí. Močím zdi a škrábu barvu z omýtky.
+Sundavám lepidlo ze zdí. Močím zdi a škrábu barvu z omítky.
 Večer se stavil Mára a doškrábali jsme omítku, rozebrali zásuvky a vrtali díru do stoupaček na nový budoucí přívod ke světlu a sekali jsme drážku na starý vodič pro světlo, aby nepřekážel podhledům.
 
 # 4.9.
@@ -90,7 +90,7 @@ Na večeři jsme pozvaní k mámě.
 ![Strop]({{ site.baseurl }}/assets/fotky/IMG20250907190825.jpg)
 
 
-Igor pokrakuče ve štukování zdí a omítá vápennou omítkou. Já škrábu lepidlo z podlahy, aby se mohla vylít nová podlaha.
+Igor pokračuje ve štukování zdí a omítá vápennou omítkou. Já škrábu lepidlo z podlahy, aby se mohla vylít nová podlaha.
 
 S Erikou plánujeme rande v kině, když už je ta neděle. Šli jsme na Jak vycvičit draka, hranou verzi.
 
