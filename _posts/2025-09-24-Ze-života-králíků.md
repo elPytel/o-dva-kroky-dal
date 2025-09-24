@@ -30,7 +30,7 @@ Politici se však ještě úplně nevzpamatovali po fiasku z prohrané války s 
 
 # Matematika přichází na pomoc
 
-Pan Picek odborník na matematiku hovoří:
+Pan Picek, odborník na matematiku, hovoří:
 
 "Víte s králíkama se to má tak, oni se pořád množí. Ale tady není potřeba vymýšlet nic nového, on to přede mnou již popsal ve 13. století jistý Leonardo Pisánský zvaný Fibonacci ve své posloupnosti popisující právě růst populace králíků."
 
@@ -45,7 +45,7 @@ Názorná ilustrace množství králíků dle Fibonaccioho posloupnosti:
 
 ![wiki: fibo králíci](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/FibonacciRabbit.svg/250px-FibonacciRabbit.svg.png)
 
-Pan Picek vypracoval počítačový program pro výpočet množství králíků:
+Pan Picek vypracoval pro Australskou vládu počítačový program pro výpočet množství králíků:
 
 ```python
 
@@ -122,7 +122,7 @@ $$
 a_n = \frac{\varphi^n-\psi^n}{\sqrt5}
 $$
 
-Programátoři vypracovali nový upravený program, který již jen dosazoval do vzorečku:
+Programátoři vytvořili nový upravený program, který již jen dosazoval do vzorečku:
 ```python
 import math
 
