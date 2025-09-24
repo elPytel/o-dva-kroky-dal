@@ -30,7 +30,7 @@ Politici se však ještě úplně nevzpamatovali po fiasku z prohrané války s 
 
 # Matematika přichází na pomoc
 
-Pan Picek, odborník na matematiku, hovoří:
+Pan prof. RNDr. CSc. Picek, odborník na matematiku, hovoří:
 
 "Víte s králíkama se to má tak, oni se pořád množí. Ale tady není potřeba vymýšlet nic nového, on to přede mnou již popsal ve 13. století jistý Leonardo Pisánský zvaný Fibonacci ve své posloupnosti popisující právě růst populace králíků."
 
@@ -81,11 +81,12 @@ Na výstupu počítače pro chybová hlášení se rozsvítili číslice **1202*
 Počítač se zasekl na rekurentní smyčce. Funkce `fibonacci()` se volala pořád dokola a dokola až počítači přetekl stack, tedy došla paměť pro výpočty. Žádný počítač té doby nebyl dostatečně výkonný aby dovedl tento problém vypočíst, ale to nikdo z programátorů tenkrát ještě nevěděl. Museli se vrátit zpět k rýsovacímu prknu, nebo přesněji k matematikům. 
 
 # Řešení rekurentních rovnic
-Pan Picek 
 
-"Můžeme se vydat cestou řešení rekurentních rovnic."
+Vláda se opět obrátila pro radu k panu prof. RNDr. CSc. Pickovi. Ten jim pomoc neodmítl ani tentokrát:
 
-Fibonacciho posloupnost jako rekurentní vztah:
+"Můžeme se vydat cestou řešení rekurentních rovnic!"
+
+Fibonacciho posloupnost vyjádřená jako rekurentní vztah:
 $$a_{n+2} = a_{n+1} + a_n$$
 
 Počáteční podmínky:
@@ -140,7 +141,7 @@ def fibonacci(n):
     return ans
 ```
 
-Tento program již neměl zabudovanou rekurzi a tak odběhl in počítači té doby.
+Tento program již neměl zabudovanou rekurzi a tak doběhl in počítači té doby.
 
 Výsledkem bylo: **354 224 848 179 263 100 000**
 # Video
