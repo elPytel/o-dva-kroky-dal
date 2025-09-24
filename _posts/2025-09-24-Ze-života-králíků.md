@@ -86,38 +86,45 @@ Pan Picek
 "Můžeme se vydat cestou řešení rekurentních rovnic."
 
 Fibonacciho posloupnost jako rekurentní vztah:
-$a_{n+2} = a_{n+1} + a_n$
+$$a_{n+2} = a_{n+1} + a_n$$
 
 Počáteční podmínky:
-- $a_0 = 0$
-- $a_1 = 1$
+$$a_0 = 0$$,
+$$a_1 = 1$$
 
 Charakteristický polynom:
-$x^2 -x -1= 0$
+$$ x^2 -x -1= 0 $$
 
 Kořeny kvadratické rovnice:
 
-$x_{1,2} = \frac{1 \pm \sqrt{1+4}}{2}$
+$$x_{1,2} = \frac{1 \pm \sqrt{1+4}}{2}$$
 
-$x_{1,2} = \frac{1 \pm \sqrt{5}}{2}$
+$$x_{1,2} = \frac{1 \pm \sqrt{5}}{2}$$
 
 Povšimněte si že jeden z kořenů vychází jako hodnota zlatého středu:
 φ = (1+√5) / 2 ≈ 1,618
 
 Obecné řešení:
-$a_n = \alpha \varphi ^n + \beta \psi ^n$
+$$a_n = \alpha \varphi ^n + \beta \psi ^n$$
 
 Dosazení počátečních podmínek:
-$a_0 = 0 = \alpha \varphi ^0 + \beta \psi ^0$
-$\alpha = - \beta$
 
-$a_1 = 1 = \alpha \varphi ^1 + \beta \psi ^1$
-$a_1 = 1 = \alpha \varphi ^1 - \alpha \psi ^1$
-$\alpha = \frac{1}{\varphi - \psi}$
+$$a_0 = 0 = \alpha \varphi ^0 + \beta \psi ^0$$
 
-$\varphi - \psi = \sqrt5$
+$$\alpha = - \beta$$
+
+$$a_1 = 1 = \alpha \varphi ^1 + \beta \psi ^1$$
+
+Dosadíme alfu za betu:
+
+$$a_1 = 1 = \alpha \varphi ^1 - \alpha \psi ^1$$
+
+$$\alpha = \frac{1}{\varphi - \psi}$$
+
+$$\varphi - \psi = \sqrt5$$
 
 Výsledný vzorec pro výpočet n-tého členu je:
+
 $$
 a_n = \frac{\varphi^n-\psi^n}{\sqrt5}
 $$
