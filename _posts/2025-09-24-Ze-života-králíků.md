@@ -30,7 +30,7 @@ Politici se však ještě úplně nevzpamatovali po fiasku z prohrané války s 
 
 # Matematika přichází na pomoc
 
-Pan prof. RNDr. CSc. Picek, odborník na matematiku, hovoří:
+Pan prof. Picek, odborník na matematiku, hovoří:
 
 "Víte s králíkama se to má tak, oni se pořád množí. Ale tady není potřeba vymýšlet nic nového, on to přede mnou již popsal ve 13. století jistý Leonardo Pisánský zvaný Fibonacci ve své posloupnosti popisující právě růst populace králíků."
 
@@ -82,7 +82,7 @@ Počítač se zasekl na rekurentní smyčce. Funkce `fibonacci()` se volala poř
 
 # Řešení rekurentních rovnic
 
-Vláda se opět obrátila pro radu k panu prof. RNDr. CSc. Pickovi. Ten jim pomoc neodmítl ani tentokrát:
+Vláda se opět obrátila pro radu k panu prof. Pickovi. Ten jim pomoc neodmítl ani tentokrát:
 
 "Můžeme se vydat cestou řešení rekurentních rovnic!"
 

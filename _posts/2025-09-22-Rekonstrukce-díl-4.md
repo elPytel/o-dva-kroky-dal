@@ -55,11 +55,78 @@ Před:
 Po:
 ![Gotovo je gotovo!]({{ site.baseurl }}/assets/fotky/IMG_20250922_204731235.jpg)
 
-Do místnosti ještě v budoucnu přibyde:
+Do místnosti ještě v budoucnu přibude:
 - myčka,
 - pracovní deska nad spotřebiče,
 - rohová Ikea skříň,
 - něco malého na zeď (asi tapiserie rodu Blacků...)
+
+# 23.9.
+Naolejoval jsem poličky.
+
+Myčka, kterou jsme si chtěli pořídit, je na Alze momentálně vyprodaná.
+
+# 24.9.
+S Igorem jsme vrátli ledničku na původní místo. 
+S Erikou vyzvedáváme puzzle s motivem tapiserie rodu blacků.
+
+![tapiserie rodu blacků]({{ site.baseurl }}/assets/Harry Potter Rodokmen.jpg)
+
+# 26.9.
+Barvíme futra na bílo a trubky od topení dostávají poslední nátěr.
+Zaděláváme díry ve zdi cementovým lepidlem. 
+Na Alze naskladnili myčku kterou jsme si vyhlédli, ale již není ve slevě na 10k, ale je za 12,5k.
+
+# 27.9.
+Plánujeme udělat detaijl listů na zeď v jídelně.
+Díry ve zdi v koupelně chceme překrýt barvou. Máme několik možností:
+- nově vymalovat celé zdi,
+- překrýt díry motivem.
+
+Plánujeme vzory, které by mohly zakrýt díry ve zdi:
+
+<div id="gallery">
+  <img id="rotating-img" src="{{ site.baseurl }}/assets/fotky/IMG_20250927-34.jpg" width="700" >
+  <br>
+  <div style="display: flex; justify-content: space-between; width: 400px;">
+    <button onclick="prevImg()">Předchozí</button>
+    <button onclick="nextImg()">Další</button>
+  </div>
+</div>
+
+<script>
+const path = "{{ site.baseurl }}/assets/fotky/";
+
+const images = [
+    "IMG_20250927-34.jpg",
+    "IMG_20250927-36.jpg",
+    "IMG_20250927-39.jpg",
+    "IMG_20250927-51.jpg",
+];
+
+let idx = 0;
+
+function showImg() {
+    document.getElementById('rotating-img').src = path + images[idx];
+}
+
+function prevImg() {
+    idx -= 1;
+    if (idx < 0) idx = 0;
+    showImg();
+}
+
+function nextImg() {
+    idx = idx + 1;
+    if (idx >= images.length) idx = images.length - 1;
+    showImg();
+}
+</script>
+
+Zvolili jsme si vzor západu slunce, který by svými paprsky překryl otvory. 
+V Bauhausu pořizujeme barvu do koupelny a na futra. Futra dostávají třetí vrstvu bílé. 
+
+Erika navrhuje opustit plán Slunce a vydat se cestou listů.
 
 ## Máme hotové
 
@@ -67,8 +134,10 @@ Do místnosti ještě v budoucnu přibyde:
         ☑ pověsit skříňky,
         ☑ vrátit nábytek,
         ☑ fixovat záda skříně bez zad,
-        ☐ naolejovat poličky,
-        ☐ natřít futra,
+        ☑ naolejovat poličky,
+        ☑ natřít futra,
+        ☐ opravit zeď v koupelně,
+        ☐ vymalovat v koupelně,
         ☐ koupit myčku,
         ☐ připojit spotřebiče,
         ☐ udělat ze staré linky pracovní desku nad spotřebiče.
@@ -87,8 +156,15 @@ Do místnosti ještě v budoucnu přibyde:
 | Materiál polička | 842 |
 | Materiál renovace skříněk | 600 |
 | Lino, lišty, lepidla | 7396 |
+| Barvy na futra a koupelnu | 770 |
 | Myčka |  |
 | Tlumící podložky pod pračku |  |
+
+| Barva | kód |
+|-----|-----------|
+| vanilková | 10.062 |
+| cihlová | 04.041 |
+| světe hnědá | 31.146 |
 
 - [siko: drezova baterie](https://www.siko.cz/drezova-baterie-sat-se-silikonovym-raminkem-cerna-matna-satbsd290cm/p/SATBSD290CM)
 - [bauhaus: Kuchinox Vestavný dřez RAB](https://www.bauhaus.cz/kuchinox-vestavny-drez-rab-31325697)
