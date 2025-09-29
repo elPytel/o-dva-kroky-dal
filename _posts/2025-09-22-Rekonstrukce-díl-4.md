@@ -128,6 +128,22 @@ V Bauhausu pořizujeme barvu do koupelny a na futra. Futra dostávají třetí v
 
 Erika navrhuje opustit plán Slunce a vydat se cestou listů.
 
+# 28.9.
+
+Erice se nelíbí hnědá, kterou jsme si koupili a tak Erika z nové hnědé a ze staré černo hnedé míchá nový odstín, kterým natřeme futra.
+
+Erika zbrousila záplaty v kouplně a přidala na ně finišku. Až zaschne, můžeme malovat. 
+
+Natíráme futra do:
+- jídelny,
+- obýváku,
+- koupelny,
+- záchoda.
+
+Futra kěždé natíráme nekolika barvamy. Část do chodby je bílá. Směrem do pokojů jsou svtěle hnedé, ala dřevo. Prahy natíráme na tmavou hnedou. 
+
+Erika namalovala listy na zeď v koupelně.
+
 ## Máme hotové
 
     Již jsme zvládli:
@@ -135,47 +151,5 @@ Erika navrhuje opustit plán Slunce a vydat se cestou listů.
         ☑ vrátit nábytek,
         ☑ fixovat záda skříně bez zad,
         ☑ naolejovat poličky,
-        ☑ natřít futra,
-        ☐ opravit zeď v koupelně,
-        ☐ vymalovat v koupelně,
-        ☐ koupit myčku,
-        ☐ připojit spotřebiče,
-        ☐ udělat ze staré linky pracovní desku nad spotřebiče.
-
-## Rozpočet
-
-| Co  | Cena (Kč) |
-|-----|-----------|
-| Barvy na zdi a strop | 2000 |
-| Elektroinstalace (krabičky) | 1420 |
-| Elektroinstalace lišty + | 458 |
-| Nové světlo do kuchyně | 549 |
-| Nová linka do kuchyně | 2000 |
-| Dřez | 2590 |
-| Baterie | 1352 |
-| Materiál polička | 842 |
-| Materiál renovace skříněk | 600 |
-| Lino, lišty, lepidla | 7396 |
-| Barvy na futra a koupelnu | 770 |
-| Myčka |  |
-| Tlumící podložky pod pračku |  |
-
-| Barva | kód |
-|-----|-----------|
-| vanilková | 10.062 |
-| cihlová | 04.041 |
-| světe hnědá | 31.146 |
-
-- [siko: drezova baterie](https://www.siko.cz/drezova-baterie-sat-se-silikonovym-raminkem-cerna-matna-satbsd290cm/p/SATBSD290CM)
-- [bauhaus: Kuchinox Vestavný dřez RAB](https://www.bauhaus.cz/kuchinox-vestavny-drez-rab-31325697)
-- [kvelektro: tango zásuvka](https://www.kvelektro.cz/krabice-listova-kopos-lk-80x28-2zt-hb-bila-pro-dvojzasuvky-tango-p1187250)
-- [breno: havanna oak](https://www.breno.cz/pvc-ambient-havanna-oak-669d-300)
-- [bauhaus: Rohový ventil kombinovaný](https://www.bauhaus.cz/rohovy-ventil-kombinovany-13332373)
-
-
-Podlahy a zdi vzal Igor na sebe.
-Máma nám přispěla 5000 Kč na rekonstrukci.
-
-## Moho by se příště hodit
-
-[web pro kutily](https://www.stavebni-vzdelani.cz/rekonstrukce/)
+        ☑ natřít futra jídelna,
+        ☑ opravit zeď v koupelně.
