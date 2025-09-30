@@ -19,7 +19,7 @@ thumbnail: /assets/fotky/IMG_20250929_111520.jpg
 
 # 29.9.
 
-![koupelna]({{ site.baseurl }}/assets/fotky/IMG_20250929_111520.jpg)
+![koupelna]({{ site.baseurl }}/assets/fotky/IMG_20250929_104615954.jpg)
 
 Až budete malovat futra, tak si pořidtě krátký váleček. Jde to s ním asi 4x rychleji než se štetcem.
 
@@ -27,15 +27,28 @@ Upravujeme hnědou. Natíráme druhou část třech futer na bílo.
 
 Hnědou jsme si nekolikrát domýcháváli, takže každá futra jsou trochu jiná. Když jsme pak opravovali místa, která se nepovedla, tak jsme už neměli stejnou barvu. Takže to nevyšlo úplně ideálně.
 
+![koupelna]({{ site.baseurl }}/assets/fotky/IMG_20250929_111520.jpg)
+
 Erika dodělala vzor v koupelně.
+
+# 30.9.
+
+Při sundavání pásky z futer se ztrhla barva, jak ta která byla pod páskou, tak i ta která pásku překrývala. Takže musíme opravit jak části s hnedou, tak i s bílou.
+
+Až budetš příště malovat futra:
+- vem si váleček,
+- páskou oblep jen zeď kolem futer (tou širokou),
+- ideálně si vyber jen jednu barvu,
+- rohy dělej malým štečkem a pevnou rukou,
+- když budeš míchat barvu, protože jsis koupil špatnou, tak si jí namýchej víc než budeš potřebovat na všechny futra na 2 nátěřy, protože ten odstín už nidky netrefíš,
 
 ## Máme hotové
 
     Již jsme zvládli:
         ☑ vymalovat v koupelně,
-        ☐ natřít futra obývák,
-        ☐ natřít futra koupelna,
-        ☐ natřít futra záchod,
+        ☑ natřít futra obývák,
+        ☑ natřít futra koupelna,
+        ☑ natřít futra záchod,
         ☐ koupit myčku,
         ☐ připojit spotřebiče,
         ☐ udělat ze staré linky pracovní desku nad spotřebiče.

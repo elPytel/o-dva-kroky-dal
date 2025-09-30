@@ -75,6 +75,9 @@ S Erikou vyzvedáváme puzzle s motivem tapiserie rodu blacků.
 # 26.9.
 Barvíme futra na bílo a trubky od topení dostávají poslední nátěr.
 Zaděláváme díry ve zdi cementovým lepidlem. 
+
+![díry ve zdi]({{ site.baseurl }}/assets/fotky/IMG_20250926_155505632.jpg)
+
 Na Alze naskladnili myčku kterou jsme si vyhlédli, ale již není ve slevě na 10k, ale je za 12,5k.
 
 # 27.9.
@@ -141,6 +144,8 @@ Natíráme futra do:
 - záchoda.
 
 Futra kěždé natíráme nekolika barvamy. Část do chodby je bílá. Směrem do pokojů jsou svtěle hnedé, ala dřevo. Prahy natíráme na tmavou hnedou. 
+
+![Koupelna]({{ site.baseurl }}/assets/fotky/IMG_20250928_182821372.jpg)
 
 Erika namalovala listy na zeď v koupelně.
 
