@@ -47,3 +47,74 @@
     }
   }
 }
+
+
+// Volitelně obecný styl pro všechny callouty
+.callout {
+  padding: 1em;
+  margin: 1em 0;
+  border-radius: 4px;
+  background: #f5f7fa;
+  border-left: 4px solid #007acc;
+}
+
+.info, .note {
+  border-left: 4px solid #3498db;
+  background: #eaf4fb; // světle modrá
+  padding: 1em;
+  margin: 1em 0;
+  border-radius: 4px;
+  color: #1a3a5e;
+  font-size: 1em;
+}
+
+.tip, .success {
+  border-left: 4px solid #27ae60;
+  background: #eafaf1;
+  color: #206040;
+  padding: 1em;
+  margin: 1em 0;
+  border-radius: 4px;
+  font-size: 1em;
+}
+
+.question, .help {
+  border-left: 4px solid #8e44ad;
+  background: #f5eafd;
+  color: #4b286d;
+  padding: 1em;
+  margin: 1em 0;
+  border-radius: 4px;
+  font-size: 1em;
+}
+
+.danger, .bug, .error {
+  border-left: 4px solid #e74c3c;
+  background: #fdecea;
+  color: #c0392b;
+  padding: 1em;
+  margin: 1em 0;
+  border-radius: 4px;
+  font-size: 1em;
+}
+
+.example {
+  border-left: 4px solid #f39c12;
+  background: #fff8e1;
+  color: #7a5a00;
+  padding: 1em;
+  margin: 1em 0;
+  border-radius: 4px;
+  font-size: 1em;
+}
+
+.quote {
+  border-left: 4px solid #95a5a6;
+  background: #f4f8f9;
+  color: #555;
+  font-style: italic;
+  padding: 1em;
+  margin: 1em 0;
+  border-radius: 4px;
+  font-size: 1em;
+}
