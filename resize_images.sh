@@ -12,26 +12,26 @@ RESOLUTION="1280x1280"
 COMPRESION="75"
 
 function Help() {
-	echo "Compresing images in source dir."
-	echo
-	echo "Usage: $0 [options] [arguments]"
-	echo
-	echo "Options:"
-	echo "-s source         source foulcer"
-	echo "-c compresion     Compresion quality, defoult: 75"
-	echo "-h                Description of the script operation"
+    echo "Compresing images in source dir."
+    echo
+    echo "Usage: $0 [options] [arguments]"
+    echo
+    echo "Options:"
+    echo "-s source         source folder"
+    echo "-c compresion     Compresion quality, defoult: 75"
+    echo "-h                Description of the script operation"
 }
 
 while getopts s:d:r:c:h flag
 do
-	case "${flag}" in
+    case "${flag}" in
         s) PHOTO_SOURCE_DIR=${OPTARG};;
-		d) PHOTO_DEST_DIR=${OPTARG};;
-		r) RESOLUTION=${OPTARG};;
+        d) PHOTO_DEST_DIR=${OPTARG};;
+        r) RESOLUTION=${OPTARG};;
         c) COMPRESION=${OPTARG};;
-		h) Help
-		   exit;;
-	esac
+        h) Help
+            exit;;
+    esac
 done
 
 # Projít všechny JPG soubory ve složce
