@@ -56,7 +56,8 @@ Ne že by Windows 10 neuměli udělat uložiště, které má více vrstev (cach
 
 Dále v textu je přiložené script, která umožnuje vytvořit více úrovňové uložiště z prázdných disků.
 
-NOTE: byl trochu problém s utilizací SSD disku, musel jsem ji snížit na nějakých 93% aby měl Windows nechali disk vytvořit.
+{: .note }
+> byl trochu problém s utilizací SSD disku, musel jsem ji snížit na nějakých 93% aby měl Windows nechali disk vytvořit.
 
 ![Prostory uložišť.png]({{ site.baseurl }}/assets/Prostory uložišť.png)
 
