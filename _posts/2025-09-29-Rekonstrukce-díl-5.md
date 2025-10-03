@@ -42,6 +42,9 @@ Až budetš příště malovat futra:
 - rohy dělej malým štečkem a pevnou rukou,
 - když budeš míchat barvu, protože jsis koupil špatnou, tak si jí namýchej víc než budeš potřebovat na všechny futra na 2 nátěřy, protože ten odstín už nidky netrefíš,
 
+{: .info}
+> Při vrtání děr do zdi se doporučuje doraz vrtat bez příklepu, aby jste se neprobourali do vedlejší místnosti.
+
 ## Máme hotové
 
     Již jsme zvládli:
