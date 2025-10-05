@@ -3,6 +3,7 @@ layout: post
 title: "Výlet do Hradce Králové"
 description: 20 lvů a akvárko 
 categories: ["turistika", "Hradec Králové"]
+thumbnail: /assets/fotky/IMG20251004164344.jpg
 ---
 
 # Výlet do Hradce Králové
@@ -50,7 +51,7 @@ Pak jsme s přesunuli do Hradce. Auto jsme zaparkovali na náměstí na příjem
 Vydali jsme se na oběd do místní indické restaurace.
 
 ![Hradec před elektrárnou]({{ site.baseurl }}/assets/fotky/IMG20251004161600.jpg)
-Kulíšky háčkovala Erička.
+Kulíšky upletla Erička.
 
 - [kudyznudy: Procházkové okruhy Hradcem Králové](https://www.kudyznudy.cz/aktivity/prochazkove-okruhy-hradcem-kralove)
 - [hradeckralove: Procházky městem Hradec Králové](https://www.hradeckralove.org/prochazky-mestem-hradec-kralove/ds-1817)

@@ -40,6 +40,7 @@ Až budetš příště malovat futra:
 - páskou oblep jen zeď kolem futer (tou širokou),
 - ideálně si vyber jen jednu barvu,
 - rohy dělej malým štečkem a pevnou rukou,
+- neber si na malování své oblíbené tričko,
 - když budeš míchat barvu, protože jsis koupil špatnou, tak si jí namýchej víc než budeš potřebovat na všechny futra na 2 nátěřy, protože ten odstín už nidky netrefíš,
 
 {: .info}
