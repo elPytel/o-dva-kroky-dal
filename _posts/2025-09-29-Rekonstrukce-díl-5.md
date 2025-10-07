@@ -46,6 +46,12 @@ Až budetš příště malovat futra:
 {: .info}
 > Při vrtání děr do zdi se doporučuje doraz vrtat bez příklepu, aby jste se neprobourali do vedlejší místnosti.
 
+# 7.10.
+Koupili jsme myčku na Alze. Zase naskladnili a zlevnili (o dva tisíce) model co se nám zamlouval. Myčka BOSCH [SMS4EVI00E Serie 4](https://www.alza.cz/bosch-sms4evi00e-serie-4-d12775163.htm), její výhoda tkví ve funkci otevírání dvířek po té co myčka domyje, takže se nádobí samo oschne a nezatuchne. 
+
+Ještě musíme vymyslet jak jí dostaneme domů, protože váží 50 kg.
+
+
 ## Máme hotové
 
     Již jsme zvládli:
@@ -53,7 +59,7 @@ Až budetš příště malovat futra:
         ☑ natřít futra obývák,
         ☑ natřít futra koupelna,
         ☑ natřít futra záchod,
-        ☐ koupit myčku,
+        ☑ koupit myčku,
         ☐ připojit spotřebiče,
         ☐ udělat ze staré linky pracovní desku nad spotřebiče.
 
@@ -72,11 +78,13 @@ Až budetš příště malovat futra:
 | Materiál renovace skříněk | 600 |
 | Lino, lišty, lepidla | 7396 |
 | Barvy na futra a koupelnu | 770 |
-| Myčka |  |
+| Myčka | 11 892 |
 | Tlumící podložky pod pračku |  |
 
+👉 Celkem: 31 869 Kč
+
 | Barva | kód |
-|-----|-----------|
+|-------|------|
 | vanilková | 10.062 |
 | cihlová | 04.041 |
 | světe hnědá | 31.146 |
