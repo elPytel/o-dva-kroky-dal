@@ -46,11 +46,63 @@ Až budetš příště malovat futra:
 {: .info}
 > Při vrtání děr do zdi se doporučuje doraz vrtat bez příklepu, aby jste se neprobourali do vedlejší místnosti.
 
+# 6.10.
+Přistavili před panelák kontejner na bordel. Vyhazujeme stará kancelářská křesla v počtu 2ks. sluhu a starý dřez. 
+Další krabici ruských knížek odnášíme do sklepa, aby nepřekážela za výtahem společně s ohromnou rolí bublinkové folie. 
+Balíme zbytečné květináče a odvážíme je do garáže. Vyhazujeme zářivku a asfalt na střechu z garáže.
+
+> Žijeme americkým snem!
+> - Autem s židlemi k popelnicím (2 protože se všechny 3 do kufru nevešli).
+> - Autem na oběd protože jsme nachcípaný.
+> - Autem do garáže s květináčema.
+> - Autem do školy s Eričkou na poslední cviko.
+> - Autem na večeři do města.
+
 # 7.10.
 Koupili jsme myčku na Alze. Zase naskladnili a zlevnili (o dva tisíce) model co se nám zamlouval. Myčka BOSCH [SMS4EVI00E Serie 4](https://www.alza.cz/bosch-sms4evi00e-serie-4-d12775163.htm), její výhoda tkví ve funkci otevírání dvířek po té co myčka domyje, takže se nádobí samo oschne a nezatuchne. 
 
 Ještě musíme vymyslet jak jí dostaneme domů, protože váží 50 kg.
 
+# 8.10.
+13:20
+Přišel jsem ze školy, program na dnešní odpoledne je zapojit myčku.
+Půjčili jsme si od Mary rudlik výměnou za dva cidery. Zajeli jsme na Alzu pro myčku. 
+
+![myčka v autě]({{ site.baseurl }}/assets/fotky/IMG_20251008_144136709.jpg)
+
+Štěstí že kufry Fabií kombi jsou dělaný přesně v rozměru jedné pračky. 
+Odvezli jsme myčku domů a vytáhli jsme jí do bytu. 
+
+![myčka ve výtahu]({{ site.baseurl }}/assets/fotky/IMG_20251008_150546308.jpg)
+
+Do výtahu se vešla na centimetr přesně.
+
+Myčka nejde připojit, protože vyvod na vodu je kolmo misto svisle, takže by nám nejspíš nefungoval aquastop systém a hadice se tam stejně nevejde přes pračku.
+
+Návštěva Bauhausu, kupujeme koleno a další věci:
+- háčky na utěrky, 
+- novou maskovací pásku, 
+- těsnící pásku.
+
+Vracíme Marovi rudlu a stavujeme se na svačinu do McDonaldu.
+
+Sůl říkal někdo sůl?
+Jedeme do Tety drogerie pro sůl do myčky. Budou 3kg stačit?
+
+## Návrat domů a připojujeme myčku
+
+![koleno]({{ site.baseurl }}/assets/fotky/IMG_20251008_204236768.jpg)
+
+Instalace kolena, dva pokusy o přetěnění přívodu vody, připojení myčky, první zapnutí. Doplňte sůl.
+1,5kg soli v ní zmizelo jako nic.
+
+![nádobí]({{ site.baseurl }}/assets/fotky/IMG_20251008_202926100.jpg)
+
+20:45 pouštíme myčku.
+
+Čas na večeři.
+
+Myčka nám poprvé umyla nádobí.
 
 ## Máme hotové
 
@@ -60,7 +112,7 @@ Ještě musíme vymyslet jak jí dostaneme domů, protože váží 50 kg.
         ☑ natřít futra koupelna,
         ☑ natřít futra záchod,
         ☑ koupit myčku,
-        ☐ připojit spotřebiče,
+        ☑ připojit spotřebiče,
         ☐ udělat ze staré linky pracovní desku nad spotřebiče.
 
 ## Rozpočet
@@ -79,9 +131,9 @@ Ještě musíme vymyslet jak jí dostaneme domů, protože váží 50 kg.
 | Lino, lišty, lepidla | 7396 |
 | Barvy na futra a koupelnu | 770 |
 | Myčka | 11 892 |
-| Tlumící podložky pod pračku |  |
+| Na instalaci myčky | 340 |
 
-👉 Celkem: 31 869 Kč
+👉 Celkem: 32 209 Kč
 
 | Barva | kód |
 |-------|------|
