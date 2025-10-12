@@ -4,6 +4,7 @@ title: Universal Downloader
 description: Program pro stahování různých typů souborů z internetu
 categories:
   - Python
+  - Universal Downloader
 thumbnail: https://github.com/elPytel/Universal_downloader/raw/main/assets/app.png
 ---
 
@@ -66,8 +67,10 @@ options:
 ```
 
 Le GUI aplikace:
+
 ![app](https://github.com/elPytel/Universal_downloader/raw/main/assets/app.png)
 
+{: .danger }
 Bohužel sdílej přešlo na placený model a tak již moje aplikace nefunguje.
 
 # Přínos
