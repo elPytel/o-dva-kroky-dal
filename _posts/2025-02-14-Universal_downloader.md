@@ -17,11 +17,11 @@ thumbnail: https://github.com/elPytel/Universal_downloader/raw/main/assets/app.p
 
 # Pohled do histore
 
-S kamerády jsme na ještě na střední škole hojně využívali služeb Uložta. Když člověk chtěl v těchti dřevních dobách stahovat rychleji enž je mrzkých 300kbps, tak si musel člověk zaplatit za stažené gigabity dat. Metodou pokud->omyl jsem zjistil, že když začnete stahovat jeden soubor v jednom prolížeči a další v jiném. Tak vás Uložto neodstřihne. Nainstaloval jsem si hned čtyři další webové prohlížeče. Takhle to šlo rok za rokem až jednou jeden z nás narazil na naprosto revoluční způsob stahování: [Vžum!](https://vzum.hys.cz/). 
+S kamarády jsme na ještě na střední škole hojně využívali služeb Uložta. Když člověk chtěl v těchti dřevních dobách stahovat rychleji než je mrzkých 300kbps, tak si musel člověk zaplatit za stažené gigabity dat. Metodou pokud->omyl jsem zjistil, že když začnete stahovat jeden soubor v jednom prolížeči a další v jiném. Tak vás Uložto neodstřihne. Nainstaloval jsem si hned čtyři další webové prohlížeče. Takhle to šlo rok za rokem až jednou jeden z nás narazil na naprosto revoluční způsob stahování: [Vžum!](https://vzum.hys.cz/).
 
 Malá aplikace, kterou někdo někde naprogramoval a umožnovala stahovat z uložta jako z torentu. Aplikace soubor rozdělila do několika paralelních stahování a soubory poté slepila do hromady. Rychlost stahování to zvedlo třeba 10x! A co bylo ještě lepší?! Instancí vžumu šlo spustit rovnou několik a stahovat v každé z nich.
 
-Jedna z vlatností, která vžumu chybala byla seznam souborů k postupnému stahování. 
+Jedna z vlastností, která vžumu chyběla, byla možnost seznamu souborů k postupnému stahování. 
 
 # Král je mrtev, ať žije král!
 
