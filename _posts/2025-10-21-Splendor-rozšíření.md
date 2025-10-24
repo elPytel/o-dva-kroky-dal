@@ -3,6 +3,7 @@ layout: post
 title: "Splendor: rozšíření"
 description: Rozšíření deskové hry Splendor o sezónní slevy a zdražení
 categories: ["TTG", "Splendor"]
+thumbnail: https://raw.githubusercontent.com/elPytel/Splendor-rozsireni_Sezony/refs/heads/main/assets/stones/ChatGPT-Sezóna_Rubín.png
 ---
 
 # Rozšíření hry Splendor
@@ -61,7 +62,7 @@ Na kartách je kombinace:
 
 Znamená to slovu na nákup karty. Všechny karty které mají v ceně zelené žetony jsou tedy levnější (až od dva zelené žetony) (cena nemůže být záporná).
 
-| Půvpdní cena | Nová cena |
+| Původní cena | Nová cena |
 |--------------|-----------|
 | 2 bílé       | 2 bílé    |
 | 1 černý      | 2 černé   |
@@ -72,7 +73,7 @@ Na kartách je kombinace:
 
 Při nákupu karet s cenou v bílých žetonech musíte k ceně (bílým) přičíst +1.
 
-| Půvpdní cena | Nová cena |
+| Původní cena | Nová cena |
 |--------------|-----------|
 | 2 bílé       | 3 bílé    |
 | 1 černý      | 2 černé   |
@@ -80,7 +81,21 @@ Při nákupu karet s cenou v bílých žetonech musíte k ceně (bílým) přič
 
 ## Repozitář s rozšířením
 
-Repozitář s rozšířením je dostupný na GitHubu: [Splendor - Seasons extension](https://github.com/elPytel/Splendor-rozsireni_Sezony)
+Repozitář s rozšířením je dostupný na GitHubu: [Splendor rozšíření - Sezóny](https://github.com/elPytel/Splendor-rozsireni_Sezony)
+
+### Hotová PDF s kartami
+
+<iframe src="https://mozilla.github.io/pdf.js/web/viewer.html?file=https://raw.githubusercontent.com/elPytel/Splendor-rozsireni_Sezony/main/PDF/Splendor_Sezony_udalosti_A4_strih_part1.pdf" width="100%" height="700"></iframe>
+
+
+<iframe src="https://mozilla.github.io/pdf.js/web/viewer.html?file=https://raw.githubusercontent.com/elPytel/Splendor-rozsireni_Sezony/main/PDF/Splendor_Udalosti_tisk_A4_part2.pdf" width="100%" height="700"></iframe>
+
+<!-- Fallback odkazy -->
+- <a href="https://raw.githubusercontent.com/elPytel/Splendor-rozsireni_Sezony/main/PDF/Splendor_Sezony_udalosti_A4_strih_part1.pdf">Otevřít / stáhnout PDF (raw)</a>
+  · <a href="https://github.com/elPytel/Splendor-rozsireni_Sezony/blob/main/PDF/Splendor_Sezony_udalosti_A4_strih_part1.pdf">Zobrazit na GitHub (stránka souboru)</a>
+-  <a href="https://raw.githubusercontent.com/elPytel/Splendor-rozsireni_Sezony/main/PDF/Splendor_Udalosti_tisk_A4_part2.pdf">Otevřít / stáhnout PDF (raw)</a>
+  · <a href="https://github.com/elPytel/Splendor-rozsireni_Sezony/blob/main/PDF/Splendor_Udalosti_tisk_A4_part2.pdf">Zobrazit na GitHub (stránka souboru)</a>
+
 
 ## Nástroje na tvorbu karet
 
