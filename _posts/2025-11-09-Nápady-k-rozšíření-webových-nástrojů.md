@@ -3,7 +3,7 @@ layout: post
 title: "Nápady k rozšíření webových nástrojů"
 description: Sbírka nápadů na nové webové nástroje
 categories: ["javascript", "web"]
-thumbnail: https://raw.githubusercontent.com/elPytel/web-tools/refs/heads/main/src/assets/WebTools.png
+thumbnail: https://raw.githubusercontent.com/elPytel/web-tools/refs/heads/main/src/assets/WebTools_v2.png
 ---
 # Nápady k rozšíření webových nástrojů
 
@@ -18,6 +18,8 @@ thumbnail: https://raw.githubusercontent.com/elPytel/web-tools/refs/heads/main/s
     - [🛠️ Opravné kódy:](#️-opravné-kódy)
     - [Kódování barev a obrazových dat:](#kódování-barev-a-obrazových-dat)
   - [🔐 Kryptografie a šifry](#-kryptografie-a-šifry)
+    - [Wifi](#wifi)
+    - [Rainbow tables](#rainbow-tables)
   - [📶 Signály](#-signály)
   - [📡 Modulace signálu](#-modulace-signálu)
     - [🎧 Základní audio efekty:](#-základní-audio-efekty)
@@ -37,6 +39,7 @@ Práce s časem:
 - Aktuální čas 
 - Stopky
 - Odpočet, Ala pomodoro
+- Délka práce (kalkulačka)
 
 ## 🧮 Kódování a převody
 
@@ -94,7 +97,56 @@ Obraz a barvy:
 - ukázka generování klíčů a šifrování/dešifrování zprávy pomocí RSA
 - demonstrace výpočtu `n, e, d` a jejich použití při šifrování a dešifrování
 
+Kód Navajo
+[wiki](https://cs.wikipedia.org/wiki/Kód_Navajo)
+
+### Wifi
+
+Hackování wifi.
+Vše (názvy a hesla) se generují procedurálně s časovým seedem.
+Zobrazí se n obrázků wifi routerů s různými názvy od "různých výrobců".
+Kliknutím si vybereme koho chceme odposlouchávat.
+Tlačítko zahájit útok / opakovaný útok.
+V textové konzoli vidíme probíhající komunikaci. 
+Pokoušíme se rozbít wpa handshake a uhodnout heslo.
+Když známe heslo. Tak ho zadáme na připojování k wifi a rozsvítí se kontrolka zeleně.
+Přiložené datasheety k AP s výchozími hesly pro Admin.
+Po připojení:
+Okno "prohlížeče" pod terminálem s komunikací.
+Zadáme ip adresu AP. Otevře se nám přihlašovací stránka. Zadáme admina, výchozí heslo. 
+Dostaneme přístup do konfigurace AP. -> úspěšný hackarský útok.
+
+### Rainbow tables
+
+Lámání hesel
+Rainbow slovník
+Hledání hesla k hashi.
+Možnost přidání soli.
+
+Při datovém úniku z korporátního serveru byla zasažena i databáze s loginy uživatelů. 
+Unikly přístupová pravá všech zákazníků v podobě:
+email; zahešované heslo; datum registrace
+
+Při generování si člověk může vybrat jaký heshovací algoritmus byl požit při tvorbě hesel (výchozí je MD5).
+
+Aby jste se jako hackeři mohli dostat heslům jednotlivých uživatelů, tak nejdříve musíte prolomit zahešovaná hesla. 
+
+Lámání hesel. Nastavení algoritmu:
+- posolený,
+- verze hashe,
+- tabulka nejčastějších hesel / od nuly
+
+Láme se n hesel najednou. 
+
+Když se podaří heslo najít, tak se podbarví zeleně řádek s uživatelem a vypíše se jeho heslo do systému. 
+
 ## 📶 Signály
+
+| Název         | Popis                             | Obtížnost |
+| ------------- | --------------------------------- | --------- |
+| Generátor signálu | generování základních průběhů (sinus, čtverec, pilový), vizualizace: amplituda/fft, vyžší harmonické "hudebních" nástrojů | 🟡        |
+
+
 Signály:
 - Generátor funkcí a audio výstup 
 - Grafické znázornění 
@@ -117,6 +169,8 @@ Signály:
 ### 🔊 Audio:
 - mp3 přehrávač
 - Midi přehrávač a úprava notového zápisu.
+
+[wiki: MIDI](https://cs.wikipedia.org/wiki/Standard_MIDI_File)
 
 ## Hry
 - Sudoku
