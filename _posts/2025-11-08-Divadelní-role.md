@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Divadelní role"
-description: A description
+description: Divadlo F. X. Šaldy uvádí Hubičku od Bedřicha Smetany
 categories: ["fx šaldy"]
 thumbnail: https://www.saldovo-divadlo.cz/IS/pu_data/send_files/Image/user_img/saldovo_divadlo_cz/gallery_image/big/img_128209.jpg
 ---
@@ -59,4 +59,4 @@ Když všichni odcházejí, odcházím také a uklidím vybavení.
 
 **Úklid stromů** 
 
-Odložení stromů s Romeovým bráchou.
+Úklid stromů s Romeovým bráchou.

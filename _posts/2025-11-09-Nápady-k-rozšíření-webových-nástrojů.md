@@ -5,26 +5,32 @@ description: Sbírka nápadů na nové webové nástroje
 categories: ["javascript", "web"]
 thumbnail: https://raw.githubusercontent.com/elPytel/web-tools/refs/heads/main/src/assets/WebTools_v2.png
 ---
-# Nápady k rozšíření webových nástrojů
+# Nápady k rozšíření webových nástrojů 💡
 
 > [!tip] "Crypto & Code Playground"
 > *Interaktivní webové ukázky šifer, kódování a algoritmů (HTML+JS, žádný server).*
 
-- [Nápady k rozšíření webových nástrojů](#nápady-k-rozšíření-webových-nástrojů)
+- [Nápady k rozšíření webových nástrojů 💡](#nápady-k-rozšíření-webových-nástrojů-)
   - [🔢 Datové typy](#-datové-typy)
   - [⏱️ Práce s časem](#️-práce-s-časem)
   - [🧮 Kódování a převody](#-kódování-a-převody)
     - [📦 Bezdrátová komprese:](#-bezdrátová-komprese)
     - [🛠️ Opravné kódy:](#️-opravné-kódy)
-    - [Kódování barev a obrazových dat:](#kódování-barev-a-obrazových-dat)
+    - [🎨 Kódování barev a obrazových dat](#-kódování-barev-a-obrazových-dat)
+    - [📐 Vektorové oprace](#-vektorové-oprace)
   - [🔐 Kryptografie a šifry](#-kryptografie-a-šifry)
-    - [Wifi](#wifi)
+    - [🔒 Výpočet složitosti hesla](#-výpočet-složitosti-hesla)
     - [Rainbow tables](#rainbow-tables)
+    - [🎣 Phishing](#-phishing)
+    - [🎯 Spear phishing](#-spear-phishing)
+    - [Wifi](#wifi)
   - [📶 Signály](#-signály)
   - [📡 Modulace signálu](#-modulace-signálu)
     - [🎧 Základní audio efekty:](#-základní-audio-efekty)
     - [🔊 Audio:](#-audio)
+      - [MIDI:](#midi)
   - [Hry](#hry)
+  - [Zdroje](#zdroje)
 
 ## 🔢 Datové typy
 Datové typy:
@@ -52,7 +58,7 @@ Zaměřené na znaky, čísla a datové formáty.
 | Generátor a ověřovač kontrolních součtů (např. rodné číslo, IBAN) | reálné využití mod 11 a jiných pravidel         | 🟡        |
 | QR Encoder                     | z textu vygeneruje QR kód (pomocí JS knihovny `qrcode.js`)         | 🟡        |
 
-Kódování úlohy co jsme dělali s chaloupkou pro komprimaci.
+Kódování úlohy co jsme dělali s Chaloupkou pro komprimaci.
 VCard do qr code pro generování vizitek.
 
 ### 📦 Bezdrátová komprese:
@@ -69,12 +75,22 @@ RAID 0,1,5 ukázka
 - Text -> ascii -> bin, ukládání na "discích"
 - Použití parity pro výpočet chybějící informace na jednom disku (nahrání do hot spare)
 
-### Kódování barev a obrazových dat:
+### 🎨 Kódování barev a obrazových dat
+
 Obraz a barvy:
 - Paleta barev
 - RGB složka obrazu
 - YUV složka obrazu
 - Ukládání dat do bmp
+
+### 📐 Vektorové oprace
+
+Matice:
+- škálování
+- rotace
+- translace
+
+Udělej si hodiny. Skládání transformací.
 
 ## 🔐 Kryptografie a šifry
 
@@ -100,6 +116,59 @@ Obraz a barvy:
 Kód Navajo
 [wiki](https://cs.wikipedia.org/wiki/Kód_Navajo)
 
+### 🔒 Výpočet složitosti hesla
+Generování háhodného bezpečného hesla
+- peněženky a autentifikátory
+
+Používej správce hesel (unikátní, náhodná, dlouhá).
+
+Preferuj passphrase (např. 4–5 náhodných slov) → vysoká entropie, dobrá zapamatovatelnost.
+
+Zapni MFA (ideálně TOTP/hardware klíč).
+
+Pravidelně kontroluj úniky (Have I Been Pwned).
+
+### Rainbow tables
+
+Lámání hesel
+Rainbow slovník
+Hledání hesla k hashi.
+Možnost přidání soli.
+
+Při datovém úniku z korporátního serveru byla zasažena i databáze s loginy uživatelů. 
+Unikly přístupová pravá všech zákazníků v podobě:
+email; zahešované heslo; datum registrace
+
+Lze zvolit n řádků z databáze které se mají vygenerovat.
+
+Při generování si člověk může vybrat jaký heshovací algoritmus byl požit při tvorbě hesel (výchozí je MD5).
+
+Při generování náhodných hesel lze zvolit délka a použitá znaková sada.
+
+Aby jste se jako hackeři mohli dostat heslům jednotlivých uživatelů, tak nejdříve musíte prolomit zahešovaná hesla. 
+
+Lámání hesel. Nastavení algoritmu:
+- posolený,
+- verze hashe,
+- tabulka nejčastějších hesel / od nuly
+
+Láme se n hesel najednou. 
+
+"konzole" vypisuje průběh lámání hesel.
+
+Když se podaří heslo najít, tak se podbarví zeleně řádek s uživatelem a vypíše se jeho heslo do systému. 
+
+### 🎣 Phishing
+- ukázka jak funguje phishingový útok
+- phishingový email
+- phishingová stránka
+
+Kontrola příchozího emailu na podezřelé znaky. Url redirecty. Http hlavičky. Podpisy stránky.
+
+### 🎯 Spear phishing
+Sběr informací na na sociálních sítích. Telefonáty, nahrávka hlasu. Syntéza hlasu. Cílený útok na konkrétní osobu.
+- deepfake videa.
+
 ### Wifi
 
 Hackování wifi.
@@ -116,29 +185,11 @@ Okno "prohlížeče" pod terminálem s komunikací.
 Zadáme ip adresu AP. Otevře se nám přihlašovací stránka. Zadáme admina, výchozí heslo. 
 Dostaneme přístup do konfigurace AP. -> úspěšný hackarský útok.
 
-### Rainbow tables
+Do konzole se vypisuje ASCII art logo aircracku a průběh útoku.
 
-Lámání hesel
-Rainbow slovník
-Hledání hesla k hashi.
-Možnost přidání soli.
+> [!warning]
+Toto je **simulovaný** výukový nástroj. Používání obdobných nástrojů na cizí sítě v obdobných "penetračních" je nelegální!
 
-Při datovém úniku z korporátního serveru byla zasažena i databáze s loginy uživatelů. 
-Unikly přístupová pravá všech zákazníků v podobě:
-email; zahešované heslo; datum registrace
-
-Při generování si člověk může vybrat jaký heshovací algoritmus byl požit při tvorbě hesel (výchozí je MD5).
-
-Aby jste se jako hackeři mohli dostat heslům jednotlivých uživatelů, tak nejdříve musíte prolomit zahešovaná hesla. 
-
-Lámání hesel. Nastavení algoritmu:
-- posolený,
-- verze hashe,
-- tabulka nejčastějších hesel / od nuly
-
-Láme se n hesel najednou. 
-
-Když se podaří heslo najít, tak se podbarví zeleně řádek s uživatelem a vypíše se jeho heslo do systému. 
 
 ## 📶 Signály
 
@@ -168,10 +219,24 @@ Signály:
 
 ### 🔊 Audio:
 - mp3 přehrávač
+
+#### MIDI:
 - Midi přehrávač a úprava notového zápisu.
 
-[wiki: MIDI](https://cs.wikipedia.org/wiki/Standard_MIDI_File)
+Nahrání midi souboru, zobrazení notového zápisu.
+Přehrání midi souboru přes Web Audio API.
+Možnost úpravy not (výška, délka, přidání/odstranění not).
+
+převod noty → frekvence
+
+- [wiki: MIDI](https://cs.wikipedia.org/wiki/Standard_MIDI_File)
+- [bitmidi: files](https://bitmidi.com)
+- [midiworld: files](https://www.midiworld.com/files/)
 
 ## Hry
 - Sudoku
 - Piškvorky
+
+## Zdroje
+
+- [gov: jmena](https://mv.gov.cz/clanek/seznam-rodove-neutralnich-jmen.aspx)
