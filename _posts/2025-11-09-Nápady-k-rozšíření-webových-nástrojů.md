@@ -28,7 +28,8 @@ thumbnail: https://raw.githubusercontent.com/elPytel/web-tools/refs/heads/main/s
   - [📡 Modulace signálu](#-modulace-signálu)
     - [🎧 Základní audio efekty:](#-základní-audio-efekty)
     - [🔊 Audio:](#-audio)
-      - [MIDI:](#midi)
+      - [MIDI přehrávač:](#midi-přehrávač)
+      - [MIDI úprava notového zápisu:](#midi-úprava-notového-zápisu)
   - [Hry](#hry)
   - [Zdroje](#zdroje)
 
@@ -220,7 +221,13 @@ Signály:
 ### 🔊 Audio:
 - mp3 přehrávač
 
-#### MIDI:
+#### MIDI přehrávač:
+
+Vzorové soubory midi.
+Přehrání midi souboru přes Web Audio API.
+Možnost nahrávní vlastního midi souboru.
+
+#### MIDI úprava notového zápisu:
 - Midi přehrávač a úprava notového zápisu.
 
 Nahrání midi souboru, zobrazení notového zápisu.
