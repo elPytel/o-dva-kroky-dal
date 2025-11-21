@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Výlet na ostrov Murter"
-description: A description
+description: Cyklo turistika v Dalmácii na ostrově Murter
 categories: ["turistika", "cyklo", "Dalmacie", "Murter"]
 ---
 
