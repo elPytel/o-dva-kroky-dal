@@ -19,3 +19,14 @@ Dnes jsem se stavěl u Vítvarové, abychom projednali možné téma zadání. N
 Schodli jsme se na tom, že úlohy pro středoškoláky nedemonstrují dostatečně hluboko principy počítačové bezpečnosti s ohledem na úroveň diplomové práce. Proto bude lepší vytvořit sadu interaktivních úloh, které budou demonstrovat principy počítačové bezpečnosti na úrovni vysokoškolské výuky.
 
 Cílem je vytvořit kontejnerizované prostředí, kde si budou moci studenti prakticky vyzkoušet své znalosti z počítačové bezpečnosti na konkrétních úlohách.
+
+## 18.11.
+
+11:00 
+Stavil jsem se za Vitvarovou aby jsme dopracovali zadání práce a já se mohl pustit do řešení.
+
+13:30
+Pohovor na pozici sysadmina TUL.
+
+14:20 
+Čekám na pana Volfa aby jsme na jeho cvičení projednali možné vedení mé DP.

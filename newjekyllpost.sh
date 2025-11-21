@@ -9,7 +9,9 @@ else
     title="A title"
 fi
 
-cat > $filename <<EOF
+path="_drafts/$filename"
+
+cat > $path <<EOF
 ---
 layout: post
 title: "$title"

@@ -30,6 +30,7 @@ thumbnail: https://raw.githubusercontent.com/elPytel/web-tools/refs/heads/main/s
     - [🔊 Audio:](#-audio)
       - [MIDI přehrávač:](#midi-přehrávač)
       - [MIDI úprava notového zápisu:](#midi-úprava-notového-zápisu)
+  - [Chemie](#chemie)
   - [Hry](#hry)
   - [Zdroje](#zdroje)
 
@@ -239,6 +240,11 @@ převod noty → frekvence
 - [wiki: MIDI](https://cs.wikipedia.org/wiki/Standard_MIDI_File)
 - [bitmidi: files](https://bitmidi.com)
 - [midiworld: files](https://www.midiworld.com/files/)
+
+## Chemie
+- Kalkulačka na chemii
+- Molekulární množství 
+- Roztok
 
 ## Hry
 - Sudoku
