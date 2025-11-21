@@ -52,6 +52,7 @@ Můj starý Moto G31 asi dáme babičce na brouzdání po Facebooku.
 
 
 ### Nový mobil
+
 | Výbava | Parametry |
 |---------|-----------|
 | Výrobce | Samsung |
@@ -62,7 +63,7 @@ Můj starý Moto G31 asi dáme babičce na brouzdání po Facebooku.
 | Úložiště | 256 GB |
 | Baterie | 5000 mAh |
 | Hmotnost | 228 g |
-| Krytí | IP68 |
+| Krytí | IP68 | 
 | OS | Android 15 |
 | Zadní fotoaparát | 108 Mpx (f/1,8) + 10 Mpx (f/4,9) + 10 Mpx (f/2,4) + 12 Mpx (f/2,2) |
 | Přední fotoaparát | 40 Mpx (f/2,2) |
