@@ -21,6 +21,9 @@ thumbnail: https://raw.githubusercontent.com/elPytel/web-tools/refs/heads/main/s
   - [🔐 Kryptografie a šifry](#-kryptografie-a-šifry)
     - [🔒 Výpočet složitosti hesla](#-výpočet-složitosti-hesla)
     - [Rainbow tables](#rainbow-tables)
+    - [RSA mini demo](#rsa-mini-demo)
+    - [Předávání zakodovaných zpráv](#předávání-zakodovaných-zpráv)
+    - [Podepisování zpráv pomocí digitálního podpisu](#podepisování-zpráv-pomocí-digitálního-podpisu)
     - [🎣 Phishing](#-phishing)
     - [🎯 Spear phishing](#-spear-phishing)
     - [Wifi](#wifi)
@@ -159,6 +162,24 @@ Láme se n hesel najednou.
 "konzole" vypisuje průběh lámání hesel.
 
 Když se podaří heslo najít, tak se podbarví zeleně řádek s uživatelem a vypíše se jeho heslo do systému. 
+
+### RSA mini demo
+
+Ukázka generování malých prvočísel, výpočtu `n, e, d`, a šifrování/dešifrování čísla.
+
+### Předávání zakodovaných zpráv
+
+Předávání zakodovaných zpráv mezi dvěma uživateli pomocí:
+- symetrické šifry (AES)
+- asymetrické šifry (RSA)
+
+### Podepisování zpráv pomocí digitálního podpisu 
+
+Ukázka podepisování zpráv pomocí digitálního podpisu.
+- Generování páru klíčů (soukromý a veřejný klíč),
+- Generování hashe zprávy,
+- Šifrování hashe soukromým klíčem (digitální podpis),
+- Ověřování podpisu pomocí veřejného klíče,
 
 ### 🎣 Phishing
 - ukázka jak funguje phishingový útok

@@ -5,6 +5,7 @@ description: Změna tématu diplomové práce
 categories: ["TUL", "DP"]
 ---
 
+
 # Změna tématu
 
 Tak mě napadl ústupový plán: změnit téma na něco, pro co bych se dokázal nadchnout. Napadá mě zpracování teorie a úloh z počítačové bezpečnosti. Úlohy, ze kterých by bylo možné později čerpat, například pro vytvoření nového CTM kurzu „Počítačová bezpečnost“ nebo jako interaktivní úlohy do výuky — například pro Mikiho a Beka, kteří aktuálně učí IT na základních školách a projevili zájem o úlohy do výuky.
@@ -30,3 +31,7 @@ Pohovor na pozici sysadmina TUL.
 
 14:20 
 Čekám na pana Volfa aby jsme na jeho cvičení projednali možné vedení mé DP.
+
+## 25.11.
+
+Zadávám nové téma diplomové práce do STAGu, ale zatím to neprochízí, protože deadline na zadání temat byl do minulého měsíce.
