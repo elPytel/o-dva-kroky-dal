@@ -19,22 +19,24 @@ thumbnail: https://raw.githubusercontent.com/elPytel/web-tools/refs/heads/main/s
     - [🎨 Kódování barev a obrazových dat](#-kódování-barev-a-obrazových-dat)
     - [📐 Vektorové oprace](#-vektorové-oprace)
   - [🔐 Kryptografie a šifry](#-kryptografie-a-šifry)
+    - [Vigenèrova šifra](#vigenèrova-šifra)
+    - [affine cipher](#affine-cipher)
     - [🔒 Výpočet složitosti hesla](#-výpočet-složitosti-hesla)
-    - [Rainbow tables](#rainbow-tables)
-    - [RSA mini demo](#rsa-mini-demo)
-    - [Předávání zakodovaných zpráv](#předávání-zakodovaných-zpráv)
-    - [Podepisování zpráv pomocí digitálního podpisu](#podepisování-zpráv-pomocí-digitálního-podpisu)
+    - [🌈 Rainbow tables](#-rainbow-tables)
+    - [🔐 RSA mini demo](#-rsa-mini-demo)
+    - [🔏 Předávání zakodovaných zpráv](#-předávání-zakodovaných-zpráv)
+    - [✒️ Podepisování zpráv pomocí digitálního podpisu](#️-podepisování-zpráv-pomocí-digitálního-podpisu)
     - [🎣 Phishing](#-phishing)
     - [🎯 Spear phishing](#-spear-phishing)
-    - [Wifi](#wifi)
-  - [📶 Signály](#-signály)
-  - [📡 Modulace signálu](#-modulace-signálu)
-    - [🎧 Základní audio efekty:](#-základní-audio-efekty)
+    - [📶 Wifi](#-wifi)
+  - [📡 Signály](#-signály)
     - [🔊 Audio:](#-audio)
-      - [MIDI přehrávač:](#midi-přehrávač)
-      - [MIDI úprava notového zápisu:](#midi-úprava-notového-zápisu)
-  - [Chemie](#chemie)
-  - [Hry](#hry)
+      - [🎹 MIDI přehrávač:](#-midi-přehrávač)
+      - [🎼 MIDI úprava notového zápisu:](#-midi-úprava-notového-zápisu)
+    - [🎧 Základní audio efekty:](#-základní-audio-efekty)
+    - [📡 Modulace signálu](#-modulace-signálu)
+  - [🧪 Chemie](#-chemie)
+  - [🎮 Hry](#-hry)
   - [Zdroje](#zdroje)
 
 ## 🔢 Datové typy
@@ -114,12 +116,22 @@ Udělej si hodiny. Skládání transformací.
 | Braillovo písmo      | převod textu na Braillovo                                                            | 🟡        |
 | RSA mini demo        | ukázka generování malých prvočísel, výpočtu `n, e, d`, a šifrování/dešifrování čísla | 🔴        |
 
-🛡️ RSA:
-- ukázka generování klíčů a šifrování/dešifrování zprávy pomocí RSA
-- demonstrace výpočtu `n, e, d` a jejich použití při šifrování a dešifrování
+
 
 Kód Navajo
 [wiki](https://cs.wikipedia.org/wiki/Kód_Navajo)
+
+### Vigenèrova šifra
+- Zadáš klíčové slovo, provádí posuny jako Caesar, ale podle klíče.
+- Generování kroků.
+- Ukázka lámání pomocí frekvenční analýzy.
+
+### affine cipher
+- Ukazuje, jak se písmena mapují lineárně `E(x) = (a*x + b) mod 26`
+- Výběr `a` a `b` s kontrolou, že `a` je nesoudělné s 26.
+- Ukázka dešifrování pomocí inverzní funkce.
+- Grafické znázornění mapování písmen na kruhu.
+- Možnost zadat vlastní text a vidět šifrování/dešifrování v reálném čase.
 
 ### 🔒 Výpočet složitosti hesla
 Generování háhodného bezpečného hesla
@@ -133,7 +145,7 @@ Zapni MFA (ideálně TOTP/hardware klíč).
 
 Pravidelně kontroluj úniky (Have I Been Pwned).
 
-### Rainbow tables
+### 🌈 Rainbow tables
 
 Lámání hesel
 Rainbow slovník
@@ -163,17 +175,21 @@ Láme se n hesel najednou.
 
 Když se podaří heslo najít, tak se podbarví zeleně řádek s uživatelem a vypíše se jeho heslo do systému. 
 
-### RSA mini demo
+### 🔐 RSA mini demo
 
 Ukázka generování malých prvočísel, výpočtu `n, e, d`, a šifrování/dešifrování čísla.
 
-### Předávání zakodovaných zpráv
+🛡️ RSA:
+- ukázka generování klíčů a šifrování/dešifrování zprávy pomocí RSA
+- demonstrace výpočtu `n, e, d` a jejich použití při šifrování a dešifrování
+
+### 🔏 Předávání zakodovaných zpráv
 
 Předávání zakodovaných zpráv mezi dvěma uživateli pomocí:
 - symetrické šifry (AES)
 - asymetrické šifry (RSA)
 
-### Podepisování zpráv pomocí digitálního podpisu 
+### ✒️ Podepisování zpráv pomocí digitálního podpisu 
 
 Ukázka podepisování zpráv pomocí digitálního podpisu.
 - Generování páru klíčů (soukromý a veřejný klíč),
@@ -192,7 +208,7 @@ Kontrola příchozího emailu na podezřelé znaky. Url redirecty. Http hlavičk
 Sběr informací na na sociálních sítích. Telefonáty, nahrávka hlasu. Syntéza hlasu. Cílený útok na konkrétní osobu.
 - deepfake videa.
 
-### Wifi
+### 📶 Wifi
 
 Hackování wifi.
 Vše (názvy a hesla) se generují procedurálně s časovým seedem.
@@ -214,7 +230,7 @@ Do konzole se vypisuje ASCII art logo aircracku a průběh útoku.
 Toto je **simulovaný** výukový nástroj. Používání obdobných nástrojů na cizí sítě v obdobných "penetračních" je nelegální!
 
 
-## 📶 Signály
+## 📡 Signály
 
 | Název         | Popis                             | Obtížnost |
 | ------------- | --------------------------------- | --------- |
@@ -229,27 +245,16 @@ Signály:
 - Usměrněná sinusovka.
 - Jak se syntetizují hudební nástroje?
 
-## 📡 Modulace signálu 
-- PWM
-  - Rotující kolečko, podle nastavení střídy.
-- AM
-- PSK
-- QAM
-
-### 🎧 Základní audio efekty:
-- Ozvěna
-- Konvoluce s impulzní odezvou.
-
 ### 🔊 Audio:
 - mp3 přehrávač
 
-#### MIDI přehrávač:
+#### 🎹 MIDI přehrávač:
 
 Vzorové soubory midi.
 Přehrání midi souboru přes Web Audio API.
 Možnost nahrávní vlastního midi souboru.
 
-#### MIDI úprava notového zápisu:
+#### 🎼 MIDI úprava notového zápisu:
 - Midi přehrávač a úprava notového zápisu.
 
 Nahrání midi souboru, zobrazení notového zápisu.
@@ -262,12 +267,23 @@ převod noty → frekvence
 - [bitmidi: files](https://bitmidi.com)
 - [midiworld: files](https://www.midiworld.com/files/)
 
-## Chemie
+### 🎧 Základní audio efekty:
+- Ozvěna
+- Konvoluce s impulzní odezvou.
+
+### 📡 Modulace signálu 
+- PWM
+  - Rotující kolečko, podle nastavení střídy.
+- AM
+- PSK
+- QAM
+
+## 🧪 Chemie
 - Kalkulačka na chemii
 - Molekulární množství 
 - Roztok
 
-## Hry
+## 🎮 Hry
 - Sudoku
 - Piškvorky
 
