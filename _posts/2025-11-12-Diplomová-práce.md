@@ -8,6 +8,7 @@ categories: ["TUL", "DP"]
 
 # Změna tématu
 
+## 12.11.
 Tak mě napadl ústupový plán: změnit téma na něco, pro co bych se dokázal nadchnout. Napadá mě zpracování teorie a úloh z počítačové bezpečnosti. Úlohy, ze kterých by bylo možné později čerpat, například pro vytvoření nového CTM kurzu „Počítačová bezpečnost“ nebo jako interaktivní úlohy do výuky — například pro Mikiho a Beka, kteří aktuálně učí IT na základních školách a projevili zájem o úlohy do výuky.
 
 Dnes jsem se stavěl u Vítvarové, abychom projednali možné téma zadání. Nakonec jsme strávili čtyři hodiny řešením:
@@ -35,3 +36,14 @@ Pohovor na pozici sysadmina TUL.
 ## 25.11.
 
 Zadávám nové téma diplomové práce do STAGu, ale zatím to neprochízí, protože deadline na zadání temat byl do minulého měsíce.
+
+## 2.12.
+
+Zašel jsem na studijní oddělení, kde jsem se dozvěděl to samé co mi řekl Volf (který tam byl den předemnou). Aby šlo zadat nové zadání do systému, je potřeba nejdříve to staré zruštit. Musím napsat stávající vedoucí práce aby staré zadání zrušila a pak ho můžu zadat znovu.
+
+## 3.12.
+
+Na obědě jsem potkal paní Vitvarovou s proděkanem panem Koprnickým. Poslali mě za Lucii Ejemovou, sekretářkou NTI, která má větší vhled do systému, než studijní oddělení. Optimální postup řešení je: 
+> Stávající vedouci práce napíše žádost prodekanovi Koprnickému, který schválí zrušení starého zadání. A pak již můžu žádat o zadání nového tématu.
+
+Doholdi jsme se že žádost a podklady pro zadání nového tématu pošlu paní Ejemové, která to předá panu Koprnickému a do kopie se přidají stávající vedoucí a budoucí vedoucí práce.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Passat B8 pod stromeček"
-description: A description
+description: Aneb jak přepsat auto na nového majitele
 categories: ["passat"]
 ---
 
@@ -41,6 +41,9 @@ Rezervační systém na magistrát: [vs.liberec.cz](https://vs.liberec.cz/)
 Od července 2025 se prodlužuje platnost evidenční kontroly v ČR na dva roky. Uspoří to čas i peníze při změně vlastníka, evidenční kontrola je totiž nově platná ve lhůtách stanovených pro technickou prohlídku.
 
 - [Plná moc k přepisu vozidla - vzor](https://www.epojisteni.cz/plna-moc-vzor/)
+
+## 1.12.
+Půjčujeme Zuce Fabii na 14 dní by mohla vydělat na letenku do indie.
 
 ## Zdroje:
 - [epojisteni: kupní smlouva auto](https://www.epojisteni.cz/kupni-smlouva-auto/)
