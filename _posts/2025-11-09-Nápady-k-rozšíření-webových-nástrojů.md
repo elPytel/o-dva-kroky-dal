@@ -19,8 +19,13 @@ thumbnail: https://raw.githubusercontent.com/elPytel/web-tools/refs/heads/main/s
     - [🎨 Kódování barev a obrazových dat](#-kódování-barev-a-obrazových-dat)
     - [📐 Vektorové oprace](#-vektorové-oprace)
   - [🔐 Kryptografie a šifry](#-kryptografie-a-šifry)
-    - [Vigenèrova šifra](#vigenèrova-šifra)
-    - [affine cipher](#affine-cipher)
+    - [🪶 Kód Navajo](#-kód-navajo)
+    - [🔁 Substituční šifry](#-substituční-šifry)
+      - [👑 Caesarova šifra](#-caesarova-šifra)
+      - [🪞 Atbash](#-atbash)
+      - [📐 Affine cipher](#-affine-cipher)
+    - [🔀 Transpoziční šifra](#-transpoziční-šifra)
+    - [🔑 Vigenèrova šifra](#-vigenèrova-šifra)
     - [🔒 Výpočet složitosti hesla](#-výpočet-složitosti-hesla)
     - [🌈 Rainbow tables](#-rainbow-tables)
     - [🔐 RSA mini demo](#-rsa-mini-demo)
@@ -116,22 +121,59 @@ Udělej si hodiny. Skládání transformací.
 | Braillovo písmo      | převod textu na Braillovo                                                            | 🟡        |
 | RSA mini demo        | ukázka generování malých prvočísel, výpočtu `n, e, d`, a šifrování/dešifrování čísla | 🔴        |
 
+- [rumkin: Ciphers and Codes](https://rumkin.com/tools/cipher/)
+- [rumkin: analyze](https://rumkin.com/tools/cipher/analyze/)
 
+### 🪶 Kód Navajo
+- [wiki: kód Navajo](https://cs.wikipedia.org/wiki/Kód_Navajo)
 
-Kód Navajo
-[wiki](https://cs.wikipedia.org/wiki/Kód_Navajo)
+### 🔁 Substituční šifry
+#### 👑 Caesarova šifra
+- jednoduché posunutí písmen o pevný počet míst
 
-### Vigenèrova šifra
-- Zadáš klíčové slovo, provádí posuny jako Caesar, ale podle klíče.
-- Generování kroků.
-- Ukázka lámání pomocí frekvenční analýzy.
+#### 🪞 Atbash
+- jednoduché zrcadlení abecedy (A↔Z, B↔Y…)
 
-### affine cipher
+- [rumkin: atbash](https://rumkin.com/tools/cipher/atbash/)
+
+#### 📐 Affine cipher
 - Ukazuje, jak se písmena mapují lineárně `E(x) = (a*x + b) mod 26`
 - Výběr `a` a `b` s kontrolou, že `a` je nesoudělné s 26.
 - Ukázka dešifrování pomocí inverzní funkce.
 - Grafické znázornění mapování písmen na kruhu.
 - Možnost zadat vlastní text a vidět šifrování/dešifrování v reálném čase.
+
+Jak nastavit `a` a `b`, aby se šifra chovala jako:
+- Caesarova šifra: `a = 1`, `b = posun`
+- Atbash: `a = 25`, `b = 25` (protože `E(x) = (25*x + 25) mod 26`)
+
+- [rumkin: affine cipher](https://rumkin.com/tools/cipher/affine/)
+- [eitca: afinní šifra](https://cs.eitca.org/cybersecurity/eitc-is-ccf-classical-cryptography-fundamentals/history-of-cryptography/modular-arithmetic-and-historical-ciphers/what-is-the-key-space-of-an-affine-cipher/)
+### 🔀 Transpoziční šifra
+
+Kombinace s jinými šiframi
+
+Transpozice se často používá **v kombinaci** se substitucí:
+
+1. hrubě text „zamícháme“ transpozicí,
+2. výsledný text zašifrujeme např. Caesarovou nebo Vigenèrovou šifrou.
+
+V demo můžeš ukázat volbu:
+
+* `Nejprve Caesar, potom Transpozice`
+* `Nejprve Transpozice, potom Caesar`
+
+> [!question]
+> Ukažte rozdíl v tom, jak vypadá frekvenční analýza pro:
+>
+> * samotný Caesar
+> * samotnou Transpozici
+> * kombinaci Caesar + Transpozice
+
+### 🔑 Vigenèrova šifra
+- Zadáš klíčové slovo, provádí posuny jako Caesar, ale podle klíče.
+- Generování kroků.
+- Ukázka lámání pomocí frekvenční analýzy.
 
 ### 🔒 Výpočet složitosti hesla
 Generování háhodného bezpečného hesla
