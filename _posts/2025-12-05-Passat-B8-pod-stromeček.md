@@ -3,12 +3,26 @@ layout: post
 title: "Passat B8 pod stromeček"
 description: Aneb jak přepsat auto na nového majitele
 categories: ["passat"]
+thumbnail: /assets/fotky/IMG_20251208_141337.jpg
 ---
 
-# Passat B8 pod stromeček
+![passat]({{ site.baseurl }}/assets/fotky/IMG_20251208_141337.jpg)
+
+![passat]({{ site.baseurl }}/assets/fotky/IMG_20251208_141347.jpg)
 
 
+| Parametr         | Hodnota                     |
+|------------------|-----------------------------|
+| Značka a model   | Volkswagen Passat B8 Variant |
+| Rok výroby       | 2014                       |
+| Motor            | 2.0 TDI 110 kW             |
+| Palivo           | Nafta                      |
+| Převodovka       | DSG                        |
+| Najeté km        | 185 000 km                 |
+| Emisní norma     | Euro 6                     |
+| Spotřeba paliva  | 5,1 l/100 km (kombinovaná) |
 
+- Výbava: Adaptive Cruise Control (ACC), Front Assist, Park Assist
 
 ## Přepis vozidla prok za krokem
 Co budete potřebovat:
@@ -44,6 +58,29 @@ Od července 2025 se prodlužuje platnost evidenční kontroly v ČR na dva roky
 
 ## 1.12.
 Půjčujeme Zuce Fabii na 14 dní by mohla vydělat na letenku do indie.
+
+![fabia]({{ site.baseurl }}/assets/fotky/IMG_20251116_170852.jpg)
+
+| Parametr         | Hodnota                     |
+|------------------|-----------------------------|
+| Značka a model   | Škoda Fabia I               |
+| Rok výroby       | 2005                        |
+| Motor            | 1.4 16V 55 kW               |
+| Palivo           | Benzín                      |
+| Převodovka       | Manuální                   |
+| Najeté km        | 190 000 km                 |
+| Emisní norma     | Euro 3                     |
+| Spotřeba paliva  | 6,0 l/100 km (kombinovaná) |
+| Klimatizace      | ANO (nefunkční)            |
+
+- Výbava: ABS, centrál, el. okna (přední), rádio + BT
+
+## 8.12.
+
+Passata jsme pojistili u Kooperativy máme povinné ručení 100/100M a rozšířenou astistenci, plus připojištění proti živlům.
+
+Aute je přepsané. Nově už opravdu není potřeba vyřizovat evidenční kontrolu.
+Přepis nás stál 800 Kč na úřadě.
 
 ## Zdroje:
 - [epojisteni: kupní smlouva auto](https://www.epojisteni.cz/kupni-smlouva-auto/)

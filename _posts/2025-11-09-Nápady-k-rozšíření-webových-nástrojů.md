@@ -131,8 +131,12 @@ Udělej si hodiny. Skládání transformací.
 #### 👑 Caesarova šifra
 - jednoduché posunutí písmen o pevný počet míst
 
+Lámaní pomocí brute-force (vyzkoušení všech posunů) a vypsání do tabulky, pro uživatele na výběr.
+
 #### 🪞 Atbash
 - jednoduché zrcadlení abecedy (A↔Z, B↔Y…)
+
+Implementace pomocí affiní šifry s `a = 25`, `b = 25`.
 
 - [rumkin: atbash](https://rumkin.com/tools/cipher/atbash/)
 
@@ -157,11 +161,6 @@ Transpozice se často používá **v kombinaci** se substitucí:
 
 1. hrubě text „zamícháme“ transpozicí,
 2. výsledný text zašifrujeme např. Caesarovou nebo Vigenèrovou šifrou.
-
-V demo můžeš ukázat volbu:
-
-* `Nejprve Caesar, potom Transpozice`
-* `Nejprve Transpozice, potom Caesar`
 
 > [!question]
 > Ukažte rozdíl v tom, jak vypadá frekvenční analýza pro:
