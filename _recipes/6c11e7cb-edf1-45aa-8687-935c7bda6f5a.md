@@ -1,0 +1,33 @@
+---
+layout: recipe
+title: Tikka masala
+---
+4 porce
+
+
+# Ingredience:  
+- 1 lilek  
+- 1 červená paprika  
+- 2 rajčata  
+- 2 cibule  
+- 1 stroužek česneku  
+- 1 kousek zázvoru  
+- 1 plechovka (70 g) rajčatového protlaku  
+- 1 balení (90 g) kořenicí pasty tikka masala  
+- 1 balení (200 ml) kokosového mléka  
+- 15 g koriandru  
+- 300 g kuřecích stehenních řízků  
+- 300 g rýže (basmati)  
+- 2 polévkové lžíce olivového oleje  
+
+
+# Postup:  
+1. Očistěte zeleninu. Lilek, papriku a rajčata nakrájejte na kostičky. Cibuli a česnek oloupejte a nakrájejte najemno. Zázvor oloupejte a nakrájejte nadrobno. Koriandr opláchněte a listy jemně nasekejte. Kuřecí maso nakrájejte na kostky.  
+2. Rýži uvařte podle návodu na obalu.  
+3. Na pánvi s pokličkou rozehřejte 2 lžíce oleje a kuřecí maso v něm restujte po dobu 2 minut při vysoké teplotě.  
+4. Přidejte cibuli, česnek a zázvor a restujte cca 1 minutu při vysoké teplotě.  
+5. Přidejte lilek a papriku a smažte při vysoké teplotě další 4 minuty.  
+6. Přidejte rajčatový protlak a poduste 1 minutu při střední teplotě.  
+7. Přidejte rajčata, kořenicí pastu a kokosové mléko. Přikryjte pokličkou, přiveďte k varu a vařte 10-15 minut při mírné teplotě.  
+
+Tikka masalu podávejte s rýží a před podáváním posypte připraveným nasekaným koriandrem.  
