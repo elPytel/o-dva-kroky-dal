@@ -18,7 +18,7 @@ Hlavní cíle rekonstrukce:
 - udělat ze staré linky pracovní desku nad spotřebiče,
 - koupit novu linku do kuchyně,
 
-<embed src="{{ site.baseurl }}/assets/Oznámení_o_rekonstrukci.pdf" width="100%" height="600" type="application/pdf">
+<embed src="{{ site.baseurl }}/assets/pdf/Oznámení_o_rekonstrukci.pdf" width="100%" height="600" type="application/pdf">
 
 ## "Všichni ven!"
 
