@@ -47,14 +47,27 @@ def format_content(note):
             lines[i] = make_link(line.strip())
     return "\n".join(lines)
 
+# convert unicode title to ascii filename
+def title_to_filename(title):
+    filename = title.lower().replace(" ", "-")
+    filename = "".join(c for c in filename if c.isalnum() or c == "-")
+    # remove leading and trailing -
+    filename = filename.strip("-")
+    # remove multiple -
+    while "--" in filename:
+        filename = filename.replace("--", "-")
+    return filename
+
 # from notes in list to .md files in _recipes
 for note in data:
     if 'Recepty' not in note['tags']:
         continue
 
-    filename = os.path.join(RECIPES_FOLDER, f"{note['id']}.md")
+    filename = title_to_filename(note['title'])
+
+    path_filename = os.path.join(RECIPES_FOLDER, f"{filename}.md")
     content = format_content(note)
-    with open(filename, "w") as f:
+    with open(path_filename, "w") as f:
         f.write(recipe_template.format(title=note['title'], content=content))
 
 print(f"Converted {len(data)} notes to recipes in {RECIPES_FOLDER}.")

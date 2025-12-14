@@ -24,9 +24,9 @@ Máte počítač windows? Ale libí se vím představa toho, že můžete spojit
 ## Disky
 Chtěl jsem říci že se mi kolem váleli tyto disky, ale je to jen poloviční pravda. M.2 SATA SSD mělo krizi osobnosti a válejíce se kolem si hrálo na velkou flashku. SATA 3.5" 3TB HDD disk jsem si dokoupil z druhé ruky v podobě externího disku. 
 
-![SSD_128GB.png]({{ site.baseurl }}/assets/SSD_128GB.png)
+![SSD_128GB.png]({{ site.baseurl }}/assets/pc/SSD_128GB.png)
 
-![HDD_3TB.png]({{ site.baseurl }}/assets/HDD_3TB.png)
+![HDD_3TB.png]({{ site.baseurl }}/assets/pc/HDD_3TB.png)
 
 Plotnový disk stačilo vyloupnout ze svého rámečku a mohl jsem ho namontovat do stoláku. Proč by to někdo dělal? Externí disky jsou z druhé ruky levné, zpravidla je někdo používal jen málo. Tyhle 3.5" hebeda většinou nikdo nenosil v kapse, takže by měli být v poměrně dobrém stavu. Rámeček který mi zbyl jsem dal Bekovi pro jeho 1TB disk z kterého neměl jak přečíst data. 
 
@@ -59,7 +59,7 @@ Dále v textu je přiložené script, která umožnuje vytvořit více úrovňov
 {: .note }
 > Byl trochu problém s utilizací SSD disku, musel jsem ji snížit na nějakých 93% aby měl Windows nechali disk vytvořit.
 
-![Prostory uložišť.png]({{ site.baseurl }}/assets/Prostory uložišť.png)
+![Prostory uložišť.png]({{ site.baseurl }}/assets/pc/Prostory uložišť.png)
 
 Bim bada bum bum! Máme disk!
 

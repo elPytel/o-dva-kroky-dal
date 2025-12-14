@@ -1,0 +1,54 @@
+---
+layout: recipe
+title: Smažené čínské nudle
+---
+4 porce  
+
+
+# Ingredience:  
+- 4 stroužky česneku  
+- 1 cibule  
+- 2  papriky
+- 2 lžíce sójové omáčky  
+- 1 lžička škrobové moučky    
+- 1 menší pórek  
+- 1 větší mrkev  
+- 2 plátky kuřecího prsního řízku  
+- 400 g čínských vaječných nudlí  
+- 1–2 lžičky koření "Čína" (podle chuti)  
+- Sůl a mletý černý pepř (podle potřeby)  
+- Olej na smažení  
+
+
+# Postup přípravy:  
+
+1. Příprava zeleniny:
+
+Zeleninu omyjte, cibuli a česnek oloupejte, mrkev oškrábejte.  
+   - Papriky zbavte jádřinců a nakrájejte na nudličky.  
+   - Cibuli rozpulte a nakrájejte na proužky.  
+   - Mrkev nakrájejte na půlměsíčky, pórek na kolečka, česnek na plátky.  
+
+2. Smažení zeleniny:
+
+Na rozpáleném oleji zprudka smažte připravenou zeleninu, dokud nezměkne. Zelenina by měla zůstat polosyrová a křupavá.  
+
+3. Příprava masa:  
+Maso nakrájejte na malé kousky, smíchejte se škrobovou moučkou a zprudka osmažte na rozehřátém oleji. Dochutťe kořením "Čína" a sójovou omáčkou.  
+Usmažené maso promíchejte se smaženou zeleninou.  
+
+4. Vaření a smažení nudlí:
+
+Čínské nudle povařte ve vroucí osolené vodě 2 minuty. Sceďte je, propláchněte studenou vodou a nechte okapat.  
+Na rozpáleném oleji smažte nudle zprudka 2–3 minuty. Smažte vždy pouze 1–2 porce nudlí najednou, aby se neslepovaly.  
+
+5. Dokončení:  
+Usmažené nudle promíchejte s masovou směsí. Podle chuti dosolte nebo opepřete.  
+
+Tip k přípravě:  
+- Pokud nemáte čínské nudle, můžete je nahradit špagetami.  
+- Zeleninu lze kombinovat dle chuti – přidejte například brokolici, ředkev nebo jinou oblíbenou zeleninu.  
+- Pro vegetariánskou variantu nahraďte maso tofu nebo tempehem.  
+
+Dobrou chuť!  
+[](https://www.vareni.cz/recepty/smazene-cinske-nudle/)

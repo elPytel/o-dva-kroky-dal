@@ -1,0 +1,20 @@
+---
+layout: recipe
+title: Toustový chléb
+---
+
+
+# Ingredience:  
+- 200 ml mléka
+- 100 ml vody
+- 1 malé vejce
+- 25 g změklého másla
+- 500 g hladké mouky
+- 1 lžička sušeného droždí
+- 1 lžička cukru
+- 2 rovné lžičky soli
+
+
+# Zdroj:
+
+[](https://www.toprecepty.cz/recept/25399-dobry-toustovy-chleb/)
