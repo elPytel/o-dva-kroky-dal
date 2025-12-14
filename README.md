@@ -94,6 +94,14 @@ pip install pyyaml
 python3 scripts/generate_category_pages.py
 ```
 
+Tento skript vytvoří soubory pro každou kategorii v adresáři `kategorie/`, které obsahují seznam příspěvků v dané kategorii.
+
+Nebo lze použít příkaz:
+```bash
+make build
+```
+Který spustí generování kategorií a rovnou spustí lokální Jekyll server.
+
 ## Layouts
 
 - [Layouts](https://jekyllrb.com/docs/layouts/)

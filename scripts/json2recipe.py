@@ -4,9 +4,9 @@ import json
 import os
 
 KEEP_JSON = "keep.json"
-RECIPES_FOLDER = "./_recipes"
+RECIPES_FOLDER = "../_recipes"
 
-with open("./keep.json", "r") as f:
+with open("../keep.json", "r") as f:
     data = json.load(f)
 
 # f string template

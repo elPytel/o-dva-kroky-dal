@@ -13,7 +13,7 @@ import glob
 import uuid
 from datetime import datetime, timezone
 
-KEEP_PATH = "./dont_include/Keep"
+KEEP_PATH = "../dont_include/Keep"
 
 def convert_timestamp(timestamp):
     # Convert Keep timestamp in epoch microseconds to ISO format

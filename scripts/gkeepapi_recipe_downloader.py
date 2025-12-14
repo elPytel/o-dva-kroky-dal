@@ -4,7 +4,7 @@ import os
 import gkeepapi
 import configparser
 
-FOLDER_NAME = '_recipes'
+FOLDER_NAME = '../_recipes'
 CONFIG_FILE = 'keep.config'
 
 VERBOSE = True
