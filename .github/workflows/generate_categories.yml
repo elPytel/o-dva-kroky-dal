@@ -1,11 +1,9 @@
 name: Generate category pages
 
 on:
-  push:
+  pull_request:
+    types: [closed]
     branches: [ main ]
-    # ignore changes in generated folder to avoid infinite loop
-    paths-ignore:
-      - 'kategorie/**'
   workflow_dispatch: {}
 
 permissions:
@@ -14,6 +12,7 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    if: github.event.pull_request.merged == true
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -31,19 +30,11 @@ jobs:
       - name: Run category generator
         run: python3 scripts/generate_category_pages.py
 
-      - name: Set up Ruby and Bundler cache
-        uses: ruby/setup-ruby@v1
+      - name: Commit generated pages
+        uses: EndBug/add-and-commit@v9
         with:
-          ruby-version: '3.2'
-          bundler-cache: true
-
-      - name: Install dependencies and build
-        run: |
-          bundle install --jobs 4 --retry 3
-          bundle exec jekyll build
-
-      - name: Upload built site
-        uses: actions/upload-artifact@v4
-        with:
-          name: site
-          path: _site/
+          message: "chore: regenerate category pages"
+          add: "kategorie/**"
+          author_name: "github-actions[bot]"
+          author_email: "github-actions[bot]@users.noreply.github.com"
+          push: true
