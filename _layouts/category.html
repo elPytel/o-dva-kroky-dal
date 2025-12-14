@@ -1,0 +1,41 @@
+---
+layout: default
+---
+
+<h1>{{ page.title }}</h1>
+
+<p><a href="{{ '/kategorie/' | relative_url }}">Zpět na seznam kategorií</a></p>
+
+<ul>
+</ul>
+
+{% assign tag = page.category | default: page.tag %}
+{% assign cat_posts = site.categories[tag] %}
+{% if cat_posts and cat_posts.size > 0 %}
+  <ul>
+    {% for post in cat_posts %}
+      <li>
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        <small> — {{ post.date | date: "%Y-%m-%d" }}</small>
+      </li>
+    {% endfor %}
+  </ul>
+{% else %}
+  <ul>
+    {% for post in site.posts %}
+      {% if post.tags contains tag or post.categories contains tag %}
+        <li>
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+          <small> — {{ post.date | date: "%Y-%m-%d" }}</small>
+        </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+{% endif %}
+</ul>
+
+{% if site.data and site.data.tags_notes and site.data.tags_notes[tag] %}
+  <div class="tag-note">
+    {{ site.data.tags_notes[tag] }}
+  </div>
+{% endif %}

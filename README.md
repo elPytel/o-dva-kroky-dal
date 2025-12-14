@@ -10,6 +10,7 @@
   - [Linky](#linky)
   - [Obrázky](#obrázky)
     - [Rotace obrázků](#rotace-obrázků)
+  - [Generování stránky kategorií](#generování-stránky-kategorií)
   - [Layouts](#layouts)
     - [cookbook](#cookbook)
   - [recipe](#recipe)
@@ -83,6 +84,14 @@ Tento příkaz zmenší všechny obrázky v aktuálním adresáři na maximáln�
 
 ```bash
 convert input.jpg -rotate 90 output.jpg
+```
+
+## Generování stránky kategorií
+
+Pro generování stránky kategorií použijte skript `generate_category_pages.py`:
+```bash
+pip install pyyaml
+python3 scripts/generate_category_pages.py
 ```
 
 ## Layouts
