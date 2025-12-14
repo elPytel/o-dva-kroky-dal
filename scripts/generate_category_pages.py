@@ -60,7 +60,12 @@ def collect_tags():
         for key in ('tags', 'categories'):
             if key in fm and fm[key]:
                 if isinstance(fm[key], str):
-                    vals = [fm[key]]
+                    raw = fm[key]
+                    # Support both comma-separated and space-separated category strings
+                    if ',' in raw:
+                        vals = [v.strip() for v in raw.split(',') if v.strip()]
+                    else:
+                        vals = [v.strip() for v in re.split(r'\s+', raw) if v.strip()]
                 else:
                     vals = fm[key]
                 for t in vals:

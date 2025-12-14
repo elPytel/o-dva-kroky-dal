@@ -17,6 +17,9 @@ layout: default
       <li>
         <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
         <small> — {{ post.date | date: "%Y-%m-%d" }}</small>
+        {% if post.description or post.excerpt %}
+          <p class="post-desc">{{ post.description | default: post.excerpt | strip_html | truncate: 200 }}</p>
+        {% endif %}
       </li>
     {% endfor %}
   </ul>
@@ -27,6 +30,9 @@ layout: default
         <li>
           <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
           <small> — {{ post.date | date: "%Y-%m-%d" }}</small>
+          {% if post.description or post.excerpt %}
+            <p class="post-desc">{{ post.description | default: post.excerpt | strip_html | truncate: 200 }}</p>
+          {% endif %}
         </li>
       {% endif %}
     {% endfor %}

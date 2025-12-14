@@ -88,6 +88,7 @@ convert input.jpg -rotate 90 output.jpg
 
 ## Generování stránky kategorií
 
+
 Pro generování stránky kategorií použijte skript `generate_category_pages.py`:
 ```bash
 pip install pyyaml
