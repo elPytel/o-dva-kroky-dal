@@ -1,0 +1,41 @@
+name: Generate category pages
+
+on:
+  push:
+    branches: [ main ]
+    # ignore changes in generated folder to avoid infinite loop
+    paths-ignore:
+      - 'kategorie/**'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install pyyaml
+
+      - name: Run category generator
+        run: python3 scripts/generate_category_pages.py
+
+      - name: Commit generated pages
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "chore: regenerate category pages"
+          add: "kategorie/**"
+          author_name: "github-actions[bot]"
+          author_email: "github-actions[bot]@users.noreply.github.com"
+          push: true
