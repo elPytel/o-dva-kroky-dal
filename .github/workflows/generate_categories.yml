@@ -31,10 +31,14 @@ jobs:
       - name: Run category generator
         run: python3 scripts/generate_category_pages.py
 
-      - name: Build site
+      - name: Set up Ruby and Bundler cache
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.2'
+          bundler-cache: true
+
+      - name: Install dependencies and build
         run: |
-          gem install bundler:2.4.13 || true
-          bundle config set --local path vendor/bundle
           bundle install --jobs 4 --retry 3
           bundle exec jekyll build
 
