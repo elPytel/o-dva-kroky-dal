@@ -56,24 +56,9 @@ Od července 2025 se prodlužuje platnost evidenční kontroly v ČR na dva roky
 
 - [Plná moc k přepisu vozidla - vzor](https://www.epojisteni.cz/plna-moc-vzor/)
 
-## 1.12.
-Půjčujeme Zuce Fabii na 14 dní by mohla vydělat na letenku do indie.
+## 5.12.
 
-![fabia]({{ site.baseurl }}/assets/fotky/IMG_20251116_170852.jpg)
-
-| Parametr         | Hodnota                     |
-|------------------|-----------------------------|
-| Značka a model   | Škoda Fabia I               |
-| Rok výroby       | 2005                        |
-| Motor            | 1.4 16V 55 kW               |
-| Palivo           | Benzín                      |
-| Převodovka       | Manuální                   |
-| Najeté km        | 190 000 km                 |
-| Emisní norma     | Euro 3                     |
-| Spotřeba paliva  | 6,0 l/100 km (kombinovaná) |
-| Klimatizace      | ANO (nefunkční)            |
-
-- Výbava: ABS, centrál, el. okna (přední), rádio + BT
+Zdobímě perníčky u Pavla a dostáváme klíčky od Passata.
 
 ## 8.12.
 
@@ -81,6 +66,20 @@ Passata jsme pojistili u Kooperativy máme povinné ručení 100/100M a rozší�
 
 Aute je přepsané. Nově už opravdu není potřeba vyřizovat evidenční kontrolu.
 Přepis nás stál 800 Kč na úřadě.
+
+## Koopilot
+
+Přihlásili jsme se do programu Koopilot od Kooperativy, kde sbíráme body za bazepečnou jízdu a můžeme získat slevy na pojištění až 35%. Musel jsem si nainstalovat aplikaci do mobilu povolit sledování jízdy.
+
+Aplikace zaznamenává:
+- Rychlost jízdy,
+- Zrychlení,
+- Brzdění,
+- Interakce s telefonem během jízdy.
+
+Nemají ale domyšlnené že na mobil může za jízdy sahat spolujezdec.
+
+Zatím mám na 150km průměrné skóre 96 bodů ze 100 a to by mělo stačit na 35% (maximální) slevu na pojištění.
 
 ## Zdroje:
 - [epojisteni: kupní smlouva auto](https://www.epojisteni.cz/kupni-smlouva-auto/)
