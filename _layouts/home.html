@@ -37,7 +37,8 @@ layout: default
             <p class="post-categories">
                 Kategorie:
                 {%- for cat in post.categories -%}
-                <a href="{{ '/kategorie/' | append: cat | relative_url }}">{{ cat }}</a>{% unless forloop.last %}, {%
+                {%- assign cat_slug = cat | slugify -%}
+                <a href="{{ '/kategorie/' | append: cat_slug | relative_url }}">{{ cat }}</a>{% unless forloop.last %}, {%
                 endunless %}
 
                 {%- endfor -%}
