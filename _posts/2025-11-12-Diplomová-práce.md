@@ -47,3 +47,7 @@ Na obědě jsem potkal paní Vitvarovou s proděkanem panem Koprnickým. Poslali
 > Stávající vedouci práce napíše žádost prodekanovi Koprnickému, který schválí zrušení starého zadání. A pak již můžu žádat o zadání nového tématu.
 
 Doholdi jsme se že žádost a podklady pro zadání nového tématu pošlu paní Ejemové, která to předá panu Koprnickému a do kopie se přidají stávající vedoucí a budoucí vedoucí práce.
+
+## 19.12.
+
+Stavil jsem se za děkanem Koprnickým, který mi řekl, že email s žádostí obdržel vedení ji schválilo a brzi budu moci zadat nové téma diplomové práce do STAGu.

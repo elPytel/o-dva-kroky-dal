@@ -24,7 +24,7 @@ thumbnail: /assets/fotky/IMG_20251208_141337.jpg
 
 - Výbava: Adaptive Cruise Control (ACC), Front Assist, Park Assist
 
-## Přepis vozidla prok za krokem
+# Přepis vozidla prok za krokem
 Co budete potřebovat:
 - Doklady totožnosti: Občanské průkazy obou stran (nákupčího a prodávajícího).
 - Doklady k vozidlu:
@@ -56,11 +56,11 @@ Od července 2025 se prodlužuje platnost evidenční kontroly v ČR na dva roky
 
 - [Plná moc k přepisu vozidla - vzor](https://www.epojisteni.cz/plna-moc-vzor/)
 
-## 5.12.
+# 5.12.
 
 Zdobímě perníčky u Pavla a dostáváme klíčky od Passata.
 
-## 8.12.
+# 8.12.
 
 Passata jsme pojistili u Kooperativy máme povinné ručení 100/100M a rozšířenou astistenci, plus připojištění proti živlům.
 
@@ -83,3 +83,7 @@ Zatím mám na 150km průměrné skóre 96 bodů ze 100 a to by mělo stačit na
 
 ## Zdroje:
 - [epojisteni: kupní smlouva auto](https://www.epojisteni.cz/kupni-smlouva-auto/)
+
+# 17.12.
+
+Přehazujeme pneumatiky mezi starým a novým Passatem. Pavel bude mít 16" a my 17". Musíme ještě odvést letní sadu do naší garáže.
