@@ -1,7 +1,7 @@
 ---
 layout: category
-title: Linux
-category: Linux
+title: linux
+category: linux
 permalink: /kategorie/linux/
 ---
 

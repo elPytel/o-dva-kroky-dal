@@ -3,6 +3,7 @@ layout: post
 title: "Fabie jezdí dál"
 description: Fabie jezdí dál
 categories: ["Fabie"]
+thumbnail: /assets/fotky/IMG_20251116_170852.jpg
 ---
 
 ![fabia]({{ site.baseurl }}/assets/fotky/IMG_20251116_170852.jpg)
