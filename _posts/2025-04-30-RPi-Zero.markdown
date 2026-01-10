@@ -3,6 +3,7 @@ layout: post
 title:  "Raspberry Pi Zero"
 date:   2025-04-30 15:11:11 +0200
 categories: raspberry-pi zero
+thumbnail: https://github.com/elPytel/RPi_Zero_Gothi/raw/main/documentation/images/loading.png
 ---
 
 - [Zero Gothi](#zero-gothi)
@@ -24,9 +25,9 @@ Dlouze jsem se zamyslel. Kapesní server! To je to co by s tím šlo udělat.
 uSD karty dnes dosahují docela slušných kapacit, jedná přijít jako bootovací a druhá s jednoduchou redukcí se dájako úložiště. 
 Aby to byl opravdu přenosný server, tak to chce ještě nějakou baterku. Možná pro ovládání by se hodil displej a tlačítka.
 
-![UPS HAT](https://camo.githubusercontent.com/71e71421acd0326ef1c49fd9f5d177e8ca01e219ebcc086b0076831f82150461/68747470733a2f2f7777772e7761766573686172652e636f6d2f772f75706c6f61642f7468756d622f302f30642f5550532d4841542d432d312e6a70672f38303070782d5550532d4841542d432d312e6a7067)
+![UPS HAT](https://www.waveshare.com/w/upload/thumb/0/0d/UPS-HAT-C-1.jpg/800px-UPS-HAT-C-1.jpg)
 
-![1.3inch OLED HAT](https://camo.githubusercontent.com/213d8b67642838a3490c3bb8bc5cfdc6344fddb46e9de5493c20b6fe64f57618/68747470733a2f2f7777772e7761766573686172652e636f6d2f772f75706c6f61642f7468756d622f652f65332f312e33696e63682d4f4c45442d4841542d312e6a70672f36303070782d312e33696e63682d4f4c45442d4841542d312e6a7067)
+![1.3inch OLED HAT](https://www.waveshare.com/w/upload/thumb/e/e3/1.3inch-OLED-HAT-1.jpg/600px-1.3inch-OLED-HAT-1.jpg)
 
 No ale pro propojení musí mít deska header...
 
