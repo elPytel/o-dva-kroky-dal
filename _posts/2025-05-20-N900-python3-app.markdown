@@ -2,7 +2,11 @@
 layout: post
 title:  "Nokia N900 a python aplikace"
 date:   2025-05-20 15:11:11 +0200
-categories: n900 postmarketOS
+categories: 
+    - n900
+    - postmarketOS
+    - python
+    - mobily
 thumbnail: https://i.redd.it/0bcyeg2yly1f1.jpeg
 ---
 

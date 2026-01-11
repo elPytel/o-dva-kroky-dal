@@ -2,7 +2,9 @@
 layout: post
 title:  "Nokia N900 poznámky"
 date:   2025-05-12 15:11:11 +0200
-categories: n900 notes
+categories: 
+    - n900
+    - mobily
 ---
 
 # N900 - Legenda mezi telefony
