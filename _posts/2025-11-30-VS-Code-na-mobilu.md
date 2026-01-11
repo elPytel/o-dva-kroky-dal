@@ -92,3 +92,6 @@ Nyní již jen stačí v režimu DEX otevřít prohlížeč a jít na adresu htt
 - [gihub: Visual Studio Code](https://github.com/Microsoft/vscode)
 - [Install Visual Studio Code (actually code-server) on Android](https://gist.github.com/ppoffice/b9e88c9fd1daf882bc0e7f31221dda01)
 - [Coder: termux code-server](https://coder.com/docs/code-server/termux#installation)
+- [reddit: SamsungDex - VS Code](https://www.reddit.com/r/SamsungDex/comments/sn1qzl/dex_apps_for_a_developer_vscode/)
+- [codewithharry: Install VS Code on Android](https://www.codewithharry.com/blogpost/install-vs-code-in-android)
+- [stackoverflow: How to run Visual Studio Code on Samsung DeX](https://stackoverflow.com/questions/52517514/how-to-run-visual-studio-code-on-samsung-dex)
