@@ -63,7 +63,7 @@ Objednal jsem i třetí 3TB HDD a čekám kdy dorazí.
 ## 3D tisk
 Pro instalaci disků se v tomto šasi používají platové kolejničky. V počítači jsem měl jen jednu sadu, tak jsem našel na internet 3D modely pro tisk náhradních kolejnic.
 
-Poslal jem Bekovi odkazy na stl soubory na 3D tisk držáků pro HDD do Zalman skříně.
+Poslal jem Bekovi odkazy na stl soubory na 3D tisk držáků pro HDD do Zalman šasi.
 - [Zalman Z3 Plus HDD rails](https://www.thingiverse.com/thing:5337904)
 - [Zalman HDD rails](https://www.printables.com/model/1126937-zalman-hdd-rails?lang=cs)
 
