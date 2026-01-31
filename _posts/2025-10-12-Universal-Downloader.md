@@ -3,8 +3,8 @@ layout: post
 title: "Universal Downloader: Datoid"
 description: "Přidání podpory pro Datoid do Universal Downloaderu"
 categories:
-  - Python
-  - Universal Downloader
+  - python
+  - universal_downloader
 thumbnail: https://github.com/elPytel/Universal_downloader/raw/main/assets/multi_source.png
 ---
 

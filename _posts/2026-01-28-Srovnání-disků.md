@@ -29,13 +29,14 @@ Hitachi HDD 3TB:
 
 ### Srovnání výkonu disků
 
-| Srovnání jednotlivých disků | Rychlost čtení (MB/s) |
-| -------------------------- | --------------------- |
-| Hitachi 3TB  | 155 |
-| Seagate 3TB  | 206 |
-| StorageDrive 3TB + 128GB sata cache | 561 |
-| Intel 1TB nvme | 1,620 |
-| Samsung 1TB nvme | 3,444 |
+| Srovnání jednotlivých disků | Rychlost čtení (MB/s) | Rychlost zápisu (MB/s) |
+| -------------------------- | --------------------- | --------------------- |
+| K: Hitachi 3TB      | 155 | 160 |
+| W: Mirror 3TB 2xHDD | 150 | 150 |
+| G: Seagate 3TB      | 206 | 200 |
+| E: StorageDrive 3TB + 128GB sata cache | 561 | 140 |
+| I: Intel 1TB nvme   | 1,620 |   960 |
+| C: Samsung 1TB nvme | 3,444 | 1,300 |
 
 <div id="gallery">
   <img id="rotating-img" src="{{ site.baseurl }}/assets/pc/Hitachi 3TB performance.png" width="700" height="500">
@@ -51,6 +52,7 @@ const path = "{{ site.baseurl }}/assets/pc/";
 
 const images = [
   "Hitachi 3TB performance.png", 
+  "Mirror 3TB performance.png",
   "Seagate 3TB performance.png",
   "StorageDrive 3TB + SSD cache performance.png",
   "Intel 1TB nvme performance.png", 
