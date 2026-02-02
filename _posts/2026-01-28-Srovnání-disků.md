@@ -5,6 +5,7 @@ description: Srovnání výkonu různých disků
 categories: 
   - pc
   - windows
+  - storage
 thumbnail: /assets/pc/hitachi-hdd-3tb-3.5-sata.jpeg
 ---
 
