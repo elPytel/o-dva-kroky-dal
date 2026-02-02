@@ -1,18 +1,21 @@
 ---
 layout: post
-title: "Plánování trasy"
-description: A description
+title: "Plánování trasy na Krétu"
+description: Kudy pojedeme na Krétu
 categories: 
     - erasmus
     - kréta
+thumbnail: /assets/erasmus/Liberec_Atheny.png
 ---
 
-# Plánování trasy na Krétu
+Nabízelo se několik možností, ze kterých jsme museli vybrat jak budeme na Krétu cestovat.
+
 ## Trajekt z Benátek
 [reckavasen](https://reckavasen.cz/jak-autem-do-recka)
 
 Trasa: Plzeň -> Mnichov -> Salzburg-> Villach → Udine -> Benátky-Fusina
-2 osoba, malé auto, žádná zvířata, cesta pouze tam – cca €637 (15 000 CZK)
+
+Trajekt: 2 osoby, malé auto, cesta pouze tam – cca €637 (15 000 CZK)
 
 | Položky | cena |
 |---------|------|
@@ -35,12 +38,14 @@ Trasa: Brno – Vídeň – Záhřeb – Bělehrad – Sofie – Promachonas –
 | trajekt | 3984 |
 | Celkem | 13994 |
 
-## Zvolená cena
+## Zvolená cesta
 
 Rozpočítali jsme očekávané náklady na cestu a autem nás to vyházelo lépe než přes Benátky a tak pojedeme autem až do Athén.
 
 ## Změna trasy
 Pojedeme nakonec ještě navstívit mámu na Šumavě. Rozloží nám to cestu ještě do více dnů. Vyjedem rovnou už ve čtvrtek odpoledne. Budeme si sice muset zaplatit tunyly v Rakousku, ale to nám nevadí.
+
+![Liberec_Atheny]({{ site.baseurl }}/assets/erasmus/Liberec_Atheny.png)
 
 - 300 km Liberec -> Železná Ruda
 - 800 km Železná Ruda -> Vinkovci
@@ -57,3 +62,9 @@ Ubytování nás vycházejí zhruba na 40-45€ za noc pro oba.
 Pokud v Rakousku sjedete z dálnice můžete snadno narazit na úsek, kde jsou povinné **řetězy**.
 
 V Řecku je součástí povinné výbavy i **hasící přístroj**.
+
+V Řecku je standardní tolerance alkoholu za volantem 0,5 promile v krvi. Přísnější limit 0,2 promile platí pro začínající řidiče (praxe méně než 2 roky).
+
+## Očekávaný výskyt sněhu na trase
+
+![Snow_in_europe]({{ site.baseurl }}/assets/Snow_in_europe.jpg)
