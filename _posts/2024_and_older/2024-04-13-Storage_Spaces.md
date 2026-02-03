@@ -19,7 +19,7 @@ thumbnail: https://github.com/freemansoft/win10-storage-spaces/raw/main/images_f
       - [Odstranění svazku](#odstranění-svazku)
     - [Přesun disků mezi počítači](#přesun-disků-mezi-počítači)
 
-Máte počítač windows? Ale libí se vím představa toho, že můžete spojit více svých disků do jednoho velkého uložiště jako to jde na Linuxu třeba s použitím [MergerFS]({{ site.baseurl }}{% link _posts/2023-08-02-MergerFS.md %}). Tak nezoufejte! Microsoft má pro vás řešení (alespoň částečně)!
+Máte počítač windows? Ale libí se vím představa toho, že můžete spojit více svých disků do jednoho velkého uložiště jako to jde na Linuxu třeba s použitím [MergerFS](2023-08-02-MergerFS.md). Tak nezoufejte! Microsoft má pro vás řešení (alespoň částečně)!
 
 ## Disky
 Chtěl jsem říci že se mi kolem váleli tyto disky, ale je to jen poloviční pravda. M.2 SATA SSD mělo krizi osobnosti a válejíce se kolem si hrálo na velkou flashku. SATA 3.5" 3TB HDD disk jsem si dokoupil z druhé ruky v podobě externího disku. 

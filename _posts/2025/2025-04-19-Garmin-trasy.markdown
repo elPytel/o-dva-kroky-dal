@@ -30,4 +30,4 @@ K náhledu GPX souborů online lze použít například web [gpx.studio](https:/
 - [Trasa z Camping Gössl do Camping Gössl]({{ site.baseurl }}/gpx/Trasa%20z%20Camping%20Gössl%20do%20Camping%20Gössl.gpx)
 
 ## Předcházející
-[Garmin Instinct 2x]({{ site.baseurl }}{% link _posts/2024-04-09-Garmin-instict.markdown %})
+[Garmin Instinct 2x]({{ site.baseurl }}{% link _posts/2024_and_older/2024-04-09-Garmin-instict.markdown %})

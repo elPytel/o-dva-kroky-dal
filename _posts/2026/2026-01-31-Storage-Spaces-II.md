@@ -10,8 +10,7 @@ thumbnail: /assets/pc/Safe_data.png
 
 Odstranil jsem Storage Space s tiered disky. Stačilo jen spustit jako správce starý skript na odstranění Storage Space, který jsem měl od jeho vytvoření na win 10 a chvíli se modlit.
 
-[Storage Spaces I]({{ site.baseurl }}{% link _posts/2024-04-13-Storage_Spaces.md %})
-
+[Storage Spaces I](../2024_and_older/2024-04-13-Storage_Spaces.md)
 
 ```powershell
 remove-storage-space.ps1

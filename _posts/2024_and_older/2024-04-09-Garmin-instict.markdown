@@ -2,7 +2,9 @@
 layout: post
 title:  "Garmin Instinct"
 date:   2024-04-09 10:24:06 +0200
-categories: garmin instinct
+categories: 
+  - garmin
+  - instinct
 thumbnail: https://image.alza.cz/products/PPinst2X9b2/PPinst2X9b2-02.jpg
 ---
 

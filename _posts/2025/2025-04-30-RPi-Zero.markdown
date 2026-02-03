@@ -117,4 +117,4 @@ Na co že jsem měl to raspberry? Aha a nebylo by mnohem víc cool mít N900? By
 
 Jo a taky z Nokie na všechny strany nekoukají dráty... (Aspoň zatím)
 
-[N900 notes]({{ site.baseurl }}{% link _posts/2025-05-12-N900-notes.markdown %})
+[N900 notes](2025-05-12-N900-notes.markdown)

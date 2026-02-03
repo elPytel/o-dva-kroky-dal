@@ -2,6 +2,7 @@
 ### User specific ### 
 *.config
 dont_include/*
+big_photos
 keep.json
 
 ### Jekyll ###

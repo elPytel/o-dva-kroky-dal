@@ -2,7 +2,8 @@
 layout: post
 title: "Passat B8 pod stromeček"
 description: Aneb jak přepsat auto na nového majitele
-categories: ["passat"]
+categories: 
+    - passat
 thumbnail: /assets/fotky/IMG_20251208_141337.jpg
 ---
 

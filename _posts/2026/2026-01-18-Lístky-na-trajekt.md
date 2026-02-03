@@ -8,7 +8,7 @@ categories:
 thumbnail: /assets/Trajekt.jpg
 ---
 
-Už máme zařízené [pojištění]({{ site.baseurl }}{% link _posts/2025-12-16-Cestovní-pojištění.md %}), peníze od EU přišli a tak teď kupujme lístky na trajekt.
+Už máme zařízené [pojištění](2025-12-16-Cestovní-pojištění.md), peníze od EU přišli a tak teď kupujme lístky na trajekt.
 
 
 # Nákup lístků na trajekt.

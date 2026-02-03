@@ -32,4 +32,4 @@ Importování kontaktů z Google účtu do N900 je velmi jednoduché. Stačí si
 
 ## Další posty
 
-- [Nokia N900 hry]({{ site.baseurl }}{% link _posts/2025-07-20-N900-games.markdown %})
+- [Nokia N900 hry](2025-07-20-N900-games.markdown)

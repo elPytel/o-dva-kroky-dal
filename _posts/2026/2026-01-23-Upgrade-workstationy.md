@@ -9,7 +9,7 @@ thumbnail: /assets/pc/Disky.png
 ---
 
 ## 20.1.
-Upgrade stolního [počítače]({{ site.baseurl }}{% link _posts/2024-08-02-desktop.md %}) s [GTX 1070ti]({{ site.baseurl }}{% link _posts/2025-12-14-GTX-1070-Ti.md %}).
+Upgrade stolního [počítače](../2024_and_older/2024-08-02-desktop.md) s [GTX 1070ti](../2025/2025-12-14-GTX-1070-Ti.md).
 
 Pořídil jsem 2x8GB DDR4 paměti značky Samsung.
 Takže mám nyní 48GB celkem. Na dlouhou dobu to teď bude asi poslední rozšíření operační paměti vzhledem k situaci na trhu s pamětí RAM.
@@ -40,7 +40,7 @@ Vyndal jsem 16GB optane místo něho jsem přidal Intel nvme 500GB SSD.
 
 ![disky]({{ site.baseurl }}/assets/pc/Disky.png)
 
-Mám v plánu nastavit [Storage Spaces]({{ site.baseurl }}{% link _posts/2024-04-13-Storage_Spaces.md %}) s tiered disky:
+Mám v plánu nastavit [Storage Spaces](../2024/2024-04-13-Storage_Spaces.md) s tiered disky:
 - 500GB nvme SSD jako "rychlá vrstva" (cache),
 - 3x3TB HDD jako "pomalá vrstva" (data) - celkem 6TB užitné kapacity v RAID 5.
 

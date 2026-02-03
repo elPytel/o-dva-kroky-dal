@@ -14,7 +14,7 @@ thumbnail: https://images.icon-icons.com/2389/PNG/512/garmin_logo_icon_145264.pn
 
 # Garmin jak vyresetovat hodinky
 
-Dneska jsem si chtěl do svých hodinek nahrát trasu kolem Chorvatského ostrova [Murter]({{ site.baseurl }}{% link _posts/2025-07-14-Výlet-Murtet.md %}). Explor aplikaci trvalo celou věčnost nahrát předem navolenou trasu do hodinek. Restartoval jsem jak aplikaci, tak mobil. Nekonec jsme vyrazili na náš vyklo výlet bez navigace. 
+Dneska jsem si chtěl do svých hodinek nahrát trasu kolem Chorvatského ostrova [Murter](2025-07-14-Výlet-Murtet.md). Explor aplikaci trvalo celou věčnost nahrát předem navolenou trasu do hodinek. Restartoval jsem jak aplikaci, tak mobil. Nekonec jsme vyrazili na náš vyklo výlet bez navigace. 
 Cestou jsem se pokoušel aspoň zapnout navigaci po minulé trase, která byla sice místama odlišná, ale měla společný start, cíl a skoro půlku trasy. Poprvé to selhalo a hodinky se restartovali.
 Podruhé se mi to již povedlo, ale když jsem pipínal aktivitu z *navigovat* na *kolo*, tak se hodinky znovu restartovali. Tentokrát to však nešlo všechno tak hladce. Zůstali zaseklé v bootloopu...
 
