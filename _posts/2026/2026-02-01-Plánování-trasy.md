@@ -65,6 +65,21 @@ V Řecku je součástí povinné výbavy i **hasící přístroj**.
 
 V Řecku je standardní tolerance alkoholu za volantem 0,5 promile v krvi. Přísnější limit 0,2 promile platí pro začínající řidiče (praxe méně než 2 roky).
 
+## Dálniční známky
+
+[Edalnice](https://edalnice.cz/index.html)
+
+| Země | Cena | Platnost |
+|------|------|----------|
+| ČR   |  230 CZK | 1 den  |
+| Rakousko |  9,60 EUR | 1 den |
+| Rakousko tunely |  19 EUR | 1 den |
+| Slovinsko |  16 EUR | 7 dní  |
+| Chorvatsko |  dle ujetých km | jednorázová platba  |
+| Srbsko |  dle ujetých km | jednorázová platba  |
+| Bulharsko | 4 € | 1 den |
+| Řecko |  dle ujetých km | jednorázová platba  |
+
 ## Očekávaný výskyt sněhu na trase
 
 ![Snow_in_europe]({{ site.baseurl }}/assets/Snow_in_europe.jpg)
