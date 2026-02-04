@@ -3,17 +3,14 @@
 - [O Dva Kroky Dal](#o-dva-kroky-dal)
   - [Webová stránka](#webová-stránka)
   - [Testování na lokálním serveru](#testování-na-lokálním-serveru)
-    - [Instalace Jekyll](#instalace-jekyll)
-    - [Instalace závislostí](#instalace-závislostí)
+    - [Instalace závislostí a Jekyll](#instalace-závislostí-a-jekyll)
     - [Spuštění serveru](#spuštění-serveru)
   - [Nový blog-post](#nový-blog-post)
   - [Linky](#linky)
-  - [Obrázky](#obrázky)
-    - [Rotace obrázků](#rotace-obrázků)
-  - [Generování stránky kategorií](#generování-stránky-kategorií)
   - [Layouts](#layouts)
     - [cookbook](#cookbook)
   - [recipe](#recipe)
+  - [Skripty](#skripty)
   - [Zdroje:](#zdroje)
 
 ## Webová stránka
@@ -21,26 +18,20 @@
 
 ## Testování na lokálním serveru
 
-[dokumentace](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll)
+Vytvořil jsem makefile, který zjednodušuje spuštění lokálního serveru a generování kategorií. 
 
-### Instalace Jekyll
-Pro lokální testování je potřeba nainstalovat Jekyll a Ruby. Následující příkazy nainstalují Ruby a Jekyll na Debian/Ubuntu:
-
+### Instalace závislostí a Jekyll
+Pro instalaci závislostí použijte příkaz:
 ```bash
-sudo apt-get install ruby-full
-sudo apt install jekyll
+make install
 ```
 
-### Instalace závislostí
-Pro instalaci závislostí použijte bundler:
-```bash
-bundle install
-```
+Ten nainstaluje všechny potřebná závislosti apt, python, jekyll, bundler.
 
 ### Spuštění serveru
-Lokální spuštění: `jekyll serve`
+Pro spuštění lokálního serveru použijte příkaz:
 ```bash
-bundle exec jekyll serve --baseurl="" --livereload
+make serve
 ```
 
 ## Nový blog-post
@@ -73,35 +64,6 @@ Remember to include the file extension when using the link tag. To use it to cre
 - [stackoverflow: jekyll markdown internal links](https://stackoverflow.com/questions/4629675/jekyll-markdown-internal-links)
 - [jekyllrb: links](https://jekyllrb.com/docs/liquid/tags/#links)
 
-## Obrázky
-Pro zmenšení obrázků použijte příkaz:
-```bash
-mogrify -resize 1920x1920\> -quality 75 -strip *.jpg
-```
-Tento příkaz zmenší všechny obrázky v aktuálním adresáři na maximální rozměr 1920x1920 pixelů, nastaví kvalitu na 75 a odstraní metadata z obrázků.
-
-### Rotace obrázků
-
-```bash
-convert input.jpg -rotate 90 output.jpg
-```
-
-## Generování stránky kategorií
-
-
-Pro generování stránky kategorií použijte skript `generate_category_pages.py`:
-```bash
-pip install pyyaml
-python3 scripts/generate_category_pages.py
-```
-
-Tento skript vytvoří soubory pro každou kategorii v adresáři `kategorie/`, které obsahují seznam příspěvků v dané kategorii.
-
-Nebo lze použít příkaz:
-```bash
-make build
-```
-Který spustí generování kategorií a rovnou spustí lokální Jekyll server.
 
 ## Layouts
 
@@ -134,6 +96,10 @@ python3 json2recipe.py
 
 - [Google Takeout](https://takeout.google.com/)
 - [keep_to_simplenote.py](https://gist.github.com/echus/ce7cd43ec18edaad8105ca37349af41b#file-keep_to_simplenote-py)
+
+## Skripty
+
+[skripty](./scripts/scripts.md)
 
 ## Zdroje:
 - [jansim/cookbook](https://github.com/jansim/cookbook/tree/master)

@@ -2,7 +2,9 @@
 layout: post
 title: "Diplomová práce"
 description: Výběr tématu diplomové práce
-categories: ["TUL", "DP"]
+categories: 
+    - TUL
+    - DP
 thumbnail: https://raw.githubusercontent.com/TUL-IT-2020/Fault-tolerant_filesystem_storage_for_CubeSat/refs/heads/main/assets/sdhc.gif
 ---
 

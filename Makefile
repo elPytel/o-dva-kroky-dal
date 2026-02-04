@@ -13,15 +13,19 @@ RED    := $(shell printf '\033[0;31m')
 GREEN  := $(shell printf '\033[0;32m')
 YELLOW := $(shell printf '\033[0;33m')
 BLUE   := $(shell printf '\033[0;34m')
+PURPLE := $(shell printf '\033[0;35m')
+CYAN   := $(shell printf '\033[0;36m')
 BOLD   := $(shell printf '\033[1m')
 RESET  := $(shell printf '\033[0m')
 else
-RED :=
-GREEN :=
+RED    :=
+GREEN  :=
 YELLOW :=
-BLUE :=
-BOLD :=
-RESET :=
+BLUE   :=
+PURPLE :=
+CYAN   :=
+BOLD   :=
+RESET  :=
 endif
 
 .PHONY: build serve gen-categories install
@@ -36,38 +40,41 @@ $(KATEGORIES_FOLDER):
 
 # jekyll
 install-deps:
-	@echo "Installing dependencies..."
+	@printf "$(CYAN)Installing dependencies...$(RESET)\n"
 	./install_dependencies.sh
 
 install: install-deps
-	@echo "Installing Ruby gems..."
+	@printf "$(CYAN)Installing Ruby gems...$(RESET)\n"
 	bundle install
 
 gen-categories: $(KATEGORIES_FOLDER)
-	@echo "Generating category pages..."
+	@printf "$(CYAN)Generating category pages...$(RESET)\n"
 	@python3 $(SCRIPTS_FOLDER)/generate_category_pages.py
 
 build: gen-categories
-	@echo "Building site..."
+	@printf "$(CYAN)Building site...$(RESET)\n"
 	bundle exec jekyll build
 
-serve: gen-categories
-	@echo "Serving site (live reload)..."
+doctor: build
+	@printf "$(CYAN)Running Jekyll doctor...$(RESET)\n"
 	bundle exec jekyll doctor
+
+serve: gen-categories
+	@printf "$(CYAN)Serving site (live reload)...$(RESET)\n"
 	bundle exec jekyll serve
 
 # image processing
 rotate-images: $(ROW_IMAGES_FOLDER)
-	@echo "Rotating images..."
+	@printf "$(CYAN)Rotating images...$(RESET)\n"
 	@./rotate_images.sh
 
 resize-images:
-	@echo "Resizing images..."
+	@printf "$(CYAN)Resizing images...$(RESET)\n"
 	@./$(SCRIPTS_FOLDER)/convert_to_webp.sh
 
 # recipe conversion from Google Keep
 keep-to-simplenote:
-	@echo "Convert Keep notes to Simplenote format..."
+	@printf "$(CYAN)Convert Keep notes to Simplenote format...$(RESET)\n"
 	# verify source folder exists and is not empty
 	@if [ ! -d "$(KEEP_SRC)" ]; then \
 	  echo "Directory '$(KEEP_SRC)' not found. Create or adjust path before running."; \
@@ -81,9 +88,9 @@ keep-to-simplenote:
 	@python3 $(SCRIPTS_FOLDER)/keep_to_simplenote.py
 
 keep-json-to-recipe: keep-to-simplenote
-	@echo "Convert Keep JSON recipes to markdown..."
+	@printf "$(CYAN)Convert Keep JSON recipes to markdown...$(RESET)\n"
 	@python3 $(SCRIPTS_FOLDER)/keep_json_to_recipe_md.py
 
 clean:
-	@echo "Cleaning generated category pages..."
+	@printf "$(CYAN)Cleaning generated category pages...$(RESET)\n"
 	@rm -rf $(KATEGORIES_FOLDER)/*

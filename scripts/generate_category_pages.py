@@ -52,24 +52,25 @@ def read_front_matter(path):
 
 def collect_tags():
     tags = {}
-    for fn in os.listdir(POSTS_DIR):
-        path = os.path.join(POSTS_DIR, fn)
-        if not os.path.isfile(path):
-            continue
-        fm = read_front_matter(path)
-        for key in ('tags', 'categories'):
-            if key in fm and fm[key]:
-                if isinstance(fm[key], str):
-                    raw = fm[key]
-                    # Support both comma-separated and space-separated category strings
-                    if ',' in raw:
-                        vals = [v.strip() for v in raw.split(',') if v.strip()]
+    for root, dirs, files in os.walk(POSTS_DIR):
+        for fn in files:
+            path = os.path.join(root, fn)
+            if not os.path.isfile(path):
+                continue
+            fm = read_front_matter(path)
+            for key in ('tags', 'categories'):
+                if key in fm and fm[key]:
+                    if isinstance(fm[key], str):
+                        raw = fm[key]
+                        # Support both comma-separated and space-separated category strings
+                        if ',' in raw:
+                            vals = [v.strip() for v in raw.split(',') if v.strip()]
+                        else:
+                            vals = [v.strip() for v in re.split(r'\s+', raw) if v.strip()]
                     else:
-                        vals = [v.strip() for v in re.split(r'\s+', raw) if v.strip()]
-                else:
-                    vals = fm[key]
-                for t in vals:
-                    tags[t] = tags.get(t, 0) + 1
+                        vals = fm[key]
+                    for t in vals:
+                        tags[t] = tags.get(t, 0) + 1
     return tags
 
 def ensure_out():
@@ -89,7 +90,7 @@ def main():
     tags = collect_tags()
     if not tags:
         print('No tags found in _posts/')
-        return
+        exit(1)
     ensure_out()
     for tag, count in sorted(tags.items(), key=lambda x: (-x[1], x[0])):
         write_page(tag, count)

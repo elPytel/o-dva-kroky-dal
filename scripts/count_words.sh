@@ -46,10 +46,6 @@ fi
 # - find: locate all .md files
 # - exec cat: stream content
 # - wc -w: count words
-
-# -not -path '*/.*' : ignore hidden directories (like .git)
-# -not -path '*/node_modules/*' : ignore node_modules
-# -not -path '*/dist/*' : ignore build artifacts
 TOTAL_WORDS=$(find "$REPO_DIR" -type f -name "*.md" \
   -not -path '*/.*' \
   -not -path '*/_site/*' \

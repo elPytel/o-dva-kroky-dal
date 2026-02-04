@@ -2,7 +2,9 @@
 layout: post
 title:  "Garmin zaseklé hodinky"
 date:   2025-07-14 13:40:06 +0200
-categories: garmin factory-reset
+categories: 
+  - garmin 
+  - factory-reset
 thumbnail: https://images.icon-icons.com/2389/PNG/512/garmin_logo_icon_145264.png
 ---
 
