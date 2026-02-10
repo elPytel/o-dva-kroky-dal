@@ -16,7 +16,10 @@ cat > $path <<EOF
 layout: post
 title: "$title"
 description: A description
-categories: ["tag"]
+categories: 
+    - category
+tags: 
+    - tag
 ---
 EOF
 

@@ -66,7 +66,7 @@ serve: gen-categories
 # image processing
 rotate-images: $(ROW_IMAGES_FOLDER)
 	@printf "$(CYAN)Rotating images...$(RESET)\n"
-	@./rotate_images.sh
+	@./rotate_right.sh
 
 resize-images:
 	@printf "$(CYAN)Resizing images...$(RESET)\n"
