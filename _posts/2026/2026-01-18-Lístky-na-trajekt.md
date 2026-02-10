@@ -5,7 +5,7 @@ description: Nákup lístků na trajekt z Pireusu na Krétu
 categories:
     - erasmus
     - kréta
-thumbnail: /assets/Trajekt.jpg
+thumbnail: /assets/erasmus/Trajekt.jpg
 ---
 
 Už máme zařízené [pojištění](2025-12-16-Cestovní-pojištění.md), peníze od EU přišli a tak teď kupujme lístky na trajekt.
@@ -22,9 +22,9 @@ Vypozorovali jsme chování apliace:
 - pokud si vyberete běžná sedadla (levnější varianta), tak na ně nelze použít ISIC slevu a cena za auto zvedne a celková cena bude větší.
 - pokud zadáte slevu ISIC na auto, tak se zvedne cena auta a sedadel pro všechny co nejsou držitelé ISIC karty.
 
-![Trajekt ISIC]({{ site.baseurl }}/assets/Trajekt_ISIC.jpg)
+![Trajekt ISIC]({{ site.baseurl }}/assets/erasmus/Trajekt_ISIC.jpg)
 
-![Trajekt]({{ site.baseurl }}/assets/Trajekt.jpg)
+![Trajekt]({{ site.baseurl }}/assets/erasmus/Trajekt.jpg)
 
 Proto jsme si vybrali nakonec variantu dražší sedadla (levnější celková cena), bez ISIC slevy na auto (cena za auto levnější).
 

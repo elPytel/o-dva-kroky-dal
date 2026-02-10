@@ -10,6 +10,8 @@ thumbnail: /assets/erasmus/Liberec_Atheny.png
 
 Nabízelo se několik možností, ze kterých jsme museli vybrat jak budeme na Krétu cestovat.
 
+S plánováním cesty nám pomáhá Gemini. Ukázal se jako nedocenitelný pomocník v hledání místních zajímavostí, které by nám neměli cestou uniknout.
+
 ## Trajekt z Benátek
 [reckavasen](https://reckavasen.cz/jak-autem-do-recka)
 
@@ -67,19 +69,31 @@ V Řecku je standardní tolerance alkoholu za volantem 0,5 promile v krvi. Pří
 
 ## Dálniční známky
 
+Oficiální web pro dálniční známky v Evropě: 
 [Edalnice](https://edalnice.cz/index.html)
 
-| Země | Cena | Platnost |
-|------|------|----------|
-| ČR   |  230 CZK | 1 den  |
-| Rakousko |  9,60 EUR | 1 den |
-| Rakousko tunely |  19 EUR | 1 den |
-| Slovinsko |  16 EUR | 7 dní  |
-| Chorvatsko |  dle ujetých km | jednorázová platba  |
-| Srbsko |  dle ujetých km | jednorázová platba  |
-| Bulharsko | 4 € | 1 den |
-| Řecko |  dle ujetých km | jednorázová platba  |
+| Země | Cena | Platnost | Celkem za mýta |
+|------|------|----------|------|
+| ČR   |  230 CZK | 1 den  | |
+| Rakousko |  9,60 EUR | 1 den | |
+| Rakousko tunely |  19 EUR | 1 den | |
+| Slovinsko |  16 EUR | 7 dní  | |
+| Chorvatsko |  dle ujetých km | jednorázová platba  | 25 EUR |
+| Srbsko |  dle ujetých km | jednorázová platba  | 500 Kč |
+| Bulharsko | 4 € | 1 den | |
+| Řecko |  dle ujetých km | jednorázová platba  | 15€ |
+
+## Srbsko a EU
+
+Pozor Srbsko není členem EU, takže zde například neplatí roaming "surfuj jako doma". Raději si vjezdem vypněte data.
+
+![Roaming]({{ site.baseurl }}/assets/erasmus/Srbsko_tarif.jpg)
+
+Na vjezd a výjezd vám stačí občanský průkaz.
 
 ## Očekávaný výskyt sněhu na trase
 
-![Snow_in_europe]({{ site.baseurl }}/assets/Snow_in_europe.jpg)
+![Snow_in_europe]({{ site.baseurl }}/assets/erasmus/Snow_in_europe.jpg)
+
+Vývoj počasí na Krétě přes rok
+
