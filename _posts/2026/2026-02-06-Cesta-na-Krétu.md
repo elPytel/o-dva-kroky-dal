@@ -82,6 +82,8 @@ Naprosté motoristické peklo. Akce na dvě hodiny jen zatej to města obrkouži
 
 Je zde kostel Cyrila a Metoděje, u kterého stojí i jejich sochy, ale z auta jsme ho neviděli. 
 
+Na velké křivatce v centru města žebrají lidé tím způsobem, že vám umyjí přední sklo a pak se dožadují peněz. Naštěstí se zuřivou gestikulací nechali odehnat od našeho passatu a přesunuli se k vedlejšímu BMV - SUV.
+
 Odjíždíme pryč, jsme rádi, že jsme si Soluň nevybrali jako cíl našeho Erasmu.
 
 ## 9.2. Řecko II a trajekt
