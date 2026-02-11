@@ -55,7 +55,7 @@ Pojedeme nakonec ještě navstívit mámu na Šumavě. Rozloží nám to cestu j
 - 340 km Sandanski-> Volos 
 - 300 km Volos -> Athény
 
-Celkem: 2 440 km
+Celkem: 2 600 km
 
 Ubytování nás vycházejí zhruba na 40-45€ za noc pro oba.
 
@@ -95,5 +95,8 @@ Na vjezd a výjezd vám stačí občanský průkaz.
 
 ![Snow_in_europe]({{ site.baseurl }}/assets/erasmus/Snow_in_europe.jpg)
 
-Vývoj počasí na Krétě přes rok
+## Vývoj počasí na Krétě přes rok
 
+![Vývoj teploty]({{ site.baseurl }}/assets/erasmus/Kréra počasí.png)
+
+[Vývoj teploty](https://www.meteoblue.com/cs/počasí/historyclimate/climatemodelled/kréta_Řecko_258763)
