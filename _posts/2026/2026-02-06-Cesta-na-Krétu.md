@@ -5,6 +5,7 @@ description: Jak jsme putovali na Krétu
 categories: 
     - erasmus
     - kréta
+thumbnail: /assets/fotky/2026/20260209_175614.webp
 ---
 
 # Obsah
@@ -68,7 +69,7 @@ Maximální rychlost na Řeckých dálnicích je 120 km / h, většinou ti i odp
 V Řecku jsou mýtné brány snad každých 25 km. Platí se běžně při nájezdu na dálnicí. Běžná cena mýta je 2,5 € ale postupně se to nasčítá. Doporučujeme mít sebou nějakou drobou hotovost, ale nám se nakonec podařilo všude zaplatit kartou. Vybírali jsme si brány s člověkem a nebo s platebním terminálem. Vyhněte se branám na krabičku.
 
 Navstívili jsme:
-- jezero Kerkini,
+- [jezero Kerkini](2026-02-08-jezero-Kerkini.md),
 - Soluň,
 - [Olymp](2026-02-08-Olymp.md),
 - [Volos](2026-02-08-Volos.md), zde přespíme a ráno se vydáme do Athen.
@@ -136,7 +137,7 @@ Sedíme na trajektu na Krétu. Venku se blíská a prší. Jsme rádi že tentok
 
 ## 10.2. Kréta
 
-Trajekt je plný kaminů, lidí je však zde po málu. Na 40 sedadlech nás sedí asi 5. Většina lidí co nemají kajutu si zvolila místa bez místenek a zabrali si gaučíky, na kterých se vyspali asi lépe než mi s místenkami.
+Trajekt je plný kaminů, lidí je však zde po málu. Na 40 sedadlech nás sedí asi 5. Je tu s námi pár řeků a několik indů. Většina lidí co nemají kajutu si zvolila místa bez místenek a zabrali si gaučíky, na kterých se vyspali asi lépe než mi s místenkami.
 
 Koupili jsme si na trajekt místenky na "air seats". Jsou to sedadla "jako v letadle". Dají se sklopit, ale nejsou nijak extra pohodlné. Naštěstí jsme měli s sebou deky a polštáře. Takže jsme se nakonec uvelebili na zemi před sedadly, takže se nám podařilo i na chvíli usnout. Celou lodí se rozléhalo dunění motoru hned jak se rozjela. Byl jsem rád za přibalené špunty do uší, které nám pomohly trochu ztlumit ten hluk. Spali jsme asi 4 hodiny.
 
