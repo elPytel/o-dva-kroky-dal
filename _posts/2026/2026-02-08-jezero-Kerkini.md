@@ -3,7 +3,7 @@ layout: post
 title: "jezero Kerkini"
 description: Návštěva jezera Kerkini v Řecku
 categories: 
-    - erasmus
+    - turistika
     - řecko
 tags: 
     - jezero_kerkini

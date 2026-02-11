@@ -14,8 +14,11 @@ thumbnail: /assets/fotky/2026/20260209_175614.webp
   - [5.2. Česko](#52-česko)
   - [6.2. Rakousko, Slovinsko a Chorvatsko](#62-rakousko-slovinsko-a-chorvatsko)
   - [7.2. Srbsko a Bulharsko](#72-srbsko-a-bulharsko)
+    - [Přechod Tovarnik-Šid](#přechod-tovarnik-šid)
+    - [Dálnice](#dálnice)
   - [8.2. Řecko I](#82-řecko-i)
     - [Soluň](#soluň)
+    - [Solná kupa](#solná-kupa)
   - [9.2. Řecko II a trajekt](#92-řecko-ii-a-trajekt)
     - [Tajekt](#tajekt)
   - [10.2. Kréta](#102-kréta)
@@ -43,8 +46,7 @@ Jediný stát kde jsme se rozhodli vyhnout dálnicím bylo Slovinsko. Je to asi 
 
 Za Chorvatskou dálnici jsme v součtu zaplatili 25€. Platí se při sjezdu z dálnice.
 
-Jako druhé místo na trase k přespání jsme zvolili městečko Vinkovci. Je to menší město nějakých 25 km od dálnice. Je to zajížďka 30 od dálnice. Což tedy není přímo na trase, ale druhý den jsme vyrazilo nikoliv zpátky na dálnici, ale směrem Tovarnik-Šid. Ke zde menší hraniční přejezd, který může být výrazně méně vytížený ve srovnání s hlavním přejezdem na dálnici. Je to přejezd vyhledávaný hlavně kamiony. Místní doprava zde funguje v kyvadlovem režimu. Kamióny stojí nekolika kilometrovou frontu, zatímco nebojácní domorodci v osobácich je objíždějí v protisměru. Naštěstí na konci stojí policista, který na to trochu dohlíží. 
-Kontrola na hranicích byla prakticky bezproblémová. Byli jsme jsme třetí auto ve frontě. Trochu podezřívavě na nás koukali. Proč máme složené sedačky, plný kufr a vše je přehozené dekou? Pravda je že to muselo vypadat trochu podezřele. Stačilo stáhnout deku a když vykoukl plastový košík plný ramínek, tak se nám už pak snadno podařilo vykomunimovat, že jen projíždíme, protože se stahujeme na Krétu, tak nás nechali jet bez šacování.
+Jako druhé místo na trase k přespání jsme zvolili městečko Vinkovci. Je to menší město nějakých 25 km od dálnice. Je to zajížďka 30 od dálnice. Což tedy není přímo na trase, ale druhý den jsme vyrazilo nikoliv zpátky na dálnici, ale směrem Tovarnik-Šid. 
 
 Auto jsme zde nechali na parkoviště před Sparem pod třemi kamerami.
 Ráno jsme natonkovali plnou na zdejší benzínce.
@@ -53,10 +55,18 @@ Ráno jsme natonkovali plnou na zdejší benzínce.
 
 Místní znalci před vyjetím nejdříve zkontrolují stav hraničních přejezdu na webkamerach. 
 
+### Přechod Tovarnik-Šid
+Je zde menší hraniční přejezd, který může být výrazně méně vytížený ve srovnání s hlavním přejezdem na dálnici. Je to přejezd vyhledávaný hlavně kamiony. Místní doprava zde funguje v kyvadlovem režimu. Kamióny stojí nekolika kilometrovou frontu, zatímco nebojácní domorodci v osobácich je objíždějí v protisměru. Naštěstí na konci stojí policista, který na to trochu dohlíží. 
+
+![Šid]({{ site.baseurl }}/assets/fotky/2026/IMG20260207091843.webp)
+
+Kontrola na hranicích byla prakticky bezproblémová. Byli jsme jsme třetí auto ve frontě. Trochu podezřívavě na nás koukali. Proč máme složené sedačky, plný kufr a vše je přehozené dekou? Pravda je že to muselo vypadat trochu podezřele. Stačilo stáhnout deku a když vykoukl plastový košík plný ramínek, tak se nám už pak snadno podařilo vykomunimovat, že jen projíždíme, protože se stahujeme na Krétu, tak nás nechali jet bez šacování.
+
+### Dálnice
 Za dálnici v Srbsku jsme na mýtných branách zaplatili v přepočtu 490 Kč. 400 km srbský dálnic ubývá velmi pěkným tempem. Dálnice jsou nové a v dobrém stavu. V našem terminu byla většina úseku malo vytížená a tak se nám ne zřídka stálo že úsek byl jenom pro nás.
 Cestou jsme se zastavili ve dvou Mc Donaldech. Jedno na oběd a pak na pozdní kávu na cestu.
 
-Navštívili jsme [Srbský památník povstání proti Turkům v Niši](2026-02-10-Cele-Kula.md).
+Navštívili jsme [Srbský památník povstání proti Turkům v Niši]({{ site.baseurl }}{% post_url 2026-02-10-Cele-Kula %}).
 
 Poslední úsek trasy v Bulharsku směrem k řeckým hranicím má asi 20 km po staré cestě, která je poměrně úzká, plná tunelů a na silnici místy padají kameny. Po to ale člověk najede na úplně nový usek dálnice. Propojení se zbytkem dálniční sítě už mají naplánovaný a do pár let bude asi i hotový.
 
@@ -69,10 +79,11 @@ Maximální rychlost na Řeckých dálnicích je 120 km / h, většinou ti i odp
 V Řecku jsou mýtné brány snad každých 25 km. Platí se běžně při nájezdu na dálnicí. Běžná cena mýta je 2,5 € ale postupně se to nasčítá. Doporučujeme mít sebou nějakou drobou hotovost, ale nám se nakonec podařilo všude zaplatit kartou. Vybírali jsme si brány s člověkem a nebo s platebním terminálem. Vyhněte se branám na krabičku.
 
 Navstívili jsme:
-- [jezero Kerkini](2026-02-08-jezero-Kerkini.md),
+- [jezero Kerkini]({{ site.baseurl }}{% post_url 2026-02-08-jezero-Kerkini %}),
 - Soluň,
-- [Olymp](2026-02-08-Olymp.md),
-- [Volos](2026-02-08-Volos.md), zde přespíme a ráno se vydáme do Athen.
+- Solná kupa,
+- [Olymp]({{ site.baseurl }}{% post_url 2026-02-08-Olymp %}),
+- [Volos]({{ site.baseurl }}{% post_url 2026-02-08-Volos %}), zde přespíme a ráno se vydáme do Athen.
 
 Pivo značky Mythos našince neurazí.
 
@@ -86,9 +97,14 @@ Na velké křivatce v centru města žebrají lidé tím způsobem, že vám umy
 
 Odjíždíme pryč, jsme rádi, že jsme si Soluň nevybrali jako cíl našeho Erasmu.
 
+### Solná kupa
+![Solná kupa]({{ site.baseurl }}/assets/fotky/2026/20260208_144948.webp)
+
+Zastavili jsme po cestě v místním dole na sůl. Chtěli jsme zkusit zdejší moře, ale pláže byli plné bordelu a odpadků, které vyplavilo moře. Všechny okolní restaurace byli zavřené. Mimo sezénu je tu opravdu mrtvo.
+
 ## 9.2. Řecko II a trajekt
 
-Cestou do Athen jsme se zastavili v [Thermopylae](./2026-02-09-Thermopylae.md), kde se odehrála slavná bitva mezi Řeky a Peršany.
+Cestou do Athen jsme se zastavili v [Thermopylae]({{ site.baseurl }}{% post_url 2026-02-09-Thermopylae %}), kde se odehrála slavná bitva mezi Řeky a Peršany.
 
 2600 km za námi.
 
