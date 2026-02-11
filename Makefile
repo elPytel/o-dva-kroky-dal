@@ -51,7 +51,7 @@ gen-categories: $(KATEGORIES_FOLDER)
 	@printf "$(CYAN)Generating category pages...$(RESET)\n"
 	@python3 $(SCRIPTS_FOLDER)/generate_category_pages.py
 
-build: gen-categories
+build: gen-categories word-count
 	@printf "$(CYAN)Building site...$(RESET)\n"
 	bundle exec jekyll build
 
@@ -90,6 +90,11 @@ keep-to-simplenote:
 keep-json-to-recipe: keep-to-simplenote
 	@printf "$(CYAN)Convert Keep JSON recipes to markdown...$(RESET)\n"
 	@python3 $(SCRIPTS_FOLDER)/keep_json_to_recipe_md.py
+
+# scripts
+word-count:
+	@printf "$(CYAN)Calculating word count...$(RESET)\n"
+	@./$(SCRIPTS_FOLDER)/count_words.sh -p
 
 clean:
 	@printf "$(CYAN)Cleaning generated category pages...$(RESET)\n"

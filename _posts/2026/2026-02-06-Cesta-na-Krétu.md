@@ -66,7 +66,7 @@ Kontrola na hranicích byla prakticky bezproblémová. Byli jsme jsme třetí au
 Za dálnici v Srbsku jsme na mýtných branách zaplatili v přepočtu 490 Kč. 400 km srbský dálnic ubývá velmi pěkným tempem. Dálnice jsou nové a v dobrém stavu. V našem terminu byla většina úseku malo vytížená a tak se nám ne zřídka stálo že úsek byl jenom pro nás.
 Cestou jsme se zastavili ve dvou Mc Donaldech. Jedno na oběd a pak na pozdní kávu na cestu.
 
-Navštívili jsme [Srbský památník povstání proti Turkům v Niši]({{ site.baseurl }}{% post_url 2026-02-10-Cele-Kula %}).
+Navštívili jsme [Srbský památník povstání proti Turkům v Niši]({{ site.baseurl }}{% post_url 2026/2026-02-07-Cele-Kula %}).
 
 Poslední úsek trasy v Bulharsku směrem k řeckým hranicím má asi 20 km po staré cestě, která je poměrně úzká, plná tunelů a na silnici místy padají kameny. Po to ale člověk najede na úplně nový usek dálnice. Propojení se zbytkem dálniční sítě už mají naplánovaný a do pár let bude asi i hotový.
 
@@ -79,11 +79,11 @@ Maximální rychlost na Řeckých dálnicích je 120 km / h, většinou ti i odp
 V Řecku jsou mýtné brány snad každých 25 km. Platí se běžně při nájezdu na dálnicí. Běžná cena mýta je 2,5 € ale postupně se to nasčítá. Doporučujeme mít sebou nějakou drobou hotovost, ale nám se nakonec podařilo všude zaplatit kartou. Vybírali jsme si brány s člověkem a nebo s platebním terminálem. Vyhněte se branám na krabičku.
 
 Navstívili jsme:
-- [jezero Kerkini]({{ site.baseurl }}{% post_url 2026-02-08-jezero-Kerkini %}),
+- [jezero Kerkini]({{ site.baseurl }}{% post_url 2026/2026-02-08-jezero-Kerkini %}),
 - Soluň,
 - Solná kupa,
-- [Olymp]({{ site.baseurl }}{% post_url 2026-02-08-Olymp %}),
-- [Volos]({{ site.baseurl }}{% post_url 2026-02-08-Volos %}), zde přespíme a ráno se vydáme do Athen.
+- [Olymp]({{ site.baseurl }}{% post_url 2026/2026-02-08-Olymp %}),
+- [Volos]({{ site.baseurl }}{% post_url 2026/2026-02-08-Volos %}), zde přespíme a ráno se vydáme do Athen.
 
 Pivo značky Mythos našince neurazí.
 
@@ -104,7 +104,7 @@ Zastavili jsme po cestě v místním dole na sůl. Chtěli jsme zkusit zdejší 
 
 ## 9.2. Řecko II a trajekt
 
-Cestou do Athen jsme se zastavili v [Thermopylae]({{ site.baseurl }}{% post_url 2026-02-09-Thermopylae %}), kde se odehrála slavná bitva mezi Řeky a Peršany.
+Cestou do Athen jsme se zastavili v [Thermopylae]({{ site.baseurl }}{% post_url 2026/2026-02-09-Thermopylae %}), kde se odehrála slavná bitva mezi Řeky a Peršany.
 
 2600 km za námi.
 
