@@ -70,6 +70,9 @@ def collect_tags():
                     else:
                         vals = fm[key]
                     for t in vals:
+                        t = str(t).strip()
+                        if not t:
+                            continue
                         tags[t] = tags.get(t, 0) + 1
     return tags
 
@@ -92,7 +95,9 @@ def main():
         print('No tags found in _posts/')
         exit(1)
     ensure_out()
-    for tag, count in sorted(tags.items(), key=lambda x: (-x[1], x[0])):
+    # Ensure counts are compared as integers and tags as strings to avoid
+    # TypeError when values have mixed types from YAML parsing.
+    for tag, count in sorted(tags.items(), key=lambda x: (-int(x[1]), str(x[0]))):
         write_page(tag, count)
 
 if __name__ == '__main__':
