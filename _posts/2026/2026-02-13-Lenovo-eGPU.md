@@ -9,7 +9,7 @@ tags:
     - ubuntu
     - lenovo
     - dock
-    - 1050
+    - GTX-1050
 thumbnail: https://download.lenovo.com/km/media/images/ACC500012/thunderbolt%20dock%201_20180216151226.JPG
 ---
 
