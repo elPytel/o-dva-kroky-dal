@@ -12,7 +12,7 @@ permalink: /kategorie/
     {% assign cat = category[0] %}
     {% assign posts = category[1] %}
     {% capture cat_str %}{{ cat }}{% endcapture %}
-    {% assign slug = cat_str | slugify %}
+    {% assign slug = cat_str | slugify: 'latin' %}
     <li>
       <a href="{{ '/kategorie/' | append: slug | relative_url }}">
         {{ cat }} ({{ posts.size }})
@@ -30,7 +30,7 @@ permalink: /kategorie/
     {% assign posts = tagpair[1] %}
     {% capture tag_str %}{{ tag_name }}{% endcapture %}
     {% if tag_str and tag_str != "" %}
-      {% assign slug = tag_str | slugify %}
+      {% assign slug = tag_str | slugify: 'latin' %}
       <li>
         <a href="{{ '/kategorie/' | append: slug | relative_url }}">
           {{ tag_str }} ({{ posts.size }})
