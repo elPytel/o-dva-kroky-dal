@@ -13,11 +13,13 @@ tags:
 thumbnail: https://download.lenovo.com/km/media/images/ACC500012/thunderbolt%20dock%201_20180216151226.JPG
 ---
 
-[Lenovo](https://support.lenovo.com/na/cs/solutions/acc500012)
+[Lenovo: Thunderbolt 3 Graphics Dock](https://support.lenovo.com/na/cs/solutions/acc500012)
 
 ![přehled](https://download.lenovo.com/km/media/images/ACC500012/thunderbolt%20dock%201_20180216151226.JPG)
 
 ![porty](https://download.lenovo.com/km/media/images/ACC500012/thunderbolt%20dock%202_20180216150401.JPG)
+
+Ostatní moje doky [Lenovo doky]({{ site.baseurl }}{% post_url 2025/2025-12-22-Thinkpad-Thunderbolt-dock-a-Ubuntu %}).
 
 ## Parametry
 
