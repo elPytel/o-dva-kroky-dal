@@ -49,11 +49,11 @@ install: install-deps
 	@printf "$(CYAN)Installing Ruby gems...$(RESET)\n"
 	bundle install
 
-gen-categories: $(KATEGORIES_FOLDER)
+gen-categories: $(KATEGORIES_FOLDER) word-count
 	@printf "$(CYAN)Generating category pages...$(RESET)\n"
 	@python3 $(SCRIPTS_FOLDER)/generate_category_pages.py
 
-build: gen-categories word-count
+build: gen-categories
 	@printf "$(CYAN)Building site...$(RESET)\n"
 	bundle exec jekyll build
 
@@ -101,6 +101,6 @@ word-count:
 
 clean:
 	@printf "$(CYAN)Cleaning generated category pages...$(RESET)\n"
-	@rm -rf $(KATEGORIES_FOLDER)/*
+	rm -rf $(KATEGORIES_FOLDER)/*
 	@printf "$(CYAN)Cleaning generated word count...$(RESET)\n"
-	@rm -rf $(GENERATED_FOLDER)/*
+	rm -rf $(GENERATED_FOLDER)/*

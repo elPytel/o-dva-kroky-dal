@@ -5,6 +5,7 @@ description: Lenovo Thunderbolt 3 Graphics Dock
 categories: 
     - linux
     - egpu
+    - NVIDIA
 tags: 
     - ubuntu
     - lenovo

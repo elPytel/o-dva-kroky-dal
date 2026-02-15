@@ -2,7 +2,10 @@
 layout: post
 title:  "Raspberry Pi Zero"
 date:   2025-04-30 15:11:11 +0200
-categories: raspberry-pi zero
+categories: 
+  - raspberry-pi 
+tags:
+  - zero
 thumbnail: https://github.com/elPytel/RPi_Zero_Gothi/raw/main/documentation/images/loading.png
 ---
 

@@ -2,7 +2,12 @@
 layout: post
 title: "VS Code na mobilu"
 description: Visual Studio Code běžící na mobilním telefonu
-categories: ["mobily", "samsung", "vscode", "termux"]
+categories: 
+    - mobily
+    - samsung
+    - vscode
+tags:
+    - termux
 thumbnail: /assets/phone/20251130_122435_Opera.jpg
 ---
 

@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "Oprava karimatek"
-categories: camping 
+categories: 
+    - camping
 ---
 
 # Jak spravit prasklou nafukovačku?

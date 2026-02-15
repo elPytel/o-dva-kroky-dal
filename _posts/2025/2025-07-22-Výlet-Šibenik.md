@@ -2,7 +2,11 @@
 layout: post
 title: "Výlet Šibenik"
 description: Příjemné město s přístavem a starým městem.
-categories: ["turistika", "Dalmacie", "Šibenik"]
+categories: 
+    - turistika
+tags:
+    - Dalmacie
+    - Šibenik
 ---
 
 # Staré město Šibenik
