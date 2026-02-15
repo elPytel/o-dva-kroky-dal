@@ -66,8 +66,7 @@ layout: default
           {% if page_num == 1 %}
             <a class="page-number" href="{{ '/' | relative_url }}">{{ page_num }}</a>
           {% else %}
-            {%- assign num_str = page_num | append: '' -%}
-            {%- assign page_path = paginator.paginate_path | replace: ':num', num_str -%}
+            {%- assign page_path = '/page' | append: page_num | append: '/' -%}
             <a class="page-number" href="{{ page_path | relative_url }}">{{ page_num }}</a>
           {% endif %}
         {% endif %}
