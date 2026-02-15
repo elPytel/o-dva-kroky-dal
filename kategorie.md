@@ -7,11 +7,14 @@ permalink: /kategorie/
 <h1>Seznam kategorií</h1>
 
 <ul>
-  {% for category in site.categories %}
-    {% assign slug = category[0] | slugify %}
+  {% assign categories_sorted = site.categories | sort %}
+  {% for category in categories_sorted %}
+    {% assign cat = category[0] %}
+    {% assign posts = category[1] %}
+    {% assign slug = cat | slugify %}
     <li>
       <a href="{{ '/kategorie/' | append: slug | relative_url }}">
-        {{ category[0] }} ({{ category[1].size }})
+        {{ cat }} ({{ posts.size }})
       </a>
     </li>
   {% endfor %}
