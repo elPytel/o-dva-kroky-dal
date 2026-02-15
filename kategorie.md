@@ -42,8 +42,12 @@ permalink: /kategorie/
 
 ## Statistika
 
+{% capture wc %}{% include_relative generated/word_count.txt %}{% endcapture %}
+{% assign pages_count = wc | split: ':' | last | strip %}
+
 | Celkem | Hodnota |
 |---|---:|
 | Kategorií | {{ site.categories.size }} |
 | Tagů | {{ site.tags.size }} |
 | Článků | {{ site.posts.size }} |
+| Přibližný počet stránek (250 slov/stránka) | {{ pages_count }} |

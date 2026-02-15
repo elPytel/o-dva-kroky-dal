@@ -3,6 +3,8 @@
 SCRIPTS_FOLDER=scripts
 KATEGORIES_FOLDER=kategorie
 ROW_IMAGES_FOLDER=big_photos
+GENERATED_FOLDER=generated
+
 KEEP_SRC=./dont_include/Keep
 
 # Enable colored output (1 = on, 0 = off)
@@ -95,7 +97,10 @@ keep-json-to-recipe: keep-to-simplenote
 word-count:
 	@printf "$(CYAN)Calculating word count...$(RESET)\n"
 	@./$(SCRIPTS_FOLDER)/count_words.sh -p
+	@./$(SCRIPTS_FOLDER)/count_words.sh -p > $(GENERATED_FOLDER)/word_count.txt
 
 clean:
 	@printf "$(CYAN)Cleaning generated category pages...$(RESET)\n"
 	@rm -rf $(KATEGORIES_FOLDER)/*
+	@printf "$(CYAN)Cleaning generated word count...$(RESET)\n"
+	@rm -rf $(GENERATED_FOLDER)/*
