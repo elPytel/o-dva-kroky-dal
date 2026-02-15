@@ -1,7 +1,7 @@
 ---
 layout: category
-title: jezero_kerkini
-category: jezero_kerkini
+title: "jezero_kerkini"
+category: "jezero_kerkini"
 permalink: /kategorie/jezerokerkini/
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: category
-title: Norsko
-category: Norsko
+title: "Norsko"
+category: "Norsko"
 permalink: /kategorie/norsko/
 ---
 

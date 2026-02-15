@@ -1,7 +1,7 @@
 ---
 layout: category
-title: web
-category: web
+title: "web"
+category: "web"
 permalink: /kategorie/web/
 ---
 

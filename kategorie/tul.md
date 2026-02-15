@@ -1,7 +1,7 @@
 ---
 layout: category
-title: TUL
-category: TUL
+title: "TUL"
+category: "TUL"
 permalink: /kategorie/tul/
 ---
 

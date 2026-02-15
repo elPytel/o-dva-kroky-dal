@@ -1,7 +1,7 @@
 ---
 layout: category
-title: dock
-category: dock
+title: "dock"
+category: "dock"
 permalink: /kategorie/dock/
 ---
 

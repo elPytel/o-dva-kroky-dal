@@ -1,7 +1,7 @@
 ---
 layout: category
-title: retrospektiva
-category: retrospektiva
+title: "retrospektiva"
+category: "retrospektiva"
 permalink: /kategorie/retrospektiva/
 ---
 

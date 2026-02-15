@@ -1,7 +1,7 @@
 ---
 layout: category
-title: zero
-category: zero
+title: "zero"
+category: "zero"
 permalink: /kategorie/zero/
 ---
 

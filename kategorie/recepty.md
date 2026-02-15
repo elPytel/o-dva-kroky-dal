@@ -1,7 +1,7 @@
 ---
 layout: category
-title: recepty
-category: recepty
+title: "recepty"
+category: "recepty"
 permalink: /kategorie/recepty/
 ---
 

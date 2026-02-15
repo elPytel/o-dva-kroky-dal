@@ -1,7 +1,7 @@
 ---
 layout: category
-title: instinct
-category: instinct
+title: "instinct"
+category: "instinct"
 permalink: /kategorie/instinct/
 ---
 

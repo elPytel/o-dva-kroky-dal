@@ -1,7 +1,7 @@
 ---
 layout: category
-title: vscode
-category: vscode
+title: "vscode"
+category: "vscode"
 permalink: /kategorie/vscode/
 ---
 

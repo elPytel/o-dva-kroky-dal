@@ -1,7 +1,7 @@
 ---
 layout: category
-title: expedice
-category: expedice
+title: "expedice"
+category: "expedice"
 permalink: /kategorie/expedice/
 ---
 

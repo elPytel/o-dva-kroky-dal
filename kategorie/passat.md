@@ -1,7 +1,7 @@
 ---
 layout: category
-title: passat
-category: passat
+title: "passat"
+category: "passat"
 permalink: /kategorie/passat/
 ---
 

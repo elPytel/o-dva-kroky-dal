@@ -1,7 +1,7 @@
 ---
 layout: category
-title: storage
-category: storage
+title: "storage"
+category: "storage"
 permalink: /kategorie/storage/
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: category
-title: postmarketOS
-category: postmarketOS
+title: "postmarketOS"
+category: "postmarketOS"
 permalink: /kategorie/postmarketos/
 ---
 

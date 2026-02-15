@@ -1,7 +1,7 @@
 ---
 layout: category
-title: ALG
-category: ALG
+title: "ALG"
+category: "ALG"
 permalink: /kategorie/alg/
 ---
 

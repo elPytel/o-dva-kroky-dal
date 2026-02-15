@@ -1,7 +1,7 @@
 ---
 layout: category
-title: NAS
-category: NAS
+title: "NAS"
+category: "NAS"
 permalink: /kategorie/nas/
 ---
 

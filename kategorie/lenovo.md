@@ -1,7 +1,7 @@
 ---
 layout: category
-title: lenovo
-category: lenovo
+title: "lenovo"
+category: "lenovo"
 permalink: /kategorie/lenovo/
 ---
 

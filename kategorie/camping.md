@@ -1,7 +1,7 @@
 ---
 layout: category
-title: camping
-category: camping
+title: "camping"
+category: "camping"
 permalink: /kategorie/camping/
 ---
 

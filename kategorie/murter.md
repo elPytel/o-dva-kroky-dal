@@ -1,7 +1,7 @@
 ---
 layout: category
-title: Murter
-category: Murter
+title: "Murter"
+category: "Murter"
 permalink: /kategorie/murter/
 ---
 

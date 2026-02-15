@@ -1,7 +1,7 @@
 ---
 layout: category
-title: TTG
-category: TTG
+title: "TTG"
+category: "TTG"
 permalink: /kategorie/ttg/
 ---
 

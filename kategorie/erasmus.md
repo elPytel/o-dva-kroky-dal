@@ -1,7 +1,7 @@
 ---
 layout: category
-title: erasmus
-category: erasmus
+title: "erasmus"
+category: "erasmus"
 permalink: /kategorie/erasmus/
 ---
 

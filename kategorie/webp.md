@@ -1,7 +1,7 @@
 ---
 layout: category
-title: webp
-category: webp
+title: "webp"
+category: "webp"
 permalink: /kategorie/webp/
 ---
 

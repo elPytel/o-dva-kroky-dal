@@ -1,7 +1,7 @@
 ---
 layout: category
-title: Šibenik
-category: Šibenik
+title: "Šibenik"
+category: "Šibenik"
 permalink: /kategorie/sibenik/
 ---
 

@@ -84,7 +84,10 @@ def write_page(tag, count):
     title = tag
     filename = os.path.join(OUT_DIR, f"{slug}.md")
     permalink = f"/kategorie/{slug}/"
-    content = f"---\nlayout: category\ntitle: {title}\ncategory: {tag}\npermalink: {permalink}\n---\n\n"
+    # Quote title and category to avoid YAML parsing issues for values like '-'
+    esc_title = title.replace('"', '\\"')
+    esc_tag = tag.replace('"', '\\"')
+    content = f"---\nlayout: category\ntitle: \"{esc_title}\"\ncategory: \"{esc_tag}\"\npermalink: {permalink}\n---\n\n"
     with open(filename, 'w', encoding='utf-8') as f:
         f.write(content)
     print('Wrote', filename)

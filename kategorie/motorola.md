@@ -1,7 +1,7 @@
 ---
 layout: category
-title: motorola
-category: motorola
+title: "motorola"
+category: "motorola"
 permalink: /kategorie/motorola/
 ---
 

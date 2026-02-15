@@ -1,7 +1,7 @@
 ---
 layout: category
-title: kréta
-category: kréta
+title: "kréta"
+category: "kréta"
 permalink: /kategorie/kreta/
 ---
 

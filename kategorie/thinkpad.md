@@ -1,7 +1,7 @@
 ---
 layout: category
-title: thinkpad
-category: thinkpad
+title: "thinkpad"
+category: "thinkpad"
 permalink: /kategorie/thinkpad/
 ---
 

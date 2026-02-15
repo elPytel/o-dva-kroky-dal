@@ -1,7 +1,7 @@
 ---
 layout: category
-title: Volos
-category: Volos
+title: "Volos"
+category: "Volos"
 permalink: /kategorie/volos/
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: category
-title: Gnarl
-category: Gnarl
+title: "Gnarl"
+category: "Gnarl"
 permalink: /kategorie/gnarl/
 ---
 
