@@ -52,8 +52,8 @@ Velká kupa ERRORů při pokusu o vytvoření Storage Poolu s tiered disky. A p�
 ```powershell
 Get-PhysicalDisk | Select FriendlyName, MediaType, LogicalSectorSize, PhysicalSectorSize
 
-FriendlyName                 MediaType LogicalSectorSize PhysicalSectorSize                                                                       
-------------                 --------- ----------------- ------------------                                                                       
+FriendlyName                 MediaType LogicalSectorSize PhysicalSectorSize
+------------                 --------- ----------------- ------------------
 Samsung SSD 970 EVO Plus 1TB SSD                     512               4096
 HFS128G39TND-N210A           SSD                     512               4096
 TOSHIBA MQ01ABD100           HDD                     512               4096
@@ -135,7 +135,7 @@ Get-StoragePool -FriendlyName "Fond úložiště" | Get-PhysicalDisk | ft Friend
 FriendlyName                      Size Usage       CanPool
 ------------                      ---- -----       -------
 NVMe INTEL SSDPEKNW512G8  512110190592 Auto-Select   False
-ST3000VX015-3CV10G       3000592982016 Auto-Select   False        
+ST3000VX015-3CV10G       3000592982016 Auto-Select   False
 ```
 
 ```powershell

@@ -2,7 +2,10 @@
 layout: post
 title: "Osadníci z Catanu"
 description: 3D tisk figurek pro různé národy
-categories: ["TTG", "Osadníci z Catanu"]
+categories: 
+    - TTG
+tags:
+    - "Osadníci z Catanu"
 thumbnail: https://github.com/elPytel/Settlers_of_Catan-Civilizations/raw/main/assets/3DBox_CATAN_BaseGame_NE.png
 ---
 

@@ -84,6 +84,18 @@ Fri Feb 13 22:18:35 2026
 
 Nyní funguje jak monitor připojený k eGPU, tak i větrák eGPU. Už se grafika nepřehřívá na 83C.
 
+## Srovnání s ostatními grafikami
+
+S deskovou grafikou:
+
+![NVIDIA]({{ site.baseurl }}/assets/pc/NVIDIA.png)
+
+S integrovanou grafikou v notebooku:
+
+![integrated]({{ site.baseurl }}/assets/pc/GTX-1050_mobile_vs_Meteor_Lake-P_iGPU.png)
+
+GTX 1050 Mobile je o něco málo výkonnější než integrovaná grafika v notebooku. Její hlavní výhoda je ale 4GB vlastní paměti (kdy člověk s notebookem s 16GB paměti RAM pozná, že nemusí mít i grafické assety nahrané v paměti RAM) a hlazení, které odvede velkou část produkce tepla daleko od CPU v notebooku. Asi jí nově pořizovat nemá smysl, ale když jí člověk vlastní, tak pořád dává smysl jako dock pro připojení monitorů, který zároveň "lehce" zlepší výkon notebooku.
+
 # Zdroje:
 
 ## Instalace
