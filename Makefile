@@ -32,7 +32,7 @@ endif
 
 .PHONY: build serve gen-categories install
 
-all: install build
+all: serve
 
 $(ROW_IMAGES_FOLDER):
 	mkdir -p $(ROW_IMAGES_FOLDER)
