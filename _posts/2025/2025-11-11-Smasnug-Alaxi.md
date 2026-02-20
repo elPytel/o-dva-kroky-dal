@@ -3,7 +3,7 @@ layout: post
 title: "Smasnug Alaxi"
 description: Samsung Galaxy S21 Ultra z druhé ruky
 categories: ["mobily", "samsung"]
-thumbnail: /assets/fotky/samsung-galaxy-s21-ultra-1.jpeg
+thumbnail: /assets/fotky/2025/samsung-galaxy-s21-ultra-1.jpeg
 ---
 
 # Samsung Galaxy S21 Ultra 
@@ -16,7 +16,7 @@ Tak jsem čekal, kdy budu mít 8 000 Kč na zbyt, abych si mohl dovolit oživit 
 ## 7. 11. 2025
 Erice začíná mobil pomalu selhávat, a tak jsme se poohlédli na Aukru po mobilu z druhé ruky a zrovna se jedna S21 Ultra dražila. Tak jsme se rozhoupali a přihodili jsme 5 000 Kč, s tím že jeden z nás bude mít nový mobil.
 
-![S21]({{ site.baseurl }}/assets/fotky/samsung-galaxy-s21-ultra-2.jpeg)
+![S21]({{ site.baseurl }}/assets/fotky/2025/samsung-galaxy-s21-ultra-2.jpeg)
 
 Samsung dorazil za dva dny. Podle fotek byl pěkně zachovalý; nikde nebyl odřený.  
 Erika si do něj nahrála všechny aplikace ze starého. Po několika dnech ale zjistila, že se jí nedá dovolat a mobil se náhodně odpojuje od sítě.

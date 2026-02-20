@@ -2,7 +2,8 @@
 layout: post
 title: "Split Fiction"
 description: Recenze hry Split Fiction
-categories: ["games"]
+categories: 
+    - games
 thumbnail: https://upload.wikimedia.org/wikipedia/en/4/40/Split_Fiction_cover_art.jpg
 ---
 

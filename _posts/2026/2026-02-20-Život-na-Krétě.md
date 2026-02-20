@@ -5,9 +5,24 @@ description: Život na Krétě, místní zvyky a situace na silnicích
 categories: 
     - erasmus
     - kréta
+thumbnail: /assets/crete-stamp-map.webp
 ---
 
 Jak se žije na Krétě 
+
+Boiler si tu lidi pouští z pojistkové skříně s minutkou na dvacet minut před tím než se jdou sprchovat. 
+
+Trubky jsou tu moc malé (5cm) na to aby jimi prošel toaletní papír, takže se hází do koše vedle záchodu. 
+
+To však nebrání řetezcům prodávat roličky toaletního papíru s reklamou na to že můžete spláchnout i jejich ruličku.
+
+## Jak Řekové vyřešili nezaměstnanost
+
+V Řecku je běžné že vám na benzínce člověk natankuje a pak mu zaplatíte přes terminál.
+
+V krámu vám tu zváží zeleninu a dají do pytlíku.
+
+Na dalnících jsou mýtné brány s obsluhou každých 20-30 km.
 
 ## Krajina
 
@@ -15,11 +30,15 @@ Jak se žije na Krétě
 Na Krétě jsou celkem tři velká pohoří s vrcholky přes 2000 metrů nad mořem.
 Nejvyšší z těchto kopců mají sněhovou čepičku.
 
-- Psiloris 2500 mnm
+- Psiloris 2456 mnm
+- Pachnes 2453 mnm
+- Spathi 2148 mnm
 
 ## Architektura
 
 Řecko je jako smradlavá nafrnena holka. Hlavně aby měla dlouhý nehty a iPhone.
+
+Na každém rohu tu je fitko nebo kadeřnicví.
 
 Čím dále se vydáte od centra města, tím více se setkáte s omýtnutýmy domy. Centra měst většinou nejsou moc o co stát. 
 

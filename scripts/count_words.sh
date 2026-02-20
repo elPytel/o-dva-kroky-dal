@@ -35,10 +35,12 @@ if [ "$DEBUG" = "1" ]; then
   # Listing files that match the criteria
   find "$REPO_DIR" -type f -name "*.md" \
     -not -path '*/.*' \
+    -not -path '*/_site/*' \
     -not -path '*/node_modules/*' \
     -not -path '*/dist/*' \
-    -not -path '*/vendor/*' \
-    -not -path '*/build/*'
+    -not -path '*/build/*' \
+    -not -path '*/kategorie/*' \
+    -not -path '*/vendor/*'
   echo "--- END OF DEBUG LIST ---"
 fi
 
