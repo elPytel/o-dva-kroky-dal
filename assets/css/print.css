@@ -1,6 +1,39 @@
 @media print {
   /* Příklad: schovat prvky při tisku */
+  /* základní skrytí navigace a postranních panelů */
   nav, footer, .sidebar {
-    display: none;
+    display: none !important;
   }
+
+  /* Skrýt vše a zobrazit pouze článek s obsahem (article.post) */
+  body * {
+    visibility: hidden !important;
+  }
+
+  /* Zobrazit článek a jeho obsah */
+  article.post, article.post * {
+    visibility: visible !important;
+  }
+
+  /* Poloha článku na stránce pro tisk */
+  article.post {
+    position: absolute !important;
+    left: 0 !important;
+    top: 0 !important;
+    width: 100% !important;
+  }
+
+  /* Skrytí prvků, které nechceme tisknout (tlačítka apod.) */
+  .no-print, button.no-print {
+    display: none !important;
+  }
+
+  /* Základní tiskové úpravy pro úsporu inkoustu */
+  * {
+    background: transparent !important;
+    color: #000 !important;
+    box-shadow: none !important;
+  }
+
+  @page { margin: 1cm; }
 }
