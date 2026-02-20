@@ -5,6 +5,42 @@ WORDS_PER_PAGE=250
 SHOW_PAGES=false
 REPO_DIR="."
 
+# help function
+function show_help {
+    echo "Usage: $0 [options] [directory]"
+    echo "Options:"
+    echo "  -p, --pages [words_per_page]   Show approximate page count (default: 250 words/page)"
+    echo "  -h, --help                     Show this help message"
+    echo "Arguments:"
+    echo "  directory                       Directory to scan (default: current directory)"
+}
+
+# clean md front matter from word count
+function clean_front_matter { # path
+    local path="$1"
+    # Use awk to robustly remove YAML front matter that starts with '---' on first line
+    # Handles CRLF and files that may not have closing '---'
+    awk '
+        BEGIN{in_fm=0}
+        NR==1 && $0 ~ /^---[[:space:]]*$/ {in_fm=1; next}
+        in_fm==1 && $0 ~ /^---[[:space:]]*$/ {in_fm=0; next}
+        { if(!in_fm) print }
+    ' "$path"
+}
+
+# list of included path functions
+function included_paths {
+    # Listing files that match the criteria
+    find "$REPO_DIR" -type f -name "*.md" \
+        -not -path '*/.*' \
+        -not -path '*/_site/*' \
+        -not -path '*/node_modules/*' \
+        -not -path '*/dist/*' \
+        -not -path '*/build/*' \
+        -not -path '*/kategorie/*' \
+        -not -path '*/vendor/*'
+}
+
 # Argument parsing
 while [[ $# -gt 0 ]]; do
     case $1 in
@@ -15,6 +51,10 @@ while [[ $# -gt 0 ]]; do
                 shift
             fi
             shift
+        ;;
+        -h|--help)
+            show_help
+            exit 0
         ;;
         *)
             REPO_DIR="$1"
@@ -30,33 +70,28 @@ if [ ! -d "$REPO_DIR" ]; then
 fi
 
 # Debug section: list files if DEBUG environment variable is set
-if [ "$DEBUG" = "1" ]; then
-  echo "--- DEBUG: List of found .md files ---"
-  # Listing files that match the criteria
-  find "$REPO_DIR" -type f -name "*.md" \
-    -not -path '*/.*' \
-    -not -path '*/_site/*' \
-    -not -path '*/node_modules/*' \
-    -not -path '*/dist/*' \
-    -not -path '*/build/*' \
-    -not -path '*/kategorie/*' \
-    -not -path '*/vendor/*'
-  echo "--- END OF DEBUG LIST ---"
+if [ "$DEBUG" = "1" ]; then    
+    echo "--- DEBUG: List of found .md files ---"
+    included_paths
+    echo "--- END OF DEBUG LIST ---"
+
+    echo "DEBUG: Showing cleaned content (front matter removed) for each file:"
+    included_paths | while IFS= read -r file; do
+        echo "---- $file ----"
+        clean_front_matter "$file"
+    done
 fi
 
-# Word count calculation
-# - find: locate all .md files
-# - exec cat: stream content
-# - wc -w: count words
-TOTAL_WORDS=$(find "$REPO_DIR" -type f -name "*.md" \
-  -not -path '*/.*' \
-  -not -path '*/_site/*' \
-  -not -path '*/node_modules/*' \
-  -not -path '*/dist/*' \
-  -not -path '*/build/*' \
-  -not -path '*/kategorie/*' \
-  -not -path '*/vendor/*' \
-  -exec sed '1{/^---$/{:a;n;/^---$/!ba;d}}' {} + | wc -w)
+# Word count calculation (use included_paths + clean_front_matter)
+# - `included_paths` lists files to include
+# - `clean_front_matter` removes YAML front matter per-file
+# - then count words across cleaned content
+TOTAL_WORDS=$(included_paths | while IFS= read -r file; do
+    # ensure file is non-empty and exists before processing
+    if [ -n "$file" ] && [ -f "$file" ]; then
+        clean_front_matter "$file"
+    fi
+done | wc -w)
 
 # -exec cat {} + | wc -w
 
