@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Výměna baterie v klíčku"
+author: "Jarda"
 description: Návod na výměnu baterie v klíčku od VW Passat B8
 categories: 
     - passat

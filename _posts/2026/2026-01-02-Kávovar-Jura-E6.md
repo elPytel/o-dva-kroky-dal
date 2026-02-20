@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Kávovar Jura E6"
+author: "Jarda"
 description: A description
 categories: 
     - kávovar

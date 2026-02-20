@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Srovnání disků"
+author: "Jarda"
 description: Srovnání výkonu různých disků
 categories: 
   - pc

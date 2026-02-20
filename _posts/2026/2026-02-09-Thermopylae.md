@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Thermopylae"
+author: "Jarda"
 description: Návštěva památníku bitvy u Thermopyl.
 categories:
     - turistika

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Upgrade workstationy"
+author: "Jarda"
 description: Upgrade stolního počítače disky a paměti RAM
 categories: 
   - pc

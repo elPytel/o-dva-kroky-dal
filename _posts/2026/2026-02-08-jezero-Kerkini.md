@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "jezero Kerkini"
+author: "Jarda"
 description: Návštěva jezera Kerkini v Řecku
 categories: 
     - turistika

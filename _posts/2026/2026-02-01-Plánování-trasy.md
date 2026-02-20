@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Plánování trasy na Krétu"
+author: "Jarda"
 description: Kudy pojedeme na Krétu
 categories: 
     - erasmus

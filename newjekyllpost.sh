@@ -15,6 +15,7 @@ cat > $path <<EOF
 ---
 layout: post
 title: "$title"
+author: "Jarda"
 description: A description
 categories: 
     - category

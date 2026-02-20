@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "První den na Krétě"
+author: "Jarda"
 description: Vylodění na Krétě, první dojmy a zážitky z Heraklionu
 categories:
     - erasmus

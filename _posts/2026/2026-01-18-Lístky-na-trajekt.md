@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Lístky na trajekt na Krétu"
+author: "Jarda"
 description: Nákup lístků na trajekt z Pireusu na Krétu
 categories:
     - erasmus

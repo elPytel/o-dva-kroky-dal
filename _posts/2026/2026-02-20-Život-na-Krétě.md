@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Život na Krétě"
+author: "Jarda"
 description: Život na Krétě, místní zvyky a situace na silnicích
 categories: 
     - erasmus
@@ -9,6 +10,21 @@ thumbnail: /assets/crete-stamp-map.webp
 ---
 
 Jak se žije na Krétě 
+
+- [Jak Řekové vyřešili nezaměstnanost](#jak-řekové-vyřešili-nezaměstnanost)
+- [Krajina](#krajina)
+  - [Pohoří](#pohoří)
+- [Architektura](#architektura)
+- [Situace na silnicích](#situace-na-silnicích)
+  - [Kréta - svět rozjetých koťátek i větších hafanů na silnicích.](#kréta---svět-rozjetých-koťátek-i-větších-hafanů-na-silnicích)
+- [Počasí na Krétě](#počasí-na-krétě)
+  - [Únor](#únor)
+- [Slovníček](#slovníček)
+  - [Vaříme](#vaříme)
+- [Místní stravování](#místní-stravování)
+    - [Voda](#voda)
+  - [Těsto na pizzu](#těsto-na-pizzu)
+
 
 Boiler si tu lidi pouští z pojistkové skříně s minutkou na dvacet minut před tím než se jdou sprchovat. 
 
@@ -37,6 +53,12 @@ Nejvyšší z těchto kopců mají sněhovou čepičku.
 ## Architektura
 
 Řecko je jako smradlavá nafrnena holka. Hlavně aby měla dlouhý nehty a iPhone.
+
+Nikde žádné chodníky. alespoň teda žádné, po kterých by se dalo chodit. Vetšinou slouží jako parkovací místa pro auta, nabo jako odkládací místo pro odpadky. 
+
+Chcete jít pěšky na druhou stranu města? Tak hodně štěstí. Městské části odělejí několika proudé silnice bez existujících přechodů pro chodce. Sice tu najdete semafor pro chodce, ale vyjde to na stejno, jako kdyby tu žádné nebyly. 
+
+Při návrhu zdejších uliček nikdo nemyslel na to, že by se tam měli vejít dvě auta vedle sebe, natož aby se tam vešel ještě člověk.
 
 Na každém rohu tu je fitko nebo kadeřnicví.
 
@@ -83,3 +105,16 @@ Základní terminologie
 Každé druhý nápoj či sladkost je tu slazený stevií.
 
 Kilo krevet tu stojí stejně jako kilo nejlevnějšího hovězího.
+
+Docela dobré pití na večer je Don Simon Sangría. Chutná trochu jako studený svařák.
+
+Určitě vyzkoušejte Alfu s mořskou solí. Je to místní pivo, které se vyrábí s přídavkem mořské soli. Má osvěžující chuť a je to rozhodně zajímavý zážitek.
+
+Kupte si 100g pytlík bylinek Řecký salát. Příjdou vám vhod a zbytek si rádi odvezete domů.
+
+#### Voda
+Kohoutková voda v Heraklionu je pitná ale občas chutná jako voda z bazénu. Místní si kupují balenou, tu mají v každém minimarketu na rohu. Pokud chcete na Krétě strávit více času, vyplatí se vám koupít Britu a filtrovat si kohoutkovou vodu doma. Chlorovou pachuť zvládá bez problémů odfiltrovat.
+
+### Těsto na pizzu 
+Těsto na pizzu nekupujte listové, ale balené v kartonových válcích značky Pop Bakery. Otevřít je je trochu hlavolam. Sundejte přelet a pak rozlomte rulicku otočením proti směru závitu balení. Těsto na vás vybouchne, takže doporučujeme mít přichystaný plech a pečící papír.
+Těsto při pečení pěkně vyběhne a chutná skoro jako z místní fastfood pizzerie.

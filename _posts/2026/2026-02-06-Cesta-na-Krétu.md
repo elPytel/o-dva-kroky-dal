@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Cesta na Krétu"
+author: "Jarda"
 description: Jak jsme putovali na Krétu
 categories: 
     - erasmus

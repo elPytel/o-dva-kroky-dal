@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Lenovo eGPU"
+author: "Jarda"
 description: Lenovo Thunderbolt 3 Graphics Dock
 categories: 
     - linux

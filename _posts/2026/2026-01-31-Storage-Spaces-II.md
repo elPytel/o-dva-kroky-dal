@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Storage Spaces II"
+author: "Jarda"
 description: Další pokusy se Storage Spaces na Windows 11
 categories: 
   - windows

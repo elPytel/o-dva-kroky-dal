@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Přerušení studia"
+author: "Jarda"
 description: Studijní záležitosti
 categories: 
     - TUL

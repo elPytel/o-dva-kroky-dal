@@ -21,6 +21,36 @@ layout: default
     {{ content }}
   </div>
 
+  <hr>
+  <br>
+  {%- assign author_key = page.author | default: site.author -%}
+  {%- assign author_data = site.data.authors[author_key] -%}
+  {%- if author_data -%}
+  <footer class="post-author">
+    <div class="author h-card" itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <p class="author-name p-author" itemprop="name">Autor: {{ author_data.name }}</p>
+      {%- if author_data.url -%}
+        <p class="author-link"><a href="{{ author_data.url }}" itemprop="url">Github profil autora</a></p>
+      {%- endif -%}
+      {%- if author_data.bio -%}
+        <p class="author-bio" itemprop="description">{{ author_data.bio }}</p>
+      {%- endif -%}
+    </div>
+  </footer>
+  {%- elsif author_key -%}
+  <footer class="post-author">
+    <div class="author h-card" itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <p class="author-name p-author" itemprop="name">{{ author_key }}</p>
+      {%- if page.author_url or site.author_url -%}
+        <p class="author-link"><a href="{{ page.author_url | default: site.author_url }}" itemprop="url">Profil autora</a></p>
+      {%- endif -%}
+      {%- if page.author_bio or site.author_bio -%}
+        <p class="author-bio" itemprop="description">{{ page.author_bio | default: site.author_bio }}</p>
+      {%- endif -%}
+    </div>
+  </footer>
+  {%- endif -%}
+
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}
   {%- endif -%}

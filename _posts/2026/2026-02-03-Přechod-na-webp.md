@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Přechod na webp"
+author: "Jarda"
 description: Přechod z formátu JPEG na WebP pro optimalizaci obrázků na webu
 categories: 
     - blogging
