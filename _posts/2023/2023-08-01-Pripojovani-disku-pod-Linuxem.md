@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Připojování disků pod Linuxem"
+author: "Jarda"
 description: "Jak připojit disky pod Linuxem"
 categories:
   - linux

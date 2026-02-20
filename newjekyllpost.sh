@@ -14,7 +14,7 @@ path="_drafts/$filename"
 cat > $path <<EOF
 ---
 layout: post
-title: "$title"
+title:  "$title"
 author: "Jarda"
 description: A description
 categories: 

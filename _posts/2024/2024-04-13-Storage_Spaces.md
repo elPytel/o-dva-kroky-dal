@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Storage Spaces
+author: "Jarda"
 description: Jak efektivně spravovat úložné prostory v systému Windows
 categories:
   - windows

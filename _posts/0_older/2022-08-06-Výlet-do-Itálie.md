@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Výlet do Itálie"
+title:  "Výlet do Itálie"
+author: "Jarda"
 description: Výlet do Itálie, návštěva památek, situace na silnicích a počasí
 categories: 
     - expedice

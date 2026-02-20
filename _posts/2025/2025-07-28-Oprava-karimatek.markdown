@@ -3,6 +3,7 @@ layout: post
 title:  "Oprava karimatek"
 categories: 
     - camping
+thumbnail: https://cdn.4camping.cz/files/photos/1600/9/96c45c22-lepidlo-gear-aid-seam-grip-wp.webp
 ---
 
 # Jak spravit prasklou nafukovačku?

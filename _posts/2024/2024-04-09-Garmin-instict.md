@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Garmin Instinct"
+author: "Jarda"
 date:   2024-04-09 10:24:06 +0200
 categories: 
   - garmin

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Diplomová práce"
+author: "Jarda"
 description: Výběr tématu diplomové práce
 categories: 
     - TUL

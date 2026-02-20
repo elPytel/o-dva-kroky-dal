@@ -1,8 +1,15 @@
 ---
 layout: post
 title: "Výlet Zadar"
+author: "Erika a Jarda"
 description: "Výlet do Zadaru se zastávkou u Vranského jezera"
-categories: ["turistika", "Dalmacie", "Zadar"]
+categories: 
+    - turistika
+    - Chorvatsko
+tags: 
+    - Dalmacie
+    - Zadar
+thumbnail: /assets/fotky/2025/IMG20250708195849.webp
 ---
 
 # Vransko jezero
@@ -15,7 +22,13 @@ Staré město se nachází na polostrově obklonemém "moderní" zástavbou. Má
 
 Do starého města se jde okolo hradeb pevnosti, na které se rozprostírá park. A pak jsme se prosmýkli kolem hradeb starého města a vstoupili jsme na Trg Petra Zoraniča. V městských hradbách nejdete místní dinopark. Povšimněte si zdejší zasklené díry v zemi, která vám umožní nahlédnout na stav zdejších vykopávek. Mají tady fakt hezký sloup. Zajímavý je kostel svatého Simona.
 
+![IMG]({{ site.baseurl }}/assets/fotky/2025/IMG20250708195849.webp)
+
+![IMG]({{ site.baseurl }}/assets/fotky/2025/IMG20250708204408.webp)
+
 Hlavní tepna starého města je Široká ulice (Broadway jak by řekli američani). Jděte kolem národního trhu a určitě se někde stavte na kopeček zmrzliny. Pozor! Doporučuje se koukat pod nohy, protože zmrzlina je tu fakt na každém kroku (doslova).
+
+![IMG]({{ site.baseurl }}/assets/fotky/2025/IMG20250708201433.webp)
 
 Ulice se rozestoupí u náměstí (Forum) vedle Kostela svatého Donata (asi protože je to rotunda, he?). Jsou zde vidět staré zdi, sarkofágy ve kterých se fotí turisti a zlámané sloupy (tak poznáte, že je toto místo autentické). My jsme se zde vydali přes park směrem na nábřeží.
 

@@ -2,10 +2,14 @@
 layout: post
 title: "Výlet na ostrov Murter"
 description: Cyklo turistika v Dalmácii na ostrově Murter
-categories: ["turistika", "cyklo", "Chorvatsko",]
+categories: 
+    - turistika
+    - cyklo
+    - Chorvatsko
 tags:
     - Dalmacie
     - Murter
+thumbnail: /assets/fotky/2025/IMG20250711113220.webp
 ---
 
 # Cyklo turistika v Chorvatsku
@@ -22,6 +26,8 @@ Schválně jestli nejdate ocelovou chobotnici!
 
 ## Betina
 Je to spíše vesnice než město, ale mají zde i vlastní hřiště na vodní polo a to v chorvtsku už něco znamená! Na kopečku zde stojí docela pěkný kostelík. U přístavu mají několik příjených kaváren. 
+
+![IMG]({{ site.baseurl }}/assets/fotky/2025/IMG20250711113220.webp)
 
 ## Murter
 Na promenádě najdete nemalý Konzum i s drogerií (dveře proti pokladnám) s opalováky za příznivou cenu.

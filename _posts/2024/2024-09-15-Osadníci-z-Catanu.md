@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Osadníci z Catanu"
+author: "Jarda"
 description: 3D tisk figurek pro různé národy
 categories: 
     - TTG

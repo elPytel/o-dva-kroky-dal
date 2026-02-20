@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "České Švýcarsko"
+author: "Jarda"
 description: Výlet do české divočiny s Erikou
 categories: 
     - turistika
