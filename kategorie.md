@@ -4,7 +4,19 @@ title: Kategorie
 permalink: /kategorie/
 ---
 
-<h1>Seznam kategorií</h1>
+## Statistika
+
+{% capture wc %}{% include_relative generated/word_count.txt %}{% endcapture %}
+{% assign pages_count = wc | split: ':' | last | strip %}
+
+| Celkem | Hodnota |
+|---|---:|
+| Kategorií | {{ site.categories.size }} |
+| Tagů | {{ site.tags.size }} |
+| Článků | {{ site.posts.size }} |
+| Přibližný počet stránek (250 slov/stránka) | {{ pages_count }} |
+
+## Seznam kategorií
 
 <ul>
   {% assign categories_sorted = site.categories | sort %}
@@ -21,7 +33,7 @@ permalink: /kategorie/
   {% endfor %}
 </ul>
 
-<h2>Seznam tagů</h2>
+## Seznam tagů
 
 <ul>
   {% assign tags_sorted = site.tags | sort %}
@@ -39,15 +51,3 @@ permalink: /kategorie/
     {% endif %}
   {% endfor %}
 </ul>
-
-## Statistika
-
-{% capture wc %}{% include_relative generated/word_count.txt %}{% endcapture %}
-{% assign pages_count = wc | split: ':' | last | strip %}
-
-| Celkem | Hodnota |
-|---|---:|
-| Kategorií | {{ site.categories.size }} |
-| Tagů | {{ site.tags.size }} |
-| Článků | {{ site.posts.size }} |
-| Přibližný počet stránek (250 slov/stránka) | {{ pages_count }} |

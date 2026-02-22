@@ -2,7 +2,7 @@
 layout: post
 title: "Kávovar Jura E6"
 author: "Jarda"
-description: A description
+description: Kávovar Jura E6, jeho údržba a čištění
 categories: 
     - kávovar
     - jura
