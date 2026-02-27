@@ -2,7 +2,11 @@
 layout: post
 title: "Konec světa!"
 description: Konec světa podle Édouarda Lucase
-categories: ["kreativní psaní", "fikce", "matematika"]
+categories: 
+    - kreativní psaní
+    - fikce
+tags:
+    - matematika
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Tower_of_Hanoi.jpeg/600px-Tower_of_Hanoi.jpeg
 ---
 
