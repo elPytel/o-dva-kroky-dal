@@ -5,6 +5,7 @@ author: "Jarda"
 description: Převratná zpráva z Doktorského týdeníku 
 categories: 
     - kreativní psaní
+    - fikce
 tags: 
     - luminoterapie
 thumbnail: /assets/lumik.png

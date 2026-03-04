@@ -1,8 +1,14 @@
 ---
 layout: post
 title: "Ze života králíků"
+author: "Jarda"
 description: Kombinatorické metody v praxi
-categories: ["kreativní psaní", "fikce", "matematika"]
+categories: 
+    - "kreativní psaní"
+    - "fikce"
+tags:
+    - "matematika"
+    - fibonacci
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/FibonacciRabbit.svg/250px-FibonacciRabbit.svg.png
 ---
 
