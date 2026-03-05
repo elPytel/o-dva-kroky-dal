@@ -30,3 +30,6 @@ Nejdříve patřila Minojské civilizaci, která se rozvíjela zhruba mezi 3000 
 Benátčané ostrov koupili v roce 1204 za nemalou sumu a zůstali zde až do roku 1669, kdy je porazili Turci. 
 
 V následujících letech populaci ostrova tvořili 60% Řekové a 40% Turci/Muslimů. To vedlo k častým střetům mezi a několika povstáním a převratům. V roce 1898 se Kréta stala autonomní oblastí pod ochranou Velké Británie, Francie, Itálie a Ruska. V roce 1913 se připojila k Řecku.
+
+## Zdroje:
+- [Historické muzeum Heraklion](https://aboutheraklion.com/sightseeing-in-heraklion/historical-museum-of-crete-in-heraklion/)

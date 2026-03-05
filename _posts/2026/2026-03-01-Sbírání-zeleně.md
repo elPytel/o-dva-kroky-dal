@@ -21,17 +21,21 @@ Největší specialita pro místní gurmánský zážitek jsou šneci. Nejdřív
 
 Cestou zpátky jsme si obešli vesnici a stařešeni zdejšího rodu nám ukázal kostel (kapličku) z 12. století, která je celá z kamene a má v sobě i nějaké fresky. Nejvíce se zde pyšní svatým Jiřím, který je tu zobrazen jako rytíř na koni, který zabíjí draka (to že ho máme i doma jsme jí už ale neříkali).
 
-
 {: .tip }
 > Svatý Jiří je patronem: 
 > Anglie, Černé Hory, Etiopie, Gruzie, Georgie, Kanady, Katalánska, Řecka, měst Barcelony, Bejrútu, Freiburgu, Janova, Lublaně, Moskvy, Vysokého Mýta, Brušperka, ostrovů Gozo a Skyros, a také mnoha profesí, organizací a nemocných lidí.
 
+![Svatý Jiří bojující s drakem]({{ site.baseurl }}/assets/svatý-jiri-bojujicí-s-drakem.jpg)
 
 {: .note } 
 > Západní verze legendy o Svatém Jiří vypráví: 
 > U pramene zásobujícího město Kyréna (Silené) v Libyi, si postavil hnízdo drak. Obyvatelé museli každý den kvůli vodě na chvíli vylákat draka z hnízda. Jako návnada sloužila lidská oběť určená losem. Když los padl na královskou dceru Cleolindu, zoufalý král Selin marně prosil o milost. Princezna Cleolinda byla předložena drakovi. V pravou chvíli se objevil zrovna kolem projíždějící Jiří, postavil se drakovi, zabil ho a princeznu zachránil. Vděční občané se zřekli pohanství a přijali křesťanství.
 
 Podobnost s příběhem o Perseovi a Andromedě je zde poněkud nápadná.
+
+![Perseus_Andromede]({{ site.baseurl }}/assets/Perseus_Andromede-Joseph_Kuhn-Régnier.jpg)
+
+Eričina oblíbená kniha příběhů o natickém hrdinovy by tedy měla nést český překlad: *Jirka Hever*
 
 ### Zdroje:
 - [Wikipedie: Svatý Jiří](https://cs.wikipedia.org/wiki/Svatý_Jiří)
