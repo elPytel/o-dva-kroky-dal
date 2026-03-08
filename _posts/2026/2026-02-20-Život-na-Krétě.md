@@ -6,7 +6,7 @@ description: Život na Krétě, místní zvyky a situace na silnicích
 categories: 
     - erasmus
     - kréta
-thumbnail: /assets/crete-stamp-map.webp
+thumbnail: /assets/Greece/crete-stamp-map.webp
 ---
 
 Jak se žije na Krétě 
@@ -19,6 +19,7 @@ Jak se žije na Krétě
   - [Kréta - svět rozjetých koťátek i větších hafanů na silnicích.](#kréta---svět-rozjetých-koťátek-i-větších-hafanů-na-silnicích)
 - [Počasí na Krétě](#počasí-na-krétě)
   - [Únor](#únor)
+- [Nákupy](#nákupy)
 - [Slovníček](#slovníček)
   - [Vaříme](#vaříme)
 - [Místní stravování](#místní-stravování)
@@ -88,6 +89,10 @@ Teploty se přes den pohybují kolem 15-20°C. Slunečné dny, kdy nefouká je s
 Situace s deštěm je srovnatelná jako v Liberci. Taky by jste tu řekli, že buď prší, nebo jdete do kopce.
 
 Něco jiného to je ale v bytě. Naše ubytování je sklepní byt pod úrovní terénu (kopec) a okna máme do vnitro bloku (směrem na sever). Byty nemají centrální topení, většinou jen klimatizaci (ten náš klimatizaci nemá). Podle přímotopu tu máme teplotu 12.5°C. Takže tu sedíme v mikinách, teplých ponožkách a zbalení v dece.
+
+## Nákupy
+
+Na každém rohu tu je minimarket, takový větnamci. U hlavních silnic jsou pak i větší obchody, rozeseté každých 500m, kde seženete vše co by jste na denní bázi mohli potřebovat. Poměrně dobré ceny potravin má místní řetězec AB.
 
 ## Slovníček
 

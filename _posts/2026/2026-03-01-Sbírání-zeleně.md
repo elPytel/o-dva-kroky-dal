@@ -33,9 +33,9 @@ Cestou zpátky jsme si obešli vesnici a stařešeni zdejšího rodu nám ukáza
 
 Podobnost s příběhem o Perseovi a Andromedě je zde poněkud nápadná.
 
-![Perseus_Andromede]({{ site.baseurl }}/assets/Perseus_Andromede-Joseph_Kuhn-Régnier.jpg)
+![Perseus_Andromede]({{ site.baseurl }}/assets/Greece/Perseus_Andromede-Joseph_Kuhn-Régnier.jpg)
 
-Eričina oblíbená kniha příběhů o natickém hrdinovy by tedy měla nést český překlad: *Jirka Hever*
+Eričina oblíbená kniha příběhů o antickém hrdinovy by tedy měla nést český překlad: *Jirka Hevera-syn*
 
 ### Zdroje:
 - [Wikipedie: Svatý Jiří](https://cs.wikipedia.org/wiki/Svatý_Jiří)
