@@ -14,7 +14,6 @@ tags:
   - [Trvalé nastavení po restartu](#trvalé-nastavení-po-restartu)
   - [Sysadmin tip: Ladění "Swappiness"](#sysadmin-tip-ladění-swappiness)
 
-
 Po čisté instalaci Ubuntu se mi vytvořil jen 4GB swap soubor, což je v součastnosti s 16GB RAM málo. Když se systémová pamět naplní, tak data sice začnou přetékat do SWAPu, ale chvíli na to přeteče i SWAP a systém se "zasekne" **OOM (Out Of Memory) Killer**.
 
 V moderních distribucích (Ubuntu 22.04+) se už většinou nepoužívá swap oddíl (partition), ale **swap file**. Rozhodl jsem se ho zvětšit na 24 GB a postup je poměrěn přímočarý.

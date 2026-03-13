@@ -18,6 +18,7 @@ thumbnail: /assets/Greece/Citta_di_Candia-Francesco_Basilicata-1618.jpg
   - [Katedrála svatého Minase](#katedrála-svatého-minase)
   - [Koules - Pevnost Rocca a Mare](#koules---pevnost-rocca-a-mare)
   - [Muzeum historie](#muzeum-historie)
+  - [Archeologické muzeum](#archeologické-muzeum)
     - [Zdroje:](#zdroje)
 
 ## Heraklion
@@ -35,10 +36,15 @@ Katedrála svatého Minase, postavená v roce 1895, je jedním z největších �
 
 ## Koules - Pevnost Rocca a Mare
 
+[Koules]({{ site.baseurl }}{% post_url 2026/2026-03-15-Koules %})
+
 ## Muzeum historie 
 
-[Muzeum historie ]({{ site.baseurl }}{% post_url 2026/2026-02-28-Návšteva-muzea %})
+[Muzeum historie]({{ site.baseurl }}{% post_url 2026/2026-02-28-Návšteva-muzea %})
 
+## Archeologické muzeum
+
+[Archeologické muzeum]({{ site.baseurl }}{% post_url 2026/2026-03-15-Archeologické-muzeum %})
 
 ### Zdroje:
 - [Wikipedie: Heraklion](https://en.wikipedia.org/wiki/Heraklion)
