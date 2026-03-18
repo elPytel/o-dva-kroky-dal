@@ -2,7 +2,7 @@
 layout: post
 title:  "Jeskyne Skotino"
 author: "Jarda"
-description: A description
+description: Svatyně a možný labyrint s Minotaurem
 categories: 
     - erasmus
     - kréta
