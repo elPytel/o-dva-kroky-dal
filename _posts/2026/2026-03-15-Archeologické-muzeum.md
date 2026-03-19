@@ -68,13 +68,13 @@ Nejstarší krétské písmo, krétské hieroglyfy, se objevuje poprvé na peče
 
 ![pečetě]({{ site.baseurl }}/assets/Greece/20260315_124614.webp)
 
-![pečetě]({{ site.baseurl }}/assets/Greece/20260315_134058.webp)
+![pečetě]({{ site.baseurl }}/assets/Greece/20260315_134058.webp){: .left } 
 
-![pečetě]({{ site.baseurl }}/assets/Greece/20260315_134114.webp)
+![pečetě]({{ site.baseurl }}/assets/Greece/20260315_134114.webp){: .right } 
 
-Válečkové pečetě používané hojně v Mezopotánii.
 
 ![Pečetě - Mezopotánské]({{ site.baseurl }}/assets/Greece/20260315_142028.webp)
+*Válečkové pečetě používané hojně v Mezopotánii.*
 
 Bohatství pečetidel nalezené v dílně razičů pečetí v čtvrti Mu v Malii (okolo 1700 př. n. l.), nesoucích nápisy v tomto písmu spolu s dekorativními a obrazovými motivy, dokládá, že pečetě byly běžně používány k potvrzování transakcí.
 
@@ -84,17 +84,14 @@ Vrchol minojské civilizace
 
 Po zničení „Starých“ paláců byly ve velkých sídlech znovu vystavěny nádherné, prostorné a vícepatrové paláce. Labyrintovité paláce plnily mnoho funkcí, jak praktických, tak symbolických. Palác byl sídlem vládce a správním centrem pro řízení jeho domény, zároveň arénou pro okázalé předvádění bohatství a moci mezi členy vládnoucí vrstvy a zahrnoval i svatyně pro konání náboženských obřadů. Největší je palác v Knóssu, nejznámější z palácových komplexů, následován paláci ve Fajstosu, Malii a Galatasu ve střední Krétě a v Zakrosu a Petras ve východní Krétě. Hustá síť měst a vesnic se táhla vnitrozemím. Velké budovy, sídla místních úředníků, fungovaly jako uzlová místa pro kontrolu výroby a zajišťování stability politické moci. Cenné suroviny jako zlato, stříbro, slonovina a polodrahokamy se dovážely po námořních obchodních cestách a sloužily k výrobě zdobených luxusních předmětů. To vše upevnilo slávu minojského umění. Obchod a rozdělování zboží byly byrokraticky organizovány a kontrolovány pomocí písma lineární A a systému vah a měr.
 
-Model Knossos
-
 ![Model Knossos]({{ site.baseurl }}/assets/Greece/20260315_125911.webp)
-
-Trůní sál
+*Model paláce v Knóssu*
 
 ![Trůní sál]({{ site.baseurl }}/assets/Greece/20260315_133725.webp)
-
-Moninojský palác
+*Trůní sál v Knóssu*
 
 ![Moninojský palác]({{ site.baseurl }}/assets/Greece/20260315_135208.webp)
+*Moninojský palác*
 
 Minojské flotily vládly mořím. Místa s jasnými minojskými vlivy byla objevena na mnoha egejských ostrovech a na pobřeží Malé Asie. Nástěnné malby, minojské svým námětem i stylem, byly nalezeny v Egyptě a na Východě. Krétští obchodníci a vyslanci, Keftiové, jsou vyobrazeni v egyptských hrobkách jako nositelé darů pro faraony. Mýty zachovaly polobožskou postavu Minoa, krále Kréty, a nezničitelnou paměť na velkou epochu „minojské thalassokracie“.
 
@@ -102,16 +99,17 @@ Výborně strukturovaný politický systém minojské Kréty zkolaboval pravděp
 
 Jedná se o období okolo výbuchu sopky na Santorini, která zničila minojskou flotilu a možná i přímořská města na severu Kréty. Což mohlo být jedním z faktorů přispívajících k úpadku minojské civilizace. Po tomto období se objevují nové paláce, které jsou menší a méně okázalé než ty předchozí, a nakonec i ty zanikají. 
 
-Sarkofág
-
 ![Sarkofág]({{ site.baseurl }}/assets/Greece/20260315_134819.webp)
+*Sarkofág*
 
 ### Disk z Fajstosu
 
 Tajemný hliněný disk z Fajstosu zaujímá výsostné místo v dějinách krétských písem. Nese čtyřicet pět obrazových znaků, uspořádaných v různých kombinacích do šedesáti jedné skupiny oddělené rýhovanými čarami, které pravděpodobně představují slova. Znaky byly vtlačeny do měkké hlíny pečetěmi v točité konfiguraci na obou stranách disku.
 
 ![Disk z Fajstosu]({{ site.baseurl }}/assets/Greece/20260315_130331.webp)
+*Disk z Fajstosu*
 ![Disk z Fajstosu]({{ site.baseurl }}/assets/Greece/20260315_130342.webp)
+*Disk z Fajstosu*
 
 Odborníci zatím nedospěli k definitivnímu závěru o obsahu nápisu a jeho vztahu ke krétským písmům. Opakování některých kombinací znaků poskytuje nejsilnější důkaz, že nápis má podobu hymnu nebo magického textu. 
 
@@ -120,6 +118,7 @@ Počátek 17. století př. n. l.
 ### Desková hra draughtboard
 
 ![Desková hra]({{ site.baseurl }}/assets/Greece/20260315_130742.webp)
+*Desková hra - Draughtboard*
 
 Desková hra vykládaná slonovinou, modrou sklovou pastou a skalním křišťálem, pozlacená a postříbřená. Čtyři velké kuželovité slonovinové herní kameny odpovídají kruhovým polím „deskové hry“. Jedná se o zvlášť složitý a luxusní artefakt, který dokládá vysokou úroveň života v paláci a umělecké schopnosti knosských dílen. Podobné, jednodušší předměty byly nalezeny v Egyptě a na Východě. 
 
@@ -128,6 +127,7 @@ Palác v Knóssu, 1700–1450 př. n. l.
 ### Měděné odlitky
 
 ![Odlitky]({{ site.baseurl }}/assets/Greece/20260315_130939.webp)
+*Odlitky*
 
 Měděné slitky, surovina pro lití mědi, pravděpodobně používaná také jako směnná jednotka. dovážely se především z Kypru ve tvaru „kůží“ (sbalených ingotů) usnadňujících přepravu. Standardní hmotnost byla přibližně 30 kg. Některé nesou ryté znaky kyprského nebo minojského písma potvrzující transakci. 
 
@@ -139,21 +139,23 @@ Organizace rozsáhlých veřejných hostin je doložena obrazovými prameny, pal
 
 Hostiny byly nejvýstavnějšími příležitostmi společenské okázalosti a projevů bohatství a moci vládnoucí vrstvy, nad rámec každodenních potřeb.
 
-Zdobená kotva se vzorem chobotnice.
-
 ![Kotva]({{ site.baseurl }}/assets/Greece/20260315_130933.webp)
+*Zdobená kotva se vzorem chobotnice*
 
 Amfory s přírodními vzory a mořskými zvýřaty.
 
 ![Amfory]({{ site.baseurl }}/assets/Greece/20260315_131222.webp)
+*Amfory*
 
 Hlava býka, symbol minojské Kréty. Býk byl posvátným zvířetem a jeho hlava se často objevovala v minojském umění a kultu.
 
 ![Hlava Býka]({{ site.baseurl }}/assets/Greece/20260315_133239.webp)
+*Hlava Býka*
 
 Theseus a Minotaurus. Podle legendy byl Minotaurus, polobůh s tělem člověka a hlavou býka, uvězněn v labyrintu na Krétě. Theseus, athénský hrdina, se vydal na Krétu, aby zabil Minotaura a osvobodil Athéňany od povinnosti posílat oběti do labyrintu.
 
 ![Minotaurus]({{ site.baseurl }}/assets/Greece/20260315_140022.webp)
+*Theseus a Minotaurus*
 
 ### Sportovci a akrobaté
 
@@ -164,6 +166,7 @@ Důležitou součástí veřejného života v minojské společnosti byly organi
 Zvláště oblíbené byly obtížné a nebezpečné disciplíny — skoky přes býka, hon na býky a možná i hon na divočáky — dále zápasy, box a sporty ukazující taktiku, schopnost a zručnost, jako běhy, závody vozatajů či salta.
 
 ![Akrobaté]({{ site.baseurl }}/assets/Greece/20260315_132157.webp)
+*Akrobaté*
 
 Nejefektnějším minojským akrobatickým výkonem byl skok přes býka, při kterém mladí, vycvičení atleti prováděli nebezpečný přeskok přes rohy a hřbet nabíhajícího býka. Účastnili se mu závodníci obou pohlaví — jak to ukazují barevné kontrasty na výjevech (tmavší pokožka u mužů, světlejší u žen). 
 
@@ -175,17 +178,23 @@ Ve sportovištích minojské Kréty by obraz velkého davu nadšených diváků,
 
 ### Hadí bohyně
 
+![]({{ site.baseurl }}/assets/Greece/20260315_133403.webp){: .small .left }
+*Hadí bohyně*
+
 "Hadí bohyně" a další drobné předměty z chrámových depozitářů
 
 Nejdůležitější kultovní předměty z knosských chrámových depozitářů tvoří figurky „hadích bohyní“. Nazývají se podle hadů omotaných kolem těla a paží větší postavy a dvou hadů, které menší postava drží ve vzpažených rukou.
 
-![]({{ site.baseurl }}/assets/Greece/20260315_133403.webp)
+<div style="clear:both;"></div>
 
-![]({{ site.baseurl }}/assets/Greece/20260315_133407.webp)
+![]({{ site.baseurl }}/assets/Greece/20260315_133407.webp){: .small .right }
+*Hadí bohyně*
 
 Hadí motivy symbolizují chthónický (podzemní) charakter kultu bohyně, zatímco kočkovitá šelma na hlavě menší postavy naznačuje její panství nad divokou zvěří. Bohyně nosí bohaté oděvy — dlouhou volánovou sukni, vyšívanou zástěru a přiléhavý živůtek, který odhaluje velká prsa; ty jsou symbolem plodnosti žen, bohyně a posléze i samotné přírody.
 
 Velká rozetová ozdoba z křišťálu a kamenný kříž jsou astrální symboly. Knósské chrámové depozitáře, 1650–1550 př. n. l.
+
+<div style="clear:both;"></div>
 
 ## Kréta od rané doby železné do pozdní antiky
 
@@ -211,17 +220,19 @@ Krétské štíty ve tvaru osmičky.
 
 ![Štíty]({{ site.baseurl }}/assets/Greece/20260315_135223.webp)
 
-![]({{ site.baseurl }}/assets/Greece/20260315_135617.webp)
+![]({{ site.baseurl }}/assets/Greece/20260315_135617.webp){: .small .left }
 
 ![]({{ site.baseurl }}/assets/Greece/20260315_135717.webp)
 
 ### Princ z lilií
 
-![Princ]({{ site.baseurl }}/assets/Greece/20260315_135327.webp)
+![Princ]({{ site.baseurl }}/assets/Greece/20260315_135327.webp){: .small .right }
 
 Symbolický obraz minojské Kréty, byl součástí větší nástěnné kompozice v výrazném reliéfu. Postava, složená ze tří nespojených částí, je zobrazena v životní velikosti; nosí bohatě zbarvený kilt s klínem a opaskem a na hlavě má majestátní korunu zdobenou papyrusovými liliemi a pávím peřím. Podle vykopávače Knóssu Arthura Evanse byl „vládcem Knóssu“, „knězem-králem“, personifikací náboženské i světské moci. Jiní odborníci však navrhují odlišné rekonstrukce a interpretace — „princ“ mohl být atlet, boxer nebo panovník/velitel, zatímco koruna by mohla patřit kněžce nebo sfingě. 
 
 Knóssos, palác, neopalaciální období (1600–1450 př. n. l.).
+
+<div style="clear:both;"></div>
 
 ### Dámy v modrém
 ![Dámy v modrém]({{ site.baseurl }}/assets/Greece/20260315_135429.webp)
@@ -242,9 +253,11 @@ Knóssos, palác, neopalaciální období (1600–1450 př. n. l.).
 
 ### Hadrian
 
-![Hadrian]({{ site.baseurl }}/assets/Greece/20260315_142605.webp)
+![Hadrian]({{ site.baseurl }}/assets/Greece/20260315_142605.webp){: .small .left }
 
 Socha císaře Hadriana, nalezená v Gortyni - Římském správním centru Kréty. Hadrian vládl v letech 117–138 n. l. a je známý svými rozsáhlými stavebními projekty po celém Římském impériu, od Kréty po Británii. Jeho socha v Heraklionu je důkazem římské přítomnosti a vlivu na ostrově, který se stal součástí Římské říše v roce 67 př. n. l.
+
+<div style="clear:both;"></div>
 
 ### Hádes a Persefona
 

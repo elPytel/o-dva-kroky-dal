@@ -4,9 +4,10 @@ title:  "Krétská mythologie"
 author: "Jarda"
 description: Zeus - Mínos - Minotaurus - Ariadna - Théseus - Daidalos - Ikaros
 categories: 
-    - category
+    - kréta
 tags: 
-    - tag
+    - mythologie
+thumbnail: /assets/Greece/20260315_135801.webp
 ---
 
 - [Král Minos — mýtus a realita](#král-minos--mýtus-a-realita)
@@ -25,11 +26,21 @@ Podle tradice Minos potlačil pirátství a kolonizoval Egejské moře. Podstata
 
 ### Rodokmen Minoa: bratři, děti a potomci
 
+![Rodokmen]({{ site.baseurl }}/assets/Greece/20260315_135801.webp)
+*Rodokmen*
+
+![Europa a Zeus]({{ site.baseurl }}/assets/Greece/Europa a Zeus.jpg){: .left } 
+*Zeus a Europa*
+
 Řetězec vzájemně propojených legend kolem postavy Minoa zahrnuje příběhy členů jeho rodu. Jeho bratr Rhadamanthýs (Radamant) byl kolonizátorem, který v nových osadách zřídil politický a správní řád na Krétě, a spolu s Minem působil jako soudce mrtvých v Hádu. Sarpedón, další Minův bratr, se stal králem Lycie a byl tragickým hrdinou trojské války, padlým rukou Patrokla.
 
 Z osmi dětí Minoa a Pasifae sehrála Ariadna roli v slavném mýtu o Théseovi a Minotaurovi; Akakallida byla matkou kolonizátorů; Androgéus byl vynikající atlet, který byl zavražděn po svých vítězstvích v Athénách; Glaukós se utopil v nádobě s medem a byl vzkříšen věštcem Polyidem; a Deukalión, který zdědil Minovu trůn, se usmířil s Athéňany a Théseem a dal Théseovi svou sestru Faidru za manželku. Minovi vnuci se stali kolonizátory a zakládali města pojmenovaná po sobě, například Miletos a Naxos.
 
-Synové Ariadny a Dionýsa — Thoás, Staphylos, Oenopion a Peparethos — šířili vinohradnictví a kult Dionýsa, zatímco Keramos je spojován s keramickou výrobou. Dalším Minovým vnukem, Deukaliónovým synem, byl Idomeneus, který jako vůdce Kréťanů s devadesáti loděmi odešel do trojské války a vrátil se domů živý se svými válečníky. Minovým pravnukem byl Meriones, vynikající střelec z luku, který Idomenea doprovázel na trojské výpravě a podle jedné verze byl pohřben s ním ve stejné hrobce na Krétě; podle jiné verze se přestěhoval do Engyonu na Sicílii, kde při vykopávkách chrámu nalezli helmu se svým jménem.
+![Minotaurus]({{ site.baseurl }}/assets/Greece/Minotaurus.jpg){: .right }
+*Minotaurus*
+
+Synové Ariadny a Dionýsa — Thoás, Staphylos, Oenopion a Peparethos — šířili vinohradnictví a kult Dionýsa, zatímco Keramos je spojován s keramickou výrobou. Dalším Minovým vnukem, Deukaliónovým synem, byl Idomeneus, který jako vůdce Kréťanů s devadesáti loděmi odešel do trojské války a vrátil se domů živý se svými válečníky. Minovým pravnukem byl Meriones, vynikající střelec z luku, který Idomenea doprovázel na trojské výpravě a podle jedné verze byl pohřben s ním ve stejné hrobce na Krétě, podle jiné verze se přestěhoval do Engyonu na Sicílii, kde při vykopávkách chrámu nalezli helmu s jeho jménem.
+
 
 ## Zdroje:
 

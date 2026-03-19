@@ -8,6 +8,7 @@ categories:
 tags: 
     - ubuntu
     - swap
+thumbnail: /assets/pc/linux.png
 ---
 
 - [Postup pro zvětšení Swap File (přes terminál)](#postup-pro-zvětšení-swap-file-přes-terminál)
