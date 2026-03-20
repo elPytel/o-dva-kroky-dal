@@ -53,6 +53,32 @@ body {
   }
 }
 
+// Styling for post tags as badges
+.post-tags {
+  font-size: 0.85em;
+  color: #555;
+  margin-top: 0.5em;
+  margin-bottom: 1em;
+
+  a {
+    display: inline-block;
+    background-color: #f1f8ff; 
+    color: #0366d6; 
+    padding: 0.2em 0.8em;
+    margin: 0 0.3em 0.3em 0;
+    border-radius: 2em; 
+    text-decoration: none;
+    border: 1px solid #c8e1ff;
+    transition: all 0.2s ease-in-out;
+
+    &:hover {
+      background-color: #0366d6;
+      color: #ffffff;
+      text-decoration: none;
+    }
+  }
+}
+
 /* Styly pro obrázky v článcích */
 .post {
   img {
