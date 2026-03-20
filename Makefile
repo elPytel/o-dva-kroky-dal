@@ -73,6 +73,8 @@ rotate-images: $(ROW_IMAGES_FOLDER)
 resize-images:
 	@printf "$(CYAN)Resizing images...$(RESET)\n"
 	@./$(SCRIPTS_FOLDER)/convert_to_webp.sh -d ./$(ROW_IMAGES_FOLDER)/
+	@printf "$(CYAN)Done.$(RESET) WebP images in $(BLUE)$(ROW_IMAGES_FOLDER):$(RESET)\n"
+	@ls ./$(ROW_IMAGES_FOLDER)/ | grep '.webp' 
 
 # recipe conversion from Google Keep
 keep-to-simplenote:
