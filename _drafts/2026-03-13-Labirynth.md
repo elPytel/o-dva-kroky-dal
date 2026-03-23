@@ -4,9 +4,10 @@ title:  "Labirynth"
 author: "Jarda"
 description: A description
 categories: 
-    - category
+    - erasmus
+    - kréta
 tags: 
-    - tag
+    - labirynth
 ---
 
 [mapa](https://mapy.com/s/kepotakeme)
