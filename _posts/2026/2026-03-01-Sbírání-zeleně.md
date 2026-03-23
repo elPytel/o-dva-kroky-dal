@@ -8,6 +8,8 @@ categories:
     - kréta
 tags: 
     - ESN
+    - Perseus
+    - Svatý Jiří
 thumbnail: /assets/fotky/2026/20260301_115818.webp
 ---
 

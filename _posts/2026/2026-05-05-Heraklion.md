@@ -21,6 +21,7 @@ thumbnail: /assets/Greece/Citta_di_Candia-Francesco_Basilicata-1618.jpg
   - [Koules - Pevnost Rocca a Mare](#koules---pevnost-rocca-a-mare)
   - [Muzeum historie](#muzeum-historie)
   - [Archeologické muzeum](#archeologické-muzeum)
+  - [Creteaquarium](#creteaquarium)
   - [A další místa](#a-další-místa)
     - [Zdroje:](#zdroje)
 
@@ -69,6 +70,10 @@ Katedrála svatého Minase, postavená v roce 1895, je jedním z největších �
 ## Archeologické muzeum
 
 [Archeologické muzeum]({{ site.baseurl }}{% post_url 2026/2026-03-15-Archeologické-muzeum %})
+
+## Creteaquarium
+
+[Creteaquarium]({{ site.baseurl }}{% post_url 2026/2026-03-21-Návštěva-Cretaquaria %})
 
 ## A další místa
 
