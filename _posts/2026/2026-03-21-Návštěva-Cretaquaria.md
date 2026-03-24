@@ -20,6 +20,8 @@ Vstupné jeden dospělý a jeden student: 15€
 
 Naproti akváriu je velké parkoviště, kde se dá zaparkovat zdarma.
 
+Logo akvária až poněkud nápadně připomíná Disk z Phaistos nakombinovaný se škeblí a se symboly ryb a mořských živočichů místo znaků Linear A.
+
 Akvárium je to opravdu velké, nachází se v něm přes 60 nádrží s různými druhy ryb, žraloků, rejnoků, medúz a dalších mořských živočichů. Dvě největší akvária jsou opravdu majestátní mají objem 600m3 a 400m3,. Každé je jako školní plavecký bazén. Na návštěvu si vyhraďte určitě dvě hodiny, pokud chcete přečíst alespoň půlku cedulí. 
 
 ![]({{ site.baseurl }}/assets/Greece/20260321_132934.webp)
