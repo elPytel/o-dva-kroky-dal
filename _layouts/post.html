@@ -20,7 +20,7 @@ layout: default
     </p>
 
     {% assign words = page.content | number_of_words %}
-    {% assign read_time = words | divided_by: 200 %}
+    {% assign read_time = words | divided_by: 125 %}
     {% if read_time == 0 %}
     {% assign read_time = 1 %}
     {% endif %}

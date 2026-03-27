@@ -12,10 +12,23 @@ thumbnail: /assets/Greece/20260326_155508.webp
 
 Výlet na Kasos zrušen, nezoufáme a jedeme do Chanie. Cestou se nám otevřely krásné výhledy na zasněžené vrcholky pohoří Psiloritis, které se tyčí nad centrální Krétou.
 
+> Tak dneska jsme sice nakonec nejeli na ostrov(zrušil se trajekt) ale jelikož jsme si už oba vzali na dnešek volno v práci, tak jsme vyrazili do 2. Největšího města na ostrově - Chania. Zjistili jsme že tam je to nadherny. Heraklion, kde bydlíme,  je průmyslový hlavní město, ale města kolem jsou turistický zaměřena, takže uklizeno, všude nové fasády a turistické chodníčky podél moře
+> - Eri
+
 ![]({{ site.baseurl }}/assets/Greece/IMG20260326111123.webp)
 *Zasněžené vrcholky pohoří Psiloritis v pozadí*
 
 Naše první zastávka byla v Apteře.
+
+- [Souda Bay](#souda-bay)
+- [Chania](#chania)
+  - [Hradby města Chania](#hradby-města-chania)
+  - [Nautical Museum of Crete](#nautical-museum-of-crete)
+  - [Benátský přístav a maják](#benátský-přístav-a-maják)
+  - [Námořní muzeum Kréty (Maritime Museum)](#námořní-muzeum-kréty-maritime-museum)
+  - [Čtvrť Topanas a Splantzia](#čtvrť-topanas-a-splantzia)
+  - [Zpátka v přístavu a oběd](#zpátka-v-přístavu-a-oběd)
+
 
 ## Souda Bay
 Americká vojenská základna: Naval Support Activity (NSA) Souda Bay. Nedaleko od mezinárodního letiště Chania.
@@ -101,17 +114,7 @@ Křivolaké uličky starého města, kde se benátské domy přirozeně mísí s
 ![]({{ site.baseurl }}/assets/Greece/IMG20260326173517.webp)
 *Krevety v česnekové omáčce a cuketové karbanátky se sýrem*
 
-Objednali jsme si jedno jídlo a jeden předkrm. Byla to pro nás však naprosto sytící kombinace. Ty krevety opravdu stály za to, byly vynikající.
+Objednali jsme si jedno hlavní jídlo a jeden předkrm. Byla to pro nás však naprosto sytící kombinace. Ty krevety opravdu stály za to, byly vynikající.
 
 > Byl to parádní den, jídlo bylo mnamka, byly to krevety v česnekové omáčce a k tomu cuketové karbanátky se sýrem. Dneska se po 10 dnech deště rozešly mračna a cely den krásně svítilo slunce a hned byla lepší nálada 😁.
 > - Eri
-
-
-
-
-
-
-
-
-
-
