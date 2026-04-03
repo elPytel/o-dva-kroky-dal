@@ -1,19 +1,18 @@
 ---
 layout: post
-title:  "Sitia"
+title:  "Velikonoce na Krétě"
 author: "Jarda"
 description: A description
 categories: 
     - erasmus
     - kréta
 tags: 
-    - Sitia
     - Ierapetra
     - Palaikastro
     - Richtis
-    - Gournii
     - labirynt
 ---
+
 
 pátek
 Heraklion -> Sitia
@@ -38,15 +37,6 @@ Ierapetra -> Heraklion
 
 Ačkoliv nám datum vychází na velikonoční svátky, tak pravoslavní řekové slaví Velikonoce o týden později, takže nám to nijak nekomplikuje cestování.
 
-# Sitia
-
-Je to klidné, amfiteatrálně postavené město. Život se tu točí kolem dlouhé přístavní promenády.
-
-Sitia má nádhernou dlouhou promenádu, kde se dá sednout do jedné z mnoha taveren s výhledem na moře.
-
-Kazarma (Casa di arma): Benátská pevnost na samém vršku města. Fungovala jako hlavní velitelské centrum a posádka pro východní Krétu. Byla součástí sítě pobřežních strážních věží. Z hradeb je perfektní přehled o celém zálivu.
-
-Gastronomie: Sitia je vyhlášená produkcí vlastního vína a špičkového olivového oleje (mají vlastní chráněné označení původu). Večerní taverny na nábřeží za to stojí.
 
 ## Soutězka Richtis
 
@@ -81,12 +71,6 @@ Oběd v nedaleké vesnici Palekastro, kde dělají výborné mořské plody.
 
 # Sobotní přesun (Sitia -> Ierapetra)
 
-## Gournii
-
-https://mapy.com/s/feculogupu
-
-Nachází se přesně v místě, kde se ostrov nejvíce zužuje (tzv. Isthmos Ierapetra).
-Gournia není klasický obří minojský palác, ale kompletně odkryté běžné minojské město. Je to fantastická ukázka tehdejšího urbanismu a "síťové topologie" osídlení z doby bronzové. Uvidíte tu dlážděné uličky, základy malých domků, řemeslné dílny i centrální malé náměstí. Projdete to za 45 minut a získáte mnohem reálnější představu o životě běžných lidí než v obrovském Knóssu.
 
 # Ierapetra
 

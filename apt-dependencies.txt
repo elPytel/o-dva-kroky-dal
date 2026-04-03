@@ -1,3 +1,5 @@
+build-essential 
+ruby-dev
 ruby-full
 imagemagick-7.q16
 jekyll

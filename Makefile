@@ -45,7 +45,7 @@ install-deps:
 	@printf "$(CYAN)Installing dependencies...$(RESET)\n"
 	./install_dependencies.sh
 
-install: install-deps
+install: install-deps $(ROW_IMAGES_FOLDER)
 	@printf "$(CYAN)Installing Ruby gems...$(RESET)\n"
 	bundle install
 
