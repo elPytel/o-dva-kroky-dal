@@ -12,9 +12,18 @@ tags:
 
 [mapa](https://mapy.com/s/kepotakeme)
 
+## Knossos
 Evans, který koupil lokalitu starověkého paláce v Knóssu a vykopal tam rozsáhlý palác s více než tisíci místnostmi, který identifikoval jako labyrint mýtického krále Mínóa, kde prý byl vězněn příšerný Minotaur, půl býk, půl muž. Podle legendy Mínós požadoval od Athén každých sedm let sedm mladíků a sedm dívek jako oběť Minotaurovi, nakonec těchtous Minotaur zabil athénský hrdina Theseus a mýty o moci Kréty nad pevninou se tak dostaly do řeckého folklóru. 
 
+## Labyrint na kopci nedaleko Kastelli
 
+
+## Jeskyně Skotino
+
+## Jeskyně - Kamenolom u Gortyny
+Labyrint (Labyrinthaki / Great Labyrinth Cave)
+
+## Závěr
 Jestli je tady na Krétě něco více Řeckého, než vám strčit do ruky Gyros s Kebab masem za 4€, tak je to kopnout do země, ukázat prstem a výtězoslavně zvolat "Hele Labyrint!".
 
 ## Zdroje:
