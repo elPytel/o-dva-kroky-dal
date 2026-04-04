@@ -8,7 +8,6 @@ categories:
     - kréta
 tags: 
     - Ierapetra
-    - Palaikastro
     - Richtis
     - labirynt
 ---
@@ -16,7 +15,7 @@ tags:
 
 pátek
 Heraklion -> Sitia
-- soutězka Richtis
+- Gournii
 - procházka po městě
 
 sobota
@@ -25,10 +24,12 @@ Sitia (Palaikastro)
 - vykopávky okolo města
   - Archaeological site of Trypitos
   - vykopávky Petras
+  - Roussolakkos excavation
+
 
 neděle
 Sitia -> Ierapetra
-- Gournii
+- soutězka Richtis
 - procházka po městě
 
 pondělí
@@ -52,22 +53,6 @@ Cestou narazíte na starověkou infrastrukturu jako most Lachanas a pozůstatky 
 
 mapa: [zde](https://mapy.com/s/botanuvecu)
 
-# Palaikastro of Sitia
-
-## Itanos (Erimoupolis)
-
-Mapa: [zde](https://mapy.com/s/bupepedopa)
-
-Pokud budete chtít spojit vykopávky s koupáním, zvažte popojet ještě kousek za věhlasný (a často přelidněný) palmový háj Vai až na úplný severovýchodní cíp k Itanos (Erimoupolis).
-Bývalo to mocné antické a byzantské přístavní město, které bohatlo z obchodu a výroby purpuru. Proč to stojí za vidění: část tehdejší městské infrastruktury a přístavu se vlivem tektonické činnosti propadla pod hladinu moře. Můžete si tu s Erikou zaplavat doslova nad potopenými základy starověkých budov. 
-
-## pláž Vai
-
-Mapa: [zde](https://mapy.com/s/busulafave)
-
-Jde o největší přírodní palmový háj v Evropě.
-
-Oběd v nedaleké vesnici Palekastro, kde dělají výborné mořské plody.
 
 # Sobotní přesun (Sitia -> Ierapetra)
 
