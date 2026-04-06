@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Palaikastro"
+title:  "Palaikastro a Rousolakos"
 author: "Jarda"
 description: Antický počítač pro předpověď zatmění a určení zeměpisné šířky, který byl vytvořen zhruba o 1400 let dříve než antikythérský mechanismus.
 categories: 
@@ -14,6 +14,21 @@ thumbnail: /assets/Greece/Gussform_Palekastro_(Evans).jpg
 # Palaikastro of Sitia
 
 Ubytovaní jsme v hotelu na konci věsnice Palaikastro, která je asi 15 km od Sitie. Je to klidné místo s krásným výhledem na moře a okolní krajinu.
+
+To co jsme tady našli bylo po pravdě náhoda, protože jsme se původně chtěli uytovat v Siti, ale levnější a hezčí ubytování nakonec Erika našla kousek za vesnicí Palaikastro. Až při zkoumání mapy jsem zjistil že se zde nachází archeologické vykopávky Rousolakos.
+
+Když jsme ráno hledali pekárnu v centru městečka, tak jsem úplně náhodou narazil na památník s replikou minojského paprskového kotouče z Palaikastra.
+
+Narazili jsme zde na výbornou pizerii zastčenou kousek od hlavní silnice. Domluvili jsme se s majitelem, že si od něj koupíme olivový olej. Mají zde ubytování, restaraci a farmu s olivovníky. Lisují si vlastní olej (asi jako tady každý druhý, je to něco jako u nás dělat mošt z jablek ze zahrady), dali nám výbornou cenu 6€ za litr plus 1€ za plechovku. Cena oleje je to oproti stánku se suvenýry poloviční.
+
+## Kouros
+
+Unikátní zlatá a slonovinová soška boha, vytvořená kolem roku 1500 př. n. l.
+
+![]({{ site.baseurl }}/assets/Greece/20260404_193613.webp)
+*replika zdobené sošky*
+![]({{ site.baseurl }}/assets/Greece/20260404_193621.webp)
+*kouros - infoční tabule*
 
 ## Minojské formy z Palaikastra 
 Jsou dva dvoustranné kusy břidlice vytvořené v minojském období jako odlévací formy pro destičky s postavami a symboly. Patří mezi ně ženské postavy se zvednutými pažemi, labrys (dvojité sekery, Λάβρυες, labryes) a květy či makovice opiového máku, dvě dvojité sekery s vykrojenými okraji, symbol Rohů posvěcení a sluneční kotouč se složitými značeními. Byly nalezeny v roce 1899 poblíž Palaikastra ve východní části Kréty a nyní se nacházejí v Archeologickém muzeu v Heraklionu.
@@ -32,6 +47,9 @@ Podobné názory veřejně prezentoval v dubnu 2011 Minas Tsikritsis. Spolu s Ef
 
 ![]({{ site.baseurl }}/assets/Greece/Palaikastro_astronomia.jpg)
 *Mínoiský počítač pro předpověď zatmění a určení zeměpisné šířky*
+
+![]({{ site.baseurl }}/assets/Greece/20260404_193608.webp)
+*replika na památníku*
 
 ## Zdroje:
 - [Crete Sitia: Archaeoastronomy](https://www.cretesitia.gr/index.php/en/sight-seeing-archeological-sites/archaeoastronomy)

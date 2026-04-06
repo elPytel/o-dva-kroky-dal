@@ -7,7 +7,7 @@ categories:
     - erasmus
     - kréta
 tags: 
-    - heraklion
+    - Heraklion
 thumbnail: /assets/Greece/Citta_di_Candia-Francesco_Basilicata-1618.jpg
 ---
 

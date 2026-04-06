@@ -1,7 +1,7 @@
 ---
 layout: category
-title: "heraklion"
-category: "heraklion"
+title: "Heraklion"
+category: "Heraklion"
 permalink: /kategorie/heraklion/
 ---
 

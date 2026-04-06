@@ -7,6 +7,7 @@ categories:
     - erasmus
     - kréta
 tags: 
+    - Heraklion
     - cretaquarium
     - aquárium
 thumbnail: https://cretaquarium.gr/wp-content/uploads/2023/03/cropped-cropped-cropped-cretaquarium_logo.png

@@ -7,6 +7,7 @@ categories:
     - erasmus
     - kréta
 tags: 
+    - Heraklion
     - muzeum
 thumbnail: /assets/Greece/20260315_135327.webp
 ---

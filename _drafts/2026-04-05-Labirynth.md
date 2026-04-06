@@ -10,17 +10,36 @@ tags:
     - labirynth
 ---
 
-[mapa](https://mapy.com/s/kepotakeme)
+
+# Obash
+
+- [Obash](#obash)
+  - [Knossos](#knossos)
+  - [Labyrint na kopci nedaleko Kastelli](#labyrint-na-kopci-nedaleko-kastelli)
+  - [Jeskyně Skotino nedaleko Heraklionu](#jeskyně-skotino-nedaleko-heraklionu)
+  - [Jeskyně Labyrint - Kamenolom u Gortyny](#jeskyně-labyrint---kamenolom-u-gortyny)
+  - [Závěr](#závěr)
+  - [Zdroje:](#zdroje)
+
 
 ## Knossos
+
+mapa: [zde](https://mapy.com/s/raguperoto)
+
 Evans, který koupil lokalitu starověkého paláce v Knóssu a vykopal tam rozsáhlý palác s více než tisíci místnostmi, který identifikoval jako labyrint mýtického krále Mínóa, kde prý byl vězněn příšerný Minotaur, půl býk, půl muž. Podle legendy Mínós požadoval od Athén každých sedm let sedm mladíků a sedm dívek jako oběť Minotaurovi, nakonec těchtous Minotaur zabil athénský hrdina Theseus a mýty o moci Kréty nad pevninou se tak dostaly do řeckého folklóru. 
 
 ## Labyrint na kopci nedaleko Kastelli
 
+mapa: [zde](https://mapy.com/s/dodalazapo)
 
-## Jeskyně Skotino
+Tato obří kruhová stavba o průměru necelých padesát metrů se našla přesně v místech, kde se připravoval terén pro instalaci hlavního radarového systému nového mezinárodního letiště Kastelli. Je to krásný příklad toho, jak tu moderní inženýrské sítě doslova narážejí na ty starověké. Kvůli tomuto objevu muselo řecké ministerstvo letectví narychlo měnit plány a hledat pro letištní radar jinou lokaci, aby se komplex zachránil.
 
-## Jeskyně - Kamenolom u Gortyny
+Záhada jejího účelu je o to zajímavější. Nemělo to střechu a uvnitř byly nalezeny obrovské vrstvy zvířecích kostí, což ukazuje na masivní komunitní rituální hody spíše než na běžné bydlení. Rozhodně to stojí za zastávku při pondělním návratu. Jen je dobré počítat s tím, že jelikož jde o velmi čerstvý objev uprostřed aktivní stavební zóny letiště, přístup až přímo k samotným kamenům může být zatím omezený plotem. Možná se budete muset spolehnout na výhled z vyvýšeného místa nad staveništěm.
+
+
+## Jeskyně Skotino nedaleko Heraklionu
+
+## Jeskyně Labyrint - Kamenolom u Gortyny
 Labyrint (Labyrinthaki / Great Labyrinth Cave)
 
 ## Závěr
