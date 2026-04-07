@@ -14,7 +14,6 @@ tags:
 thumbnail: /assets/Greece/20260404_182143.webp
 ---
 
-
 ![]({{ site.baseurl }}/assets/Greece/20260404_181920.webp)
 *Stříška nad vykopávakami*
 
@@ -41,6 +40,12 @@ Záliv Chiona je situován tak, že moře je chráněno před větry, které v l
 
 Vyhýbání se zrádným vodám a snadný přístup do vnitrozemí ostrova by námořníky z Egypta a Levanty snadno přiměl vyložit náklad v Palaikastru k následné přepravě do vnitrozemí. Nedaleký palác v Zakrosu by rovněž představoval možnost, avšak postrádá tak snadný přístup do vnitrozemí ostrova, jaký Palaikastro nabízí.
 
+## Zkáza města
+
+Tohle místo je pro vědce klíčové. Našly se zde jasné vrstvy mořských usazenin, mušlí a písku hluboko ve vnitrozemí, což potvrzuje, že město zasáhla obří vlna tsunami po výbuchu sopky na Santorini. Je to jedno z nejlepších míst na světě, kde je tento katastrofický dopad na infrastrukturu vidět přímo v terénu.
+
+Nejdříve na město dopadl sopečný popel ze Santorini (až 12 cm tlustá vrstva) a teprve poté přišla vlna (odhadovaná výška minimálně 9 metrů), která popel smíchala s pobřežním pískem, mořskými mikrofosiliemi a sutinami ze zborcených minojských domů.
+
 ## Mytologie
 V řecké mytologii bylo toto místo považováno za rodiště Diktaian Dia (stejně tak jako mnoho jiných míst na Krétě) a za místo, kde se Jason a Argonauti střetli s Talosem, mužem z bronzu, jednu generaci před trojskou válkou.
 
@@ -48,3 +53,4 @@ V řecké mytologii bylo toto místo považováno za rodiště Diktaian Dia (ste
 - [cretanbeaches: Rousolakos - Minoan Town](https://www.cretanbeaches.com/en/history-of-crete/archaeological-sites-in-crete/minoan-times-palaces-and-sites/roussolakos-minoan-town-palekastro)
 - [Ancient Greece: Palaikastro](https://ancient-greece.org/archaeology/palekastro/)
 - [Wikipedia: Rousolakos](https://en.wikipedia.org/wiki/Roussolakkos)
+- [ScienceDirect: Geoarchaeological tsunami deposits at Palaikastro](https://www.sciencedirect.com/science/article/abs/pii/S0305440307001732)
