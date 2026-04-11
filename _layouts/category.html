@@ -6,8 +6,6 @@ layout: default
 
 <p><a href="{{ '/kategorie/' | relative_url }}">Zpět na seznam kategorií</a></p>
 
-<ul>
-</ul>
 
 {% assign tag = page.category | default: page.tag %}
 {% assign cat_posts = site.categories[tag] %}
@@ -38,7 +36,7 @@ layout: default
     {% endfor %}
   </ul>
 {% endif %}
-</ul>
+
 
 {% if site.data and site.data.tags_notes and site.data.tags_notes[tag] %}
   <div class="tag-note">

@@ -38,6 +38,11 @@ Trubky jsou tu moc malé (5cm) na to aby jimi prošel toaletní papír, takže s
 
 To však nebrání řetězcům prodávat roličky toaletního papíru s reklamou na to že můžete spláchnout i jejich ruličku.
 
+Řekové dělají všechno na půl. 
+
+Neznají povlečení. Místo toho vám dají dvě prostěradla, jedno na postel a druhé mezi vás a peřinu.
+
+
 ## Jak Řekové vyřešili nezaměstnanost
 
 V Řecku je běžné že vám na benzínce člověk natankuje a pak mu zaplatíte přes terminál.
