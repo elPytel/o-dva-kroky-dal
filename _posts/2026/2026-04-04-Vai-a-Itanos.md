@@ -9,6 +9,7 @@ categories:
 tags: 
     - Itanos
     - Vai
+    - pláž
 thumbnail: /assets/Greece/20260404_143649.webp
 ---
 

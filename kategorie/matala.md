@@ -1,7 +1,7 @@
 ---
 layout: category
-title: "matala"
-category: "matala"
+title: "Matala"
+category: "Matala"
 permalink: /kategorie/matala/
 ---
 
