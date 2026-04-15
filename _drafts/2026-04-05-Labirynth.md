@@ -45,6 +45,9 @@ Labyrint (Labyrinthaki / Great Labyrinth Cave)
 ## Závěr
 Jestli je tady na Krétě něco více Řeckého, než vám strčit do ruky Gyros s Kebab masem za 4€, tak je to kopnout do země, ukázat prstem a výtězoslavně zvolat "Hele Labyrint!".
 
+Podle mě je příběh o Labyrintu alegorií na historické období končící nadvlády Kréty ve středomoří (Egejském moři) a vzestup Athén (pevninského Řecka) jako nové dominantní síly. 
+7 Athénských obětí poslaných na Krétu do Labyrint symbolizuje podmanění pevninského Řecka Krétě. Theseusův triumf nad Minotaurem pak představuje vítězství Athén nad Krétou a začátek nové éry v řecké historii. Která nastává někdy po výbuchu Théra (Santorini) a zničení Minojských center na pobřeží severní Kréty, což vedlo k oslabení krétské moci a umožnilo Athénám převzít vedení v regionu v podobě nové námořní velmoci.
+
 ## Zdroje:
 
 - [medium: Labyrint mýtického Minotaurova](https://medium.seznam.cz/clanek/petr-tichy-na-ostrove-bajneho-minotaura-byl-objeven-labyrint-69218)
