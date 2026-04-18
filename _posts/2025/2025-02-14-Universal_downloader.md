@@ -3,8 +3,10 @@ layout: post
 title: Universal Downloader
 description: Program pro stahování různých typů souborů z internetu
 categories:
-  - python
-  - universal_downloader
+    - programming
+tags:
+    - python
+    - universal_downloader
 thumbnail: https://github.com/elPytel/Universal_downloader/raw/main/assets/app.png
 ---
 

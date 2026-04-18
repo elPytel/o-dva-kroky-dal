@@ -4,8 +4,9 @@ title:  "Nokia N900 a postmarketOS"
 date:   2025-05-17 15:11:11 +0200
 categories:
     - n900
-    - postmarketOS
     - mobily
+tags:
+    - postmarketOS
 thumbnail: https://i.redd.it/6aki9gtqtb1f1.png
 ---
 

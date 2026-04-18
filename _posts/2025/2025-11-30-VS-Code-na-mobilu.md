@@ -5,8 +5,8 @@ description: Visual Studio Code běžící na mobilním telefonu
 categories: 
     - mobily
     - samsung
-    - vscode
 tags:
+    - VSCode
     - termux
 thumbnail: /assets/phone/20251130_122435_Opera.jpg
 ---

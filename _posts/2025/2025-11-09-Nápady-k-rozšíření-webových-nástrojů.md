@@ -2,7 +2,12 @@
 layout: post
 title: "Nápady k rozšíření webových nástrojů"
 description: Sbírka nápadů na nové webové nástroje
-categories: ["javascript", "web"]
+categories: 
+    - programming
+tags:
+    - web
+    - web_tools
+    - javascript
 thumbnail: https://raw.githubusercontent.com/elPytel/web-tools/refs/heads/main/src/assets/WebTools_v2.png
 ---
 # Nápady k rozšíření webových nástrojů 💡
