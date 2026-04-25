@@ -4,6 +4,7 @@ title: Universal Downloader
 description: Program pro stahování různých typů souborů z internetu
 categories:
     - programming
+    - Github
 tags:
     - python
     - universal_downloader

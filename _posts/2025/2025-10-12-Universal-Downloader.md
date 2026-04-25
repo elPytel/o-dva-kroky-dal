@@ -4,6 +4,7 @@ title: "Universal Downloader: Datoid"
 description: "Přidání podpory pro Datoid do Universal Downloaderu"
 categories:
     - programming
+    - Github
 tags:
     - python
     - universal_downloader

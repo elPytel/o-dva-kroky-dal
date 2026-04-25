@@ -5,6 +5,7 @@ author: "Jarda"
 description: 3D tisk figurek pro různé národy
 categories: 
     - TTG
+    - Github
 tags:
     - "Osadníci z Catanu"
 thumbnail: https://github.com/elPytel/Settlers_of_Catan-Civilizations/raw/main/assets/3DBox_CATAN_BaseGame_NE.png

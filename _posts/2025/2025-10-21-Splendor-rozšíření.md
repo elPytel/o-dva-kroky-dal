@@ -4,6 +4,7 @@ title: "Splendor: rozšíření"
 description: Rozšíření deskové hry Splendor o sezónní slevy a zdražení
 categories: 
     - TTG
+    - Github
 tags:
     - Splendor
 thumbnail: https://raw.githubusercontent.com/elPytel/Splendor-rozsireni_Sezony/refs/heads/main/assets/stones/ChatGPT-Sezóna_Rubín.png
