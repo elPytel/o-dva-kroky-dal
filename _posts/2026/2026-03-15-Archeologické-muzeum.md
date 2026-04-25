@@ -68,6 +68,7 @@ Během protopalaciálního období (1900–1700 př. n. l.) byly vynalezeny dva 
 Nejstarší krétské písmo, krétské hieroglyfy, se objevuje poprvé na pečetích s piktogramy z Phourni u Archanes (okolo 1900 př. n. l.).
 
 ![pečetě]({{ site.baseurl }}/assets/Greece/20260315_124614.webp)
+*Pečetě*
 
 ![pečetě]({{ site.baseurl }}/assets/Greece/20260315_134058.webp){: .left } 
 

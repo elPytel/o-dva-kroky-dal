@@ -14,6 +14,7 @@ thumbnail: /assets/Greece/Citta_di_Candia-Francesco_Basilicata-1618.jpg
 # Obsah
 - [Obsah](#obsah)
   - [Heraklion](#heraklion)
+    - [Místní nákupák](#místní-nákupák)
   - [Morosinova fontána](#morosinova-fontána)
   - [Bembo Fountain](#bembo-fountain)
   - [Brána svatého Jiří](#brána-svatého-jiří)
@@ -33,6 +34,11 @@ Heraklion byl nepřetržitě osídlen nejméně od roku 7000 př. n. l., čímž
 Název Herakleion (Ηράκλειον) pochází od starověkého přístavu Heracleium, který sloužil jako přístav pro Knóssos. Přístav se stejným jménem byl pojmenován na počest hrdiny Hérakla (Herkula).
 
 Dnešní výslovnost názvu Heraklion je [iraˈklion], ale v minulosti město i jiné názvy, například Chándax (Χάνδαξ) nebo Candia, byly vyslovovány jako [ˈxandax] a [ˈkandia] (v době Arabské nadvlády).
+
+### Místní nákupák
+
+V patře -1 je kód na záchody:
+**8833#**
 
 ## Morosinova fontána
 

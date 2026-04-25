@@ -39,7 +39,6 @@ Podle legend Minos potlačil pirátství a kolonizoval Egejské moře. Podstata 
 ![Rodokmen]({{ site.baseurl }}/assets/Greece/20260315_135801.webp)
 *Rodokmen*
 
-
 Řetězec vzájemně propojených legend kolem postavy Minoa zahrnuje příběhy členů jeho rodu. Jeho bratr Rhadamanthýs (Radamant) byl kolonizátorem, který v nových osadách zřídil politický a správní řád na Krétě, a spolu s Minem působil jako soudce mrtvých v Hádu. Sarpedón, další Minův bratr, se stal králem Lycie a byl tragickým hrdinou trojské války, padlým rukou Patrokla.
 
 Minoa a Pasifae měli spolu osmi dětí:

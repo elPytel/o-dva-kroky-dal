@@ -3,6 +3,7 @@
 SCRIPTS_FOLDER=scripts
 KATEGORIES_FOLDER=kategorie
 ROW_IMAGES_FOLDER=big_photos
+TO_REMOVE_FOLDER=to-remove
 GENERATED_FOLDER=generated
 
 KEEP_SRC=./dont_include/Keep
@@ -73,6 +74,8 @@ rotate-images: $(ROW_IMAGES_FOLDER)
 resize-images:
 	@printf "$(CYAN)Resizing images...$(RESET)\n"
 	@./$(SCRIPTS_FOLDER)/convert_to_webp.sh -d ./$(ROW_IMAGES_FOLDER)/
+	@mv ./$(ROW_IMAGES_FOLDER)/*.{jpg,jpeg,png} ./$(TO_REMOVE_FOLDER)/ 2>/dev/null || true
+	@printf "$(YELLOW)Original images moved to '$(TO_REMOVE_FOLDER)' folder. Review and delete if no longer needed.$(RESET)\n"
 	@printf "$(CYAN)Done.$(RESET) WebP images in $(BLUE)$(ROW_IMAGES_FOLDER):$(RESET)\n"
 	@ls ./$(ROW_IMAGES_FOLDER)/ | grep '.webp' 
 
