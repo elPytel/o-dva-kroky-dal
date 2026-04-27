@@ -1,7 +1,7 @@
 ---
 layout: category
-title: "windows"
-category: "windows"
+title: "Windows"
+category: "Windows"
 permalink: /kategorie/windows/
 ---
 

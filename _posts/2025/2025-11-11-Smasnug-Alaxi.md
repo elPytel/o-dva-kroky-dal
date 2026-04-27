@@ -2,7 +2,10 @@
 layout: post
 title: "Smasnug Alaxi"
 description: Samsung Galaxy S21 Ultra z druhé ruky
-categories: ["mobily", "samsung"]
+categories: 
+    - mobily
+tags:
+    - samsung
 thumbnail: /assets/fotky/2025/samsung-galaxy-s21-ultra-1.jpeg
 ---
 
