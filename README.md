@@ -13,6 +13,7 @@
     - [3. Speciální efekty](#3-speciální-efekty)
     - [Kombinace (Pro-tip)](#kombinace-pro-tip)
     - [Jak to vypadá v praxi:](#jak-to-vypadá-v-praxi)
+  - [Callouts](#callouts)
   - [Layouts](#layouts)
     - [cookbook](#cookbook)
   - [recipe](#recipe)
@@ -158,6 +159,30 @@ Můžeš je i řetězit. Pokud chceš malý obrázek vpravo s ostrými pixely, n
 | `![Alt](){: .full}` | Obrázek od kraje ke kraji |
 | `![Alt](){: .right}` | Malá fotka vpravo, text teče vlevo |
 | `![Alt](){: .small .pixelated}` | Malý, ostrý technický diagram |
+
+## Callouts
+
+```md
+{: .tip }
+> Svatý Jiří je patronem: 
+> Anglie, Černé Hory, Etiopie... 
+```
+
+Seznam podporovaných calloutů:
+- `.callout`
+- `.tip`
+- `.note`
+- `.warning`
+- `.important`
+- `.info`
+- `.success`
+- `.question`
+- `.help`
+- `.danger`
+- `.bug`
+- `.error`
+- `.example`
+- `.quote`
 
 ## Layouts
 
