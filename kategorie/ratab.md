@@ -1,7 +1,7 @@
 ---
 layout: category
-title: "RATAB"
-category: "RATAB"
+title: "Ratab"
+category: "Ratab"
 permalink: /kategorie/ratab/
 ---
 
