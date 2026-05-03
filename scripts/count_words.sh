@@ -16,16 +16,26 @@ function show_help {
 }
 
 # clean md front matter from word count
-function clean_front_matter { # path
-    local path="$1"
-    # Use awk to robustly remove YAML front matter that starts with '---' on first line
-    # Handles CRLF and files that may not have closing '---'
+function clean_front_matter {
+    # If argument exists, use it as file, otherwise read from stdin
+    local input="${1:-/dev/stdin}"
     awk '
         BEGIN{in_fm=0}
         NR==1 && $0 ~ /^---[[:space:]]*$/ {in_fm=1; next}
         in_fm==1 && $0 ~ /^---[[:space:]]*$/ {in_fm=0; next}
         { if(!in_fm) print }
-    ' "$path"
+    ' "$input"
+}
+
+# remove markdown code blocks from word count
+function clean_code_blocks {
+    # If argument exists, use it as file, otherwise read from stdin
+    local input="${1:-/dev/stdin}"
+    awk '
+        BEGIN { in_code=0 }
+        /^```/ { in_code = !in_code; next }
+        { if(!in_code) print }
+    ' "$input"
 }
 
 # list of included path functions
@@ -89,7 +99,7 @@ fi
 TOTAL_WORDS=$(included_paths | while IFS= read -r file; do
     # ensure file is non-empty and exists before processing
     if [ -n "$file" ] && [ -f "$file" ]; then
-        clean_front_matter "$file"
+        clean_front_matter "$file" | clean_code_blocks
     fi
 done | wc -w)
 
