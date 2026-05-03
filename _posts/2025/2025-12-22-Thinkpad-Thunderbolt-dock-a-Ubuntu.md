@@ -4,7 +4,7 @@ title: "Thinkpad Thunderbolt dock a Ubuntu"
 description: Návod na instalaci ovladačů pro Thinkpad Thunderbolt dock na Ubuntu
 categories: 
     - linux
-    - thinkpad
+    - Thinkpad
 tags: 
     - ubuntu
     - lenovo
