@@ -9,7 +9,7 @@ categories:
 tags:
     - n900
     - postmarketOS
-    - python
+    - Python
 thumbnail: https://i.redd.it/0bcyeg2yly1f1.jpeg
 ---
 

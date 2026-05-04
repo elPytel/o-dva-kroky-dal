@@ -7,6 +7,7 @@ categories:
     - pc
 tags: 
     - Raspberry Pi
+    - AMD
     - AMD 8080
 thumbnail: /assets/RPi/RPi_Zero_04.jpg
 ---

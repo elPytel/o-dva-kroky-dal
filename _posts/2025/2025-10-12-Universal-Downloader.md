@@ -6,7 +6,7 @@ categories:
     - programming
     - Github
 tags:
-    - python
+    - Python
     - universal_downloader
 thumbnail: https://github.com/elPytel/Universal_downloader/raw/main/assets/multi_source.png
 ---
