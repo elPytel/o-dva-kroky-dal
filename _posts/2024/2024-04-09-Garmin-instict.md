@@ -2,10 +2,13 @@
 layout: post
 title:  "Garmin Instinct"
 author: "Jarda"
-date:   2024-04-09 10:24:06 +0200
+description: Garmin Instinct jsou odolné outdoorové hodinky s dlouhou výdrží baterie, které nabízejí širokou škálu funkcí pro sportovce a dobrodruhy.
 categories: 
+  - smartwatch
   - garmin
+tags:
   - instinct
+  - Amazfit
 thumbnail: https://image.alza.cz/products/PPinst2X9b2/PPinst2X9b2-02.jpg
 ---
 
@@ -24,10 +27,12 @@ thumbnail: https://image.alza.cz/products/PPinst2X9b2/PPinst2X9b2-02.jpg
 Nebo aspoň tak nějak to tvrdí prodejci hodinek Garmin na veletrhu se spotřebitelskou elektronikou.
 
 ## Neo
+
+![Amazfit Neo]({{ site.baseurl }}/assets/hodinky/Amazfit_Neo.webp){: .small .left }
+*Amazfit Neo*
+
 Mé dosavadní hodinky byli Amazfit Neo. Koupil jsem si je někdy koncem roku 2021, když mi mé Casia (hodinky s ručičkami, digitálkami, budíkem, kalendéřem a výdrží na baterii 4 roky) nadobrou dali sbohem, když se jejich shasi rozpadlo v prach bez o hledu na to kolik snahy jsem ze sebe vydával v podobě neustáhelo slepování pomocí vteřinového lepidla. 
 Dostal jsem prospěchové stipendium za první ročník na vysoké škole. Táta zrovna slavil 50, tak jsem se rozhodl že mu koupím nové hodinky. Když už jemu, tak i máme chytrý náramek. No a na sebe přece také nesmím zapomenout. Takže došlo na celkovou obměnu flotily.
-
-![amazfit neo](https://image.alza.cz/products/XI300i16b3/XI300i16b3.jpg?width=500&height=500)
 
 | výbava | typ |
 | --- | --- |

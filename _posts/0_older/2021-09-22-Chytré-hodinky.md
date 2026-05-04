@@ -71,4 +71,4 @@ Tep a aktivitu mi sice měřili, ale nikdy jsem ty data asi nevyužil.
 
 Za 600 Kč, to byl však fenomenální kup. Hodinky jsou vodotěsné a mají vše co potřebujete od klasických digitálek a ještě něco navíc.
 
-Když jsem si pak po dvou letech pořídil Garminy Instinct 2X, tak jsem svoje Amazfit Neo poslal dál do rodiny Uhlířovic.
+Když jsem si pak po třech letech pořídil Garminy Instinct 2X, tak jsem svoje Amazfit Neo poslal dál do rodiny Uhlířovic.
