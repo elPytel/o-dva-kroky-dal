@@ -8,11 +8,12 @@ categories:
     - Github
 tags: 
     - Makefile
-thumbnail: assets/pc/makefile.webp
+thumbnail: assets/programování/makefile.webp
 ---
 
 Odkaz na [github](https://github.com/elPytel/Makefile-Minecraft-crafting)
 
+Pro hlubší pochopení Makefile jsem se rozhodl vytvořit jednoduchou simulaci Minecraft crafting systému pomocí Makefile. Cílem je ukázat, jak Makefile může být použit pro orchestraci závislostí a automatizaci procesů v kontextu, který je zábavný a snadno pochopitelný.
 
 Předpisy make:
 ```bash
@@ -55,6 +56,12 @@ Příkaz `touch $@` představuje vytvoření souboru, který reprezentuje úspě
 Všechny `targety` jsou zde soubory, které se postupně vytvářejí. Pokud spustíme `make crafting_table`, make zkontroluje závislosti a spustí příkazy v pořadí, které zajistí, že všechny potřebné soubory budou vytvořeny.
 
 `crafting_table` > `oak_planks` > `oak_log` > `visit_forest`
+
+Postupně se nám tak vytvoří soubory:
+1. `visit_forest`
+2. `oak_log`
+3. `oak_planks`
+4. `crafting_table`
 
 ## Zobecnění pravidla `_ingot`
 

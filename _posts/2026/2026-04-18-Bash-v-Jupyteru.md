@@ -9,7 +9,7 @@ tags:
     - Bash
     - Jupyter
     - VSCode
-thumbnail: "/assets/Jupyter.png"
+thumbnail: "/assets/programování/Jupyter.png"
 ---
 
 Zaobýral jsem se myšlenkou, jak vytvořit výukové materiály pro Bash. Když studenti vypracovávají úkoly, tak musí vykopírovávat výstup z programů, aby mohli vytvořit referát o tom co dělaji. To je zbytečná práce navíc. Napadlo mě, že by bylo skvělé, kdyby mohli psát příkazy přímo v Jupyteru a používat Bash jako kernel, obdobně jako tomu je pro Python. To by jim umožnilo snadno spouštět příkazy a získávat výstupy přímo v notebooku. Jupyter si vždy ukládá výstupy z jednotlivých buněk, stačí pak soubor jenom uložit. 
