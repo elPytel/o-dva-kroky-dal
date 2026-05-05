@@ -20,6 +20,7 @@ thumbnail: assets/programování/makefile.webp
   - [Makefile targets](#makefile-targets)
     - [Složky](#složky)
     - [Složizé příkazy](#složizé-příkazy)
+    - [Aliasy](#aliasy)
   - [pipelines](#pipelines)
 
 
@@ -131,6 +132,44 @@ deps:
 python-merge:
 	$(PY) $(TOOLS_DIR)/merge_cards.py $(MERGE_SRCS) $(MERGED)
 ```
+
+### Aliasy
+
+Pro zpříjemnění práce můžeme vytvořit aliasy, které budou spouštět více targetů najednou. Například:
+
+```makefile
+all: pdf html validate
+```
+
+Tímto způsobem, když spustíme `make all`, spustí se všechny tři targety `pdf`, `html` a `validate` v jednom příkazu, což zjednodušuje proces pro uživatele, který chce vygenerovat všechny výstupy najednou.
+
+Další možností je vytvořit specifické aliasy pro různé fáze generování, například příkaz:
+```makefile
+make validate
+```
+Je mnohem čitelněšjí a snadněji zapamatovatelný než:
+```bash
+make out/.validated
+```
+
+Výhoda takových aliasů je v tom že kombinují srozumitelné názvy s testem a existenci a aktuálnost souborů.
+
+```makefile
+validate: $(OUT_DIR)/.validated
+$(OUT_DIR)/.validated: $(shell find $(CARDS_DIR) -type f -name '*.xml') $(XSD) | $(OUT_DIR)
+	@printf "$(YELLOW)Validating from $(BLUE)%s$(RESET) against $(BLUE)%s$(RESET)\n" "$(CARDS_DIR)" "$(XSD)"
+	@./$(TOOLS_DIR)/validate_cards.sh "$(CARDS_DIR)" "$(XSD)"
+	@touch $@
+```
+
+- `@touch $@` vytvoří soubor `.validated`
+
+Závislosti:
+- XML soubore v `$(CARDS_DIR)`
+- XSD schéma `$(XSD)`
+- výstupní adresář `$(OUT_DIR)`, který musí existovat pro uložení `.validated` souboru.
+
+Příkaz `make validate` zkontroluje všechny XML soubory v `$(CARDS_DIR)` proti XSD schématu a pokud jsou všechny validní, vytvoří soubor `.validated`, který slouží jako důkaz, že validace proběhla úspěšně. Pokud se nějaký soubor změní nebo přidá nový, `.validated` se stane neaktuálním a příště při spuštění `make validate` se znovu spustí validace.
 
 ## pipelines
 
