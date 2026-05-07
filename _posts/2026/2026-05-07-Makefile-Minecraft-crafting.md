@@ -41,8 +41,8 @@ oak_log: visit_forest
 	@touch $@
     
 visit_forest:
-    @echo "$(YELLOW)Visiting$(RESET) the forest to find an oak tree..."
-    @touch $@
+	@echo "$(YELLOW)Visiting$(RESET) the forest to find an oak tree..."
+	@touch $@
 ```
 
 | Pojem | Minecraft Analogie | Význam v automatizaci |
