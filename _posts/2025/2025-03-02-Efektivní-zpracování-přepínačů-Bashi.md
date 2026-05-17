@@ -8,6 +8,7 @@ categories:
     - Github
 tags: 
     - Bash
+thumbnail: assets/pc/Bash-logo.png
 ---
 
 Odkaz na [gist](https://gist.github.com/elPytel/b006352dae16e8f1f577e19f75bd05d3)

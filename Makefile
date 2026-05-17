@@ -41,6 +41,9 @@ $(ROW_IMAGES_FOLDER):
 $(KATEGORIES_FOLDER):
 	mkdir -p $(KATEGORIES_FOLDER)
 
+$(ROW_IMAGES_FOLDER)/$(TO_REMOVE_FOLDER):
+	mkdir -p $(ROW_IMAGES_FOLDER)/$(TO_REMOVE_FOLDER)
+
 # jekyll
 install-deps:
 	@printf "$(CYAN)Installing dependencies...$(RESET)\n"
@@ -71,11 +74,17 @@ rotate-images: $(ROW_IMAGES_FOLDER)
 	@printf "$(CYAN)Rotating images...$(RESET)\n"
 	@./rotate_right.sh
 
-resize-images:
+move-originals: $(ROW_IMAGES_FOLDER)/$(TO_REMOVE_FOLDER)
+	@printf "$(CYAN)Moving original images to '$(ROW_IMAGES_FOLDER)/$(TO_REMOVE_FOLDER)'...$(RESET)\n"
+	@find ./$(ROW_IMAGES_FOLDER) -maxdepth 1 -type f \
+		\( -iname '*.jpg' -o -iname '*.jpeg' -o -iname '*.png' \) \
+		-exec mv -t ./$(ROW_IMAGES_FOLDER)/$(TO_REMOVE_FOLDER)/ -- {} + 2>/dev/null || true
+	@printf "$(YELLOW)Original images moved to '$(ROW_IMAGES_FOLDER)/$(TO_REMOVE_FOLDER)' folder. Review and delete if no longer needed.$(RESET)\n"
+
+resize-images: 
 	@printf "$(CYAN)Resizing images...$(RESET)\n"
 	@./$(SCRIPTS_FOLDER)/convert_to_webp.sh -d ./$(ROW_IMAGES_FOLDER)/
-	@mv ./$(ROW_IMAGES_FOLDER)/*.{jpg,jpeg,png} ./$(TO_REMOVE_FOLDER)/ 2>/dev/null || true
-	@printf "$(YELLOW)Original images moved to '$(TO_REMOVE_FOLDER)' folder. Review and delete if no longer needed.$(RESET)\n"
+	make move-originals
 	@printf "$(CYAN)Done.$(RESET) WebP images in $(BLUE)$(ROW_IMAGES_FOLDER):$(RESET)\n"
 	@ls ./$(ROW_IMAGES_FOLDER)/ | grep '.webp' 
 
