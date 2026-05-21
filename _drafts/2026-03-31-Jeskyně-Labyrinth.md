@@ -6,7 +6,7 @@ description: A description
 categories: 
     - turistika
 tags: 
-    - labyrint
+    - Labyrint
 ---
 
 # Labyrint u Gortyny

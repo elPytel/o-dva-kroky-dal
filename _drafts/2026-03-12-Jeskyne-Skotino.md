@@ -7,8 +7,9 @@ categories:
     - erasmus
     - kréta
 tags: 
-    - spelologie
-    - skotino
+    - speleologie
+    - Skotino
+    - Labyrint
 ---
 
 # Skotino cave

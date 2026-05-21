@@ -21,6 +21,9 @@ Archeologické nálezy — včetně hrobů, mramorových úlomků a stavebních 
 ## Daidalos a Ikaros
 [Sochy](https://mapy.com/s/nocahozafu)
 
+![Daidalos a Ikaros]({{ site.baseurl }}/assets/Greece/stare-recke-baje-a-povesti-eduard-petiska-Daidalos_a_Ikaros.webp)
+*Eduard Petiška - Staré řecké báje a pověsti*
+
 Agia Galini je také spojená s jedním z nejslavnějších řeckých mýtů — příběhem Daidala a Ikarova. Podle legendy se mistrný řemeslník Daidalos ukryl v nedaleké jeskyni, aby unikl králi Minóovi z Kréty. Tam zhotovil křídla z vosku a peří, aby on a jeho syn Ikaros mohli odletět do svobody.
 
 Z kopce nad přístavem vzlétli — ale Ikaros, který letěl příliš blízko slunce, viděl, jak se mu křídla rozpouštějí, a spadl do moře u ostrova, který dnes nese jeho jméno, Ikaria. Daidalos pokračoval v cestě do Itálie, truchlící nad ztrátou syna.

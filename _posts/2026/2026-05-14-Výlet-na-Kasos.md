@@ -93,6 +93,8 @@ Ve vesnici Panagia, najdete šest proslulých kostelů. Jde o jedinečný typ sa
 ![]({{ site.baseurl }}/assets/Greece/20260514_170748.webp)
 *Fry - místní písečná pláž*
 
+Teplota vody 20°C.
+
 ## Zdroje:
 - [obletsvet: Kasos](https://www.obletsvet.cz/pruvodce/recko/kasos-island)
 - [magnificentworld: Kasos](https://www.magnificentworld.com/things-to-do-in-kasos-greece/)
