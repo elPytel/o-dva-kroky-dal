@@ -1,2 +1,2 @@
-Total word count in .md files: 82429
-Approximate pages (250 words/page): 330
+Total word count in .md files: 82880
+Approximate pages (250 words/page): 332
