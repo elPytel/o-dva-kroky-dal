@@ -9,7 +9,7 @@ categories:
 tags:
     - matematika
     - hanojská věž
-thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Tower_of_Hanoi.jpeg/600px-Tower_of_Hanoi.jpeg
+thumbnail: /assets/Tower_of_Hanoi.jpeg
 ---
 
 Jak všichni víme, tak svět v roce 2012 nezkončil. Otázka je, kdy tedy nastane konec světa? 

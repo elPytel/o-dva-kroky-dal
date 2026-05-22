@@ -6,7 +6,11 @@ description: Kávovar Jura E6, jeho údržba a čištění
 categories: 
     - kávovar
     - jura
+thumbnail: /assets/Jura_e6.jpg
 ---
+
+![]({{ site.baseurl }}/assets/Jura_e6.jpg)
+*Kávovar Jura E6*
 
 Dostali jsme také od Ježíška v Ústí starší kávovar Jura E6.
 

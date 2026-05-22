@@ -6,7 +6,7 @@ description: "Jak připojit disky pod Linuxem"
 categories:
   - linux
   - storage
-thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/506px-Tux.svg.png
+thumbnail: /assets/Tux.png
 ---
 
 # Připojování disků pod Linuxem
