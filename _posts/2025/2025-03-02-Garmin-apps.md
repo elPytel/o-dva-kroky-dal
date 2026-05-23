@@ -2,7 +2,10 @@
 layout: post
 title: "Garmin applikace"
 description: "Seznam aplikací pro Garmin hodinky"
-categories: ["garmin", "apps"]
+categories: 
+    - Garmin
+tags:
+    - apps
 thumbnail: https://cdn.iconscout.com/icon/free/png-256/free-garmin-3628786-3030148.png
 ---
 

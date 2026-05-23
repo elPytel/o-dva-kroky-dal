@@ -1,7 +1,7 @@
 ---
 layout: category
-title: "garmin"
-category: "garmin"
+title: "Garmin"
+category: "Garmin"
 permalink: /kategorie/garmin/
 ---
 

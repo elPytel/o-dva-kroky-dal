@@ -1,7 +1,7 @@
 ---
 layout: category
-title: "gpx"
-category: "gpx"
+title: "GPX"
+category: "GPX"
 permalink: /kategorie/gpx/
 ---
 

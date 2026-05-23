@@ -5,7 +5,7 @@ author: "Jarda"
 description: Garmin Instinct jsou odolné outdoorové hodinky s dlouhou výdrží baterie, které nabízejí širokou škálu funkcí pro sportovce a dobrodruhy.
 categories: 
   - smartwatch
-  - garmin
+  - Garmin
 tags:
   - instinct
   - Amazfit
