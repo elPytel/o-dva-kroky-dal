@@ -1,7 +1,7 @@
 ---
 layout: category
-title: "řecko"
-category: "řecko"
+title: "Řecko"
+category: "Řecko"
 permalink: /kategorie/recko/
 ---
 
