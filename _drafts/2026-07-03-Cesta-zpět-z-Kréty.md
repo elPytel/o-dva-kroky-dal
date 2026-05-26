@@ -2,7 +2,7 @@
 layout: post
 title:  "Cesta zpět z Kréty"
 author: "Jarda"
-description: A description
+description: Plánujeme návratovou trasu z Kréty.
 categories: 
     - erasmus
     - kréta

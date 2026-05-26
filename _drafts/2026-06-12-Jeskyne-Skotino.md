@@ -7,7 +7,7 @@ categories:
     - erasmus
     - kréta
 tags: 
-    - speleologie
+    - jeskyně
     - Skotino
     - Labyrint
 ---
