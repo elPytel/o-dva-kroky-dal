@@ -10,10 +10,10 @@ tags:
 thumbnail: /assets/Greece/fira-town-volcano-sea-santorini.webp
 ---
 
+- [Doprava](#doprava)
 - [1650bc výbuch Santorini](#1650bc-výbuch-santorini)
   - [Ztracená Atlantida](#ztracená-atlantida)
     - [Akrotiri (archeologické naleziště)](#akrotiri-archeologické-naleziště)
-- [Doprava](#doprava)
 - [Co vidět na Santorini](#co-vidět-na-santorini)
   - [Akrotiri](#akrotiri)
   - [Red Beach (Kokkini Paralia)](#red-beach-kokkini-paralia)
@@ -21,6 +21,29 @@ thumbnail: /assets/Greece/fira-town-volcano-sea-santorini.webp
   - [Imerovigli](#imerovigli)
   - [Skaros Rock](#skaros-rock)
   - [Zdroje:](#zdroje)
+
+# Doprava
+
+Mezi Heraklionem a Santorini se dá sehnat i přímý let, ale jeho cena je tak 2500Kč a trvá 40 minut. Za nejlevnější zpáteční letenku dá člověk zhruba 5000Kč. Některé napárovaní letenek tam a zpět člověka žene přes Atény (2:40h).
+
+Jednosmerná přímá letenka vyjde nejlevněji na 1300 Kč. 
+
+| Doprava | Cena | Doba na cestě |
+| --- | --- | --- |
+| Letenka | 200 € | 40 minut |
+| SeaJets (trajekt) | 90€ | 1:35 hodiny |
+| Blue Star Ferries (trajekt) | 16€ | 3:50 hodiny |
+
+Trajetk jezdí z Heraklionu v Pátek a Neděli.
+Zpátky jezdí v Soboru a Středu.
+
+Což není úplně ideální, protože musíte na ostrově strávit: Pátek - Středa, nebo Neděle - Středa.
+
+Ani s levnou letenkou to nejde pořádně nakombinovat a "Island hopping" nám také pořádně nevychází. 
+
+Zajímavé je, že pokud se rozhodnete letět na Santoriny z Berlína, nebo Vídně, tak vás letenka vyjde levněji a frekvence letů vyhází mnohem lépe. 
+
+Takže na Santoriny nejdeme.
 
 # 1650bc výbuch Santorini 
 Výbuch zdejší sopky před 3600 lety měl obrovský dopad na celou oblast, včetně Kréty, kde mělo nejspíše za následek první destrukci minojské civilizace. 
@@ -31,30 +54,9 @@ Podle Geretha je Santoriny místo pověstné Atlantidy.
 
 Nejspíše historický událost popsána z pohledu Egypta. Zničeny ostrovní civilizace může být Kréta, nebo Santoriiny samotné, kde bylo velké město. 
 
-
 ### Akrotiri (archeologické naleziště)
 
 Na santoriny najdete vykopávky, které jsou obdobně zachovalé jako Pompeje.
-
-# Doprava
-
-Mezi Heraklionem a Santorini se dá sehnat i přímý let, ale jeho cena je tak 2500Kč a trvá 40 minut. Za nejlevnější zpáteční letenku dá člověk zhruba 5000Kč. Některé napárovaní letenek tam a zpět člověka žene přes Atény (2:40h).
-
-Jednosmerná přímá letenka vyjde nejlevněji na 1300 Kč. 
-
-| Trajekt | Cena | Doba plavby |
-| --- | --- | --- |
-| SeaJets | 90€ | 1:35 hodiny |
-| Blue Star Ferries | 16€ | 3:50 hodiny |
-
-Trajetk jezí z Heraklionu v Pátek a Neděli.
-Zpátky jezdá v Soboru a Středu.
-
-Což není úplně ideální. Protože musíte na ostrově strávit Pátek - Středa, nebo Neděle - Středa.
-
-Ani s levnou letenkou to nejde pořádně nakombinovat a Iland hopping nám také pořádně nevychází. 
-
-Takže na santoriny nejdeme.
 
 # Co vidět na Santorini
 
@@ -65,7 +67,7 @@ Kdyby jste náhodou jeli, letěli, pluli. Tak tady je náš itinerář pro pří
 
 ## Akrotiri
 
-[Zde](https://mapy.com/s/kehuceseta)
+Mapa: [zde](https://mapy.com/s/kehuceseta)
 
 Jde o kompletně zachovalé minojské město z doby bronzové, které pohřbil sopečný prach. Domy měly několik pater, propracované vnitřní splachovací toalety a komplexní systém městské kanalizace vedený pod dlážděnými ulicemi. Celý areál je zastřešený moderní biosférickou konstrukcí, která uvnitř udržuje příjemné klima. 
 
