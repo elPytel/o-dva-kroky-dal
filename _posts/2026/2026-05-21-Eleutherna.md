@@ -93,3 +93,4 @@ Vesnička je velmi fotogenická a mají zde několik restauraci s místní huchy
 - [Museum of Ancient Eleutherna](https://mae.uoc.gr/)
 - [tripadvisor: Museum of Ancient Eleutherna](https://www.tripadvisor.com/Attraction_Review-g1193634-d10685963-Reviews-Museum_of_Ancient_Eleutherna-Eletherna_Rethymnon_Prefecture_Crete.html)
 - [Eleuternský most](https://cs.wikipedia.org/wiki/Eleuternský_most)
+- [Best Crete Destinations: Ancient Eleutherna](https://bestcretedestinations.gr/destination-item/ancient-eleutherna/)

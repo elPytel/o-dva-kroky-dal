@@ -14,6 +14,7 @@ tags:
 # Obash
 
 - [Obash](#obash)
+  - [Legenda](#legenda)
   - [Labyrint na kopci nedaleko Kastelli](#labyrint-na-kopci-nedaleko-kastelli)
   - [Jeskyně Skotino nedaleko Heraklionu](#jeskyně-skotino-nedaleko-heraklionu)
   - [Jeskyně Labyrint - Kamenolom u Gortyny](#jeskyně-labyrint---kamenolom-u-gortyny)
@@ -23,6 +24,9 @@ tags:
 
 ![Minotaurus a Perseus]({{ site.baseurl }}/assets/Greece/stare-recke-baje-a-povesti-eduard-petiska-Minotaurus_a_Perseus.webp)
 *Eduard Petiška - Staré řecké báje a pověsti*
+
+## Legenda
+
 
 ## Labyrint na kopci nedaleko Kastelli
 
