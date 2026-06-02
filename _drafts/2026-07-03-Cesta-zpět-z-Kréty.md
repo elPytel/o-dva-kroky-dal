@@ -12,7 +12,7 @@ tags:
 
 Rozdíl oproti Srbsku a Bulharsku je ovšem v profilu trasy: v Bulharsku (A1 Trakia) i Srbsku jsi drtil plynulé dálniční úseky. Jadranská trasa, obzvlášť v úseku Albánie a Černé Hory, dálnice nemá. Budete se proplétat horskými pasy, lokálními vesnicemi a překračovat několik "pomalých" celnic mimo EU, takže rychlostní průměr dramaticky klesá.
 
-Pokud bychom to měli trochu "šlápnout", dá se to rozložit na svižnější 3 dny:
+Zkontrolovali jsme že naše zelaná karta platí i do Albánie, Černé Hory, Bosny a Hercegoviny.
 
 ### Varianta "Svižný přejezd" (3 Dny)
 
