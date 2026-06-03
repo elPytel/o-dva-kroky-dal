@@ -4,8 +4,8 @@ title: "Výlet do Hradce Králové"
 description: 20 lvů a akvárko 
 categories: 
   - turistika
-  - Hradec Králové
 tags: 
+  - Hradec Králové
   - aquárium
   - muzeum
 thumbnail: /assets/fotky/IMG20251004164344.jpg

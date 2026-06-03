@@ -4,7 +4,7 @@ title: "Storage Spaces II"
 author: "Jarda"
 description: Další pokusy se Storage Spaces na Windows 11
 categories: 
-  - windows
+  - Windows
   - storage
 thumbnail: /assets/pc/Safe_data.png
 ---

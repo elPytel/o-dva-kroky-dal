@@ -5,7 +5,7 @@ author: "Jarda"
 description: Upgrade stolního počítače disky a paměti RAM
 categories: 
   - pc
-  - windows
+  - Windows
 thumbnail: /assets/pc/Disky.png
 ---
 

@@ -33,3 +33,18 @@ Hra obsahuje tři různé typi dopravních prostředků:
 Každý z těchto dopravních prostředků má své vlastní výhody a nevýhody, které hráči musí strategicky využívat, aby porazili své soupeře a doručili zboží do cíle jako první.
 
 Každá hráč může postavit několik různých dopravních prostředků a nezávisle na sobě je vylepšovat, což přidává další vrstvu strategie do hry.
+
+Herní suroviny:
+- 🌑 Uhlí
+- 🔴 Ruda
+- ⚙️ součástky
+- 🌾 obilý
+
+Hra je rozdělená do třech Epoch:
+- Epocha I (Dřevo a plachty),
+- Epocha II (Pára a železo),
+- Epocha III (Ocel).
+
+Pro každou Epochu jsou k dispozici vylepšení dopravních prostředků, které odrážejí technologický pokrok té doby a také úkoly, které musí hráči splnit.
+
+Hráči si mohou kupovat vylepšení z libovolné epochy, ale každá další epocha je dražší. 
