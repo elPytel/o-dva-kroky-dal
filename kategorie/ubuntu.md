@@ -1,7 +1,7 @@
 ---
 layout: category
-title: "Ubuntu"
-category: "Ubuntu"
+title: "ubuntu"
+category: "ubuntu"
 permalink: /kategorie/ubuntu/
 ---
 

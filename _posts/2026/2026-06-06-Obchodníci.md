@@ -19,7 +19,7 @@ Dělám návrh další deskové hry.
 
 Tentokrát kombinace obchodování, stavby vlastních dopravních prostředků a závodění o to, kdo první doručí zboží do cíle.
 
-Hra je zasazená do konce 19. století s alternativní historií, kde jsou hráčející stroje běžnou součástí života a technologie má lehký steampunkový nádech. 
+Hra je zasazená do konce 19. století s alternativní historií, kde jsou kráčející stroje běžnou součástí života a technologie má lehký steampunkový nádech. 
 
 ![Alps](https://raw.githubusercontent.com/elPytel/Traders/refs/heads/main/assets/alps.png)
 

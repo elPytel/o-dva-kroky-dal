@@ -186,7 +186,7 @@ Přestože papírově patří do profesionální RTX rodiny, Nvidia u ní musela
 
 ## X-VISION RTX 3050M 8GB Low Profile
 
-X‑VSION NVIDIA GeForce RTX 3050 Mobile GPU poskytuje vysoký výkon pro hráče i tvůrce obsahu. Je postavena na architektuře Ampere — druhé generaci RTX od NVIDIE — a přináší co nejrealističtější ray‑tracingovou grafiku a špičkové AI funkce, například NVIDIA DLSS.
+X‑VSION NVIDIA GeForce RTX 3050 Mobile GPU poskytuje vysoký výkon pro hráče i tvůrce obsahu. Je postavena na architektuře Ampere a přináší co nejrealističtější ray‑tracingovou grafiku a špičkové AI funkce, například NVIDIA DLSS.
 
 ![]({{ site.baseurl }}/assets/pc/X-Vision_rtx3050m.jpg)
 *X-VISION RTX 3050M 8GB Low Profile*
