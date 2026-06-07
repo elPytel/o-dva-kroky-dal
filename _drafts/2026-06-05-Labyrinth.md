@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Labyrint"
+title:  "Labyrint & Minotaurus"
 author: "Jarda"
 description: Pátrání po labyrintu, který se nachází na Krétě a je spojen s mýtem o Minotaurovi.
 categories: 
@@ -11,9 +11,9 @@ tags:
 ---
 
 
-# Obash
+# Obsah
 
-- [Obash](#obash)
+- [Obsah](#obsah)
   - [Legenda](#legenda)
   - [Labyrint na kopci nedaleko Kastelli](#labyrint-na-kopci-nedaleko-kastelli)
   - [Jeskyně Skotino nedaleko Heraklionu](#jeskyně-skotino-nedaleko-heraklionu)
