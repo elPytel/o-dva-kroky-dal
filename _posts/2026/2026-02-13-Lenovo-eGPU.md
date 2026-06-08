@@ -7,6 +7,7 @@ categories:
     - linux
     - egpu
     - NVIDIA
+    - HowTo
 tags: 
     - Ubuntu
     - lenovo

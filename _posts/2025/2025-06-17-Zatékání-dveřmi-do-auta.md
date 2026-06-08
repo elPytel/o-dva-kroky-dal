@@ -2,7 +2,9 @@
 layout: post
 title: "Zatékání dveřmi do auta"
 description: Peripetie s Fabii.
-categories: ["Fabie"]
+categories: 
+    - Fabie
+    - HowTo
 thumbnail: /assets/fotky/IMG_20250617_131539260_HDR.jpg
 ---
 

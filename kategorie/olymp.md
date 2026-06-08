@@ -1,7 +1,7 @@
 ---
 layout: category
-title: "olymp"
-category: "olymp"
+title: "Olymp"
+category: "Olymp"
 permalink: /kategorie/olymp/
 ---
 

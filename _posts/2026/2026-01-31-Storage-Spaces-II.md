@@ -6,6 +6,7 @@ description: Další pokusy se Storage Spaces na Windows 11
 categories: 
   - Windows
   - storage
+  - HowTo
 thumbnail: /assets/pc/Safe_data.png
 ---
 

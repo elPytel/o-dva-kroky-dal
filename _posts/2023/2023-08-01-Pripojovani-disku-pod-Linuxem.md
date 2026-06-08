@@ -6,6 +6,7 @@ description: "Jak připojit disky pod Linuxem"
 categories:
   - linux
   - storage
+  - HowTo
 thumbnail: /assets/Tux.png
 ---
 

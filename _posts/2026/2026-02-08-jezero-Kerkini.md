@@ -7,7 +7,8 @@ categories:
     - turistika
     - řecko
 tags: 
-    - jezero_kerkini
+    - jezero
+    - Kerkini
 thumbnail: /assets/fotky/2026/20260208_114531.webp
 ---
 

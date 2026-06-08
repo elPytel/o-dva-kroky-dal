@@ -6,6 +6,7 @@ description: Jak efektivně spravovat úložné prostory v systému Windows
 categories:
   - Windows
   - storage
+  - HowTo
 thumbnail: https://github.com/freemansoft/win10-storage-spaces/raw/main/images_folder/simple.png
 ---
 # Storage Space

@@ -5,6 +5,7 @@ author: "Jarda"
 description: 4 GB SWAPu dneska nestačí
 categories: 
     - linux
+    - HowTo
 tags: 
     - ubuntu
     - swap

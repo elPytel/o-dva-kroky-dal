@@ -1,7 +1,7 @@
 ---
 layout: category
-title: "thermopylae"
-category: "thermopylae"
+title: "Thermopylae"
+category: "Thermopylae"
 permalink: /kategorie/thermopylae/
 ---
 
