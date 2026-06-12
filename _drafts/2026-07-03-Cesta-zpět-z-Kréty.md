@@ -10,7 +10,7 @@ tags:
     - Atény
 ---
 
-Rozdíl oproti Srbsku a Bulharsku je ovšem v profilu trasy: v Bulharsku (A1 Trakia) i Srbsku jsi drtil plynulé dálniční úseky. Jadranská trasa, obzvlášť v úseku Albánie a Černé Hory, dálnice nemá. Budete se proplétat horskými pasy, lokálními vesnicemi a překračovat několik "pomalých" celnic mimo EU, takže rychlostní průměr dramaticky klesá.
+Rozdíl oproti Srbsku a Bulharsku je ovšem v profilu trasy: v Bulharsku (A1 Trakia) i Srbsku jsou plynulé dálniční úseky. Jadranská trasa, obzvlášť v úseku Albánie a Černé Hory, dálnice nemá. Budeme se proplétat horskými pasy, lokálními vesnicemi a překračovat několik "pomalých" celnic mimo EU, takže rychlostní průměr dramaticky klesne.
 
 Zkontrolovali jsme že naše zelaná karta platí i do Albánie, Černé Hory, Bosny a Hercegoviny.
 
@@ -29,4 +29,4 @@ Zkontrolovali jsme že naše zelaná karta platí i do Albánie, Černé Hory, B
 **Den 3: Dubrovník -> Mostar -> Tribunj (cca 330 km)**
 
 * Ráno sjezd z pobřeží do vnitrozemí. Rychlá dopolední zastávka u mostu v Mostaru.
-* Kolem oběda nájezd na chorvatskou dálnici (A1) a rychlý "dálniční sprint" (cca 2 hodiny), který perfektně ovládáte, až do Tribunje.
+* Kolem oběda nájezd na chorvatskou dálnici (A1) a rychlý "dálniční sprint" (cca 2 hodiny), až do Tribunje.
