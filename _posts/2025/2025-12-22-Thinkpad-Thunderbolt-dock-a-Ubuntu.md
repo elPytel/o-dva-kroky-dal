@@ -6,7 +6,7 @@ categories:
     - linux
     - Thinkpad
 tags: 
-    - ubuntu
+    - Ubuntu
     - lenovo
     - dock
 thumbnail: https://download.lenovo.com/km/media/images/ACC100348/usb-c%20111_20191220172516806.JPG

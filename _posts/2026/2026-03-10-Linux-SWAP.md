@@ -7,7 +7,7 @@ categories:
     - linux
     - HowTo
 tags: 
-    - ubuntu
+    - Ubuntu
     - swap
 thumbnail: /assets/pc/linux.png
 ---
