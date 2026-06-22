@@ -49,7 +49,7 @@ Když popojedete do staré Eleuthery, od tud je to klusek k antické cisteren a 
 ![]({{ site.baseurl }}/assets/Greece/20260521_152108.webp)
 *Staré olivovníky*
 
-Cisterny opravdu stojí za to vidět. Mají rozlohu odhadem tak 5x20x50 metrů. Je to celý podcemní sál. Trochu jse mpodcenil přípravu a vydal jsem se dolů jen se slunečními brýlemi. Pokud to zde chcete prozkoumat doporčuji vzít si sebou čelovku.
+Cisterny opravdu stojí za to vidět. Mají rozlohu odhadem tak 5x20x50 metrů. Je to celý podzemní sál. Trochu jsem podcenil přípravu a vydal jsem se dolů jen se slunečními brýlemi. Pokud to zde chcete prozkoumat doporčuji vzít si sebou čelovku.
 
 ![]({{ site.baseurl }}/assets/Greece/20260521_152307.webp)
 *Cisterny*
