@@ -5,7 +5,7 @@ author: "Jarda"
 description: Můj další web, tentokrát zaměřený na Linux.
 categories: 
     - programming
-    - GitHub
+    - Github
     - PSLIB
 tags: 
     - html
