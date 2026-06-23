@@ -42,4 +42,10 @@ make run
 
 Upravil jsem strukturu repozitáře.
 
-Přidal jsem generování dokumentace pomocí Doxygenu. 
+Přidal jsem generování dokumentace pomocí Doxygenu, která se přes Github Actions automaticky generuje a je dostupná na adrese: [Die-Kurve](https://elPytel.github.io/Die-Kurve/).
+
+TODO:
+- [ ] Přidat dokumentaci k jednotlivým funkcím
+- [ ] Opravit emulator, aby se správně spouštěl na Linuxu a nezamrznul
+- [ ] Přidat škálování okna, aby se hra dala hrát i na větších obrazovkách
+- [ ] alternativní ovládání pro PC (např. WSAD)
