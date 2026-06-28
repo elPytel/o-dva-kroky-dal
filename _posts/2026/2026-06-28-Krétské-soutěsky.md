@@ -9,6 +9,7 @@ categories:
 tags: 
     - Gorge
     - soutěska
+thumbnail: /assets/Greece/20260405_134148.webp
 ---
 
 Na Krétě se nachází několik impozatnních soutěsek, které stojí za návštěvu. Ty nejznámější jsou:
@@ -59,7 +60,7 @@ Převýšení: 200 m
 
 <iframe style="border:none" src="https://mapy.com/s/dematesetu" width="720" height="300" frameborder="0"></iframe>
 
-Náš výlet: [Milona Gorge]({{ site.baseurl }}{% link _posts/2026-04-05-Milona-Gorge %})
+Náš výlet: [Milona Gorge]({{ site.baseurl }}{% post_url 2026/2026-04-05-Milona-Gorge %})
 
 ## Kourtaliotiko Gorge
 
