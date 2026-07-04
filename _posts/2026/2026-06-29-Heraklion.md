@@ -105,13 +105,11 @@ Katedrála svatého Minase, postavená v roce 1895, je jedním z největších �
 
 ## A další místa
 
-
 ![]({{ site.baseurl }}/assets/Greece/20260307_163450.webp)
+*trafika s motivem akrobatů a býka*
+
 ![]({{ site.baseurl }}/assets/Greece/20260307_165358.webp)
 
-
-![]({{ site.baseurl }}/assets/Greece/20260304_211050.webp)
-![]({{ site.baseurl }}/assets/Greece/20260304_211123.webp)
 ![Univerzita]({{ site.baseurl }}/assets/Greece/20260306_145020.webp)
 *Univerzita*
 
