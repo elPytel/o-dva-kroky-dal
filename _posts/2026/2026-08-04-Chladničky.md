@@ -7,6 +7,7 @@ categories:
     - nzf
 tags: 
     - ledničky
+thumbnail: /assets/nzf/Absorpční_chladnička.jpg
 ---
 
 # Technologický přehled ledniček
