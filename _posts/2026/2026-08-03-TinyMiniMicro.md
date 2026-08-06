@@ -12,13 +12,11 @@ thumbnail: /assets/pc/p330/P330.avif
 ---
 
 # Výběr nového počítače
-
 - [Výběr nového počítače](#výběr-nového-počítače)
   - [M720q Tiny](#m720q-tiny)
   - [M920q Tiny](#m920q-tiny)
   - [P330 Tiny](#p330-tiny)
   - [Nákup](#nákup)
-    - [Jak jsem nakonfiguroval P330 po nákupu?](#jak-jsem-nakonfiguroval-p330-po-nákupu)
   - [Možnost rozšíření TiniMiniMicro (TMM) o grafickou kartu](#možnost-rozšíření-tiniminimicro-tmm-o-grafickou-kartu)
   - [Reference:](#reference)
 
@@ -81,17 +79,6 @@ Našel jsem nabídku na Aukro:
 | P330 Tiny | 4 300 Kč |
 
 Vzhledem k nejlepší výbavě u P330 a ne o tolik vyšší ceně jsem se rozhodl pro **P330 Tiny**.
-
-### Jak jsem nakonfiguroval P330 po nákupu?
-
-| Parametr | Hodnota |
-| --- | --- |
-| Procesor | Intel Core i5-8500T 6c/6t 2.1GHz (4.1GHz Turbo) |
-| RAM | 24 GB DDR4 2666MHz (8+16GB) |
-| 1. M.2 NVMe | 1 TB Intel 660P |
-| 2. M.2 NVMe | Optane 16 GB |
-
-Jako operační systém jsem zvolil Ubuntu 26.04 LTS. Na Optane bude klasicky SWAP. 
 
 ## Možnost rozšíření TiniMiniMicro (TMM) o grafickou kartu
 Pro zapojení GPU budu potřebovat vnitřní pravoúhlou PCIe Riser kartu, konkrétní FRU číslo (označení dílu):
