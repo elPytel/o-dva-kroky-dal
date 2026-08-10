@@ -12,6 +12,10 @@ thumbnail: /assets/pc/ctecka_otisku_prstu_sudo.png
 
 Pokud máte notebook s čtečkou otisku prstu, můžete si ji nastavit pro odemykání počítače. Stačí mít nainstalovaný balíček `fprintd` a zkontrolovat, zda je váš model podporován. Nevýhoda na kterou brzo narazíte je ta, že čtečka je podporována jen pro odemykání počítače a ale nedoekne vám klíčenku s hesly. To znamená, že při prvním přihlášení do systému po použití otisku zadáte stejně ještě heslo a tím se odemkne klíčenka. Což samo o sobě trochu postrádá komfort čtečky otisku prstu.
 
+```bash
+sudo apt install fprintd libpam-fprintd
+```
+
 Jednoduché řešení může být smazání hesla z klíčenky a používat jen otisk. To je ale bezpečnostní riziko.
 
 Pokud se vám tedy nechce dešifrovat klíčenku, dává smysl otisk používat tam, kde klíčenka nehraje roli, tedy například při probuzení uspaného notebooku nebo v terminálu při zadávání sudo. Používání otisku pro sudo v konfiguraci s Sysadmin mindsetem vyloženě potěší.
