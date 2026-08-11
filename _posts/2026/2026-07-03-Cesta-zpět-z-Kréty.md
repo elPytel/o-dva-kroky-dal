@@ -39,6 +39,7 @@ Zkontrolovali jsme že naše zelaná karta platí i do Albánie, Černé Hory, B
       - [Kotor](#kotor)
   - [Den 3: Igalu ➡️ Dubrovník ➡️ Mostar ➡️ Tribunj (300 km)](#den-3-igalu-️-dubrovník-️-mostar-️-tribunj-300-km)
     - [Dubrovník](#dubrovník)
+      - [Hra o trůny](#hra-o-trůny)
     - [Bosna a Hercegovina](#bosna-a-hercegovina)
       - [Mostart - most](#mostart---most)
 
@@ -96,6 +97,15 @@ Albanie přepočet měny:
 *Golem - hotely*
 ![]({{ site.baseurl }}/assets/Greece/20260630_233206.webp)
 *Golem - poplatky*
+
+| Poškozený předmět | Poplatek |
+| ------- | -------- |
+| ručník  | 15€ |
+| matrace | 150€ |
+| televize | 200€ |
+| dveře | 200€ |
+
+Před odjezdem z hotelu jsme si nafotili celý pokoj, aby jsme měli přídaně důkazní materiál, že jsme nic nepoškodili.
 
 ## Den 2: Mali i Robit ➡️ Igalu (314 km)
 I když to vypadá jako "jen" 314 kilometrů, tohle bude paradoxně časově nejnáročnější den. Jadranská magistrála v kombinaci s koncem června znamená hustý provoz a průměrnou rychlost kolem 50 km/h. Navíc nás čekaly další hranice (AL/MNE) kde jsme strávili aspoň 30 minut. Opět náš s českými občankami nikdo neřešil. Čistý čas jízdy bez čekání je kolem 7 až 8 hodin.
@@ -161,7 +171,6 @@ Velmi pěkné staré město. Posloužilo jako kulisa pro natáčení Game of Thr
 
 Auto jsme nechali v podzemních garáží za 7€ na hodinu, bylo to blízko centra a bližší parkování stojí 20€ na hodinu...
 
-
 ![]({{ site.baseurl }}/assets/Greece/20260702_115202.webp)
 *Dubrovník - Hradby z venčí*
 ![]({{ site.baseurl }}/assets/Greece/20260702_115903.webp)
@@ -170,6 +179,23 @@ Auto jsme nechali v podzemních garáží za 7€ na hodinu, bylo to blízko cen
 *Pevnost v přístavu*
 ![]({{ site.baseurl }}/assets/Greece/20260702_124859.webp)
 *Dubrovník - hra o trůny*
+
+#### Hra o trůny
+
+![]({{ site.baseurl }}/assets/Greece/game-of-thrones-season5.jpg)
+*Ulička hanby*
+
+Ulice sedí jedna ku jedné s kulisou z Game of Thrones. Jen obrovský hrad v dáli je digitálně dodělaný.
+
+![]({{ site.baseurl }}/assets/Greece/game-of-thrones-season8.jpg)
+
+Město Dubrovník jde zde několikrát nakopírovaný vedle sebe a hrad je CGI.
+
+![]({{ site.baseurl }}/assets/Greece/Dubrovnik_2.jpg)
+*Město z ptačí perspektivy*
+
+![]({{ site.baseurl }}/assets/Greece/Dubrovnik_1.jpg)
+*Přístav, který si zahrál v Game of Thrones*
 
 ### Bosna a Hercegovina
 Všude berou Euro 💶 (hotovost), přepočet na místní měnu ie jednoduchý a berou 2 marky jako jedno Euro. Mají nové silnice na hlavních tazích a už staví dálniční síť. 

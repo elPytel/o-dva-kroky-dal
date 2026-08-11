@@ -12,7 +12,7 @@ tags:
 thumbnail: /assets/jak_na_Linux.png
 ---
 
-Můj další web, který jsem dělal do školy byl zaměřený na Linux a psaní webu jako takového. Cílem bylo vytvořit několi kstránek, které na sebe budou navzájem odkazovat a budou mít relevantní obsah. 
+Můj další web, který jsem dělal do školy byl zaměřený na Linux a psaní webu jako takového. Cílem bylo vytvořit několik stránek, které na sebe budou navzájem odkazovat a budou mít relevantní obsah. 
 
 ![]({{ site.baseurl }}/assets/jak_na_Linux.png)
 *Obrázek z webu Jak na Linux*
