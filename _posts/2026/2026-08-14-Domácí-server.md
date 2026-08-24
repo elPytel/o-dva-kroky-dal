@@ -28,7 +28,7 @@ thumbnail: /assets/Proxmox_logo.png
 
 ## Zrušení Fast Boot
 
-> [!info]
+{: .info }
 > Aby bylo možné po instalaci Proxmoxu připojit disky je nutné zrušit Fast Boot, jinak se disky budou zobrazovat jako "dirty" a nebude možné na ně zapisovat.
 
 ```powershell
@@ -63,9 +63,10 @@ Veškerá data z disků, která jsem si chtěl zachovat jsem zálohoval na exter
 
 ## Rozdělení disků
 
-> [!tip] Výběr plotnových disků:
-- Chtějte CMR (Conventional Magnetic Recording)
-- Vyhnete se SMR (Shingled Magnetic Recording)
+{: .tip } 
+> Výběr plotnových disků:
+> - Chtějte CMR (Conventional Magnetic Recording)
+> - Vyhnete se SMR (Shingled Magnetic Recording)
 
 Do budoucna plánuji dokoputit 8TB disk na Filmy.
 
@@ -77,7 +78,7 @@ Do budoucna plánuji dokoputit 8TB disk na Filmy.
 | POOL_MEDIA   | 1x 8TB (Single)   | 8 TB         | Streamování  (filmy, seriály).               |
 
 Samsung (dříve disk C:) poslouží jako čistý systémový disk Proxmoxu. 
-A co redundace? Tady se vydám cestuu zálohování. Zásadní je nepřijít o nastavení virtuálek a kontejnerů. Zálohy (tzv. Proxmox backupy) si budou automaticky vytvářet na hlavní redundantní úložiště (3x 3TB disky v režimu RAID-Z1).
+A co redundace? Tady se vydám cestou zálohování. Zásadní je nepřijít o nastavení virtuálek a kontejnerů. Zálohy (tzv. Proxmox backupy) si budou automaticky vytvářet na hlavní redundantní úložiště (3x 3TB disky v režimu RAID-Z1).
 
 Intel 1TB nechám jako samostatné, bleskově rychlé úložiště bez redundance. Poběží na něm Bazzite (SteamOS), herní servery a kontejnery. Proxmox nastavím tak, aby každý den ve 3 ráno udělal snapshot celého Intel disku a bezpečně ho zazálohoval na velké 6TB HDD pole.
 
@@ -131,20 +132,20 @@ Proxmox je open-source a zdarma, ale ve výchozím stavu se snaží stahovat akt
 
 V Proxmoxu v sekci **Disks** jsem vybral všechny 3TB disky. A kliknutím na **Wipe Disk** u všech 3TB disků jsem odstranil zbytky Windows Storage Spaces.
 
-ZFS je v Proxmoxu standard. Pro 3x 3TB disky je **RAID-Z1** ideální volbou.
+ZFS je v Proxmoxu standard. Pro 3x 3TB disky je RAID-Z1 ideální volbou.
 
 V kontextu Proxmoxu a linuxových disků se pojmy **RAIDZ** a **RAID-Z1** často zaměňují, ale technicky vzato jde o jedno a totéž.
 
 Co znamená RAID-Z?
 
-* **RAID-Z1** je konkrétní **úroveň** pole v souborovém systému ZFS (obdoba klasického RAID 5). Číslo "1" na konci znamená paritu pro selhání **jednoho** disku. Znamená to, že může bezpečně umřít libovolný jeden disk z pole, aniž bys přišel o data.
+* **RAID-Z1** je konkrétní úroveň pole v souborovém systému ZFS (obdoba klasického RAID 5). Číslo "1" na konci znamená paritu pro selhání **jednoho** disku. Znamená to, že může bezpečně umřít libovolný jeden disk z pole, aniž bys přišel o data.
 * **RAIDZ** (nebo také `raidz`) je obecné označení pro celou rodinu ZFS RAIDů s paritou, kam spadá **RAID-Z1** (1 paritní disk), **RAID-Z2** (2 paritní disky, obdoba RAID 6) a **RAID-Z3** (3 paritní disky).
 
 Konfigurace ZFS poolu:
 * **Datacenter -> [název uzlu] -> ZFS -> Create: ZFS**.
 * **Name:** `data_pool` (nebo dle libosti).
 * **RAID Level:** **raidz1**.
-* **Add Storage:** Zaškrtnul všechny tři 3TB disky.
+* **Add Storage:** Zaškrtnul jsem všechny tři 3TB disky.
 
 LZ4 proč data komprimovat?
 
@@ -156,9 +157,12 @@ LZ4 proč data komprimovat?
 
 Optane pro zrychlení systému Proxmoxu:
 
-`mkswap /dev/nvme_optane_disk`
-`swapon /dev/nvme_optane_disk`
-1. Přidej ho do `/etc/fstab`, aby se připojoval po restartu.
+```
+mkswap /dev/nvme_optane_disk
+swapon /dev/nvme_optane_disk
+```
+
+A přidal jsem ho do `/etc/fstab`, aby se připojoval po restartu.
 
 
 ## SMB

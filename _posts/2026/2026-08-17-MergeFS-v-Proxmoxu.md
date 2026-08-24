@@ -52,7 +52,7 @@ UUID=76983C84983C4541 /mnt/Toshiba_2 ntfs-3g defaults,nofail,uid=1000,gid=1000,d
 /mnt/Toshiba_1:/mnt/Toshiba_2 /mnt/pool_movies fuse.mergerfs defaults,allow_other,use_ino,category.create=mfs,minfreespace=10G,fsname=pool_movies 0 0
 ```
 
-*Význam důležitých voleb mergerfs:*
+Význam důležitých voleb mergerfs:
 * `allow_other`: Umožní přístup k souborům i ostatním uživatelům/procesům (např. Samba, Plex/Jellyfin, LXC).
 * `use_ino`: Zachovává konzistentní inode čísla, nutné pro správnou funkci Samby a médií.
 * `category.create=mfs`: Nové soubory se zapisují na disk s největším volným místem (*most free space*).
@@ -100,7 +100,7 @@ Otevři konfiguraci Samby:
 vim /etc/samba/smb.conf
 ```
 
-Přidej definici nového sdílení na konec souboru:
+Definice nového sdílení přidaná na konec souboru:
 
 ```ini
 [Movies]
@@ -115,7 +115,8 @@ Přidej definici nového sdílení na konec souboru:
    force group = smbuser
 ```
 
-*(Pokud pro přístup používáš jiného uživatele než `smbuser`, uprav položky `valid users`, `force user` a `force group` podle potřeby).*
+{: .note }
+> Pokud pro přístup používáte jiného uživatele než `smbuser`, uprav položky `valid users`, `force user` a `force group` podle potřeby.
 
 Zkontroluj syntaxi a restartuj službu:
 
