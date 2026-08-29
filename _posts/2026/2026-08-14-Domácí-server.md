@@ -20,6 +20,7 @@ thumbnail: /assets/Proxmox_logo.png
   - [Konfigurace Proxmoxu](#konfigurace-proxmoxu)
     - [Zkrocení repozitářů (Odchod z Enterprise)](#zkrocení-repozitářů-odchod-z-enterprise)
     - [První velká aktualizace](#první-velká-aktualizace)
+    - [Odstranění vyskakovacího okna "No valid subscription"](#odstranění-vyskakovacího-okna-no-valid-subscription)
     - [Konfigurace disků do poolu](#konfigurace-disků-do-poolu)
     - [Optane 32GB jako SWAP](#optane-32gb-jako-swap)
   - [SMB](#smb)
@@ -127,6 +128,28 @@ Proxmox je open-source a zdarma, ale ve výchozím stavu se snaží stahovat akt
 * V prostředním sloupci klikněte na samotné **Updates**.
 * Nahoře klikněte na **Refresh** (stáhne se seznam novinek, až to doběhne na `TASK OK`, okno zavři).
 * Následně klikněte na tlačítko **Upgrade**. Vyskakovací okno ti otevře linuxovou konzoli, kde jen napíšeš `Y` a potvrdíte Enterem.
+
+### Odstranění vyskakovacího okna "No valid subscription"
+Pro odstranění vyskakovacího okna „No valid subscription“ stačí upravit JavaScriptový soubor vykreslující rozhraní a restartovat webovou službu.
+
+1. Přihlaste se na svůj Proxmox server přes SSH (případně otevřete Shell přímo ve webovém rozhraní).
+2. Spusťte následující příkaz. Automaticky vytvoří zálohu souboru (s koncovkou `.bak`), najde část kódu volající okno a elegantně ji zakomentuje pomocí `void()`:
+
+```bash
+sed -Ezi.bak "s/(Ext.Msg.show\(\{\s+title: gettext\('No valid subscription'\),)/void\(\{ \/\/\1/g" /usr/share/javascript/proxmox-widget-toolkit/proxmoxlib.js
+```
+
+3. Restartujte službu webového rozhraní pro aplikování změn:
+
+```bash
+systemctl restart pveproxy.service
+```
+
+4. **Klíčový krok:** Vymažte mezipaměť prohlížeče (např. pomocí `Ctrl+F5` nebo `Cmd+Shift+R`). Prohlížeče si původní JS soubor agresivně kešují a bez promazání se hláška bude z historických dat zobrazovat dál.
+
+{: .info } 
+> Pozor: Aktualizace to přepíše: 
+> Kdykoliv Proxmox vydá aktualizaci balíčku `proxmox-widget-toolkit`, upravený soubor se přepíše originálem a hláška se vrátí.
 
 ### Konfigurace disků do poolu
 

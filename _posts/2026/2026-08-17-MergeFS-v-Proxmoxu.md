@@ -5,6 +5,7 @@ author: "Jarda"
 description: Připojení dvou NTFS disků do jednoho sjednoceného poolu pomocí MergeFS
 categories: 
     - Homelab
+    - Proxmox
     - storage
 tags: 
     - MergerFS
