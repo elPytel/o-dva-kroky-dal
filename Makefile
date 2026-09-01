@@ -67,7 +67,7 @@ doctor: build
 
 serve: gen-categories
 	@printf "$(CYAN)Serving site (live reload)...$(RESET)\n"
-	bundle exec jekyll serve
+	bundle exec jekyll serve --incremental
 
 # image processing
 rotate-images: $(ROW_IMAGES_FOLDER)
