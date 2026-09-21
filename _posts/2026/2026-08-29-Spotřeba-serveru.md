@@ -178,3 +178,7 @@ Spotřebu jsem tak v IDLE snížil z 70 W na 54 W. Pokud se Zalman vypne o půln
 | Bazzite IDLE (powersave + GPU P8) | 55 W | 1.320 kWh |
 | Disky uspány (MergerFS)  | 53 W | 1.272 kWh |
 | Vypínání na většinu dne | 53 W | 0.370 kWh |
+
+{: .tip } 
+> Při nastavování automatického vypíná vedl čas přesně o půlnoci k nečekanému chování. Server se vypl jen z části Proxmox se vypl ale HW se úspěšně neukončil a stroj zůstal bežet se spotřebou 40W. Pravděpodobně se byjí rutiny spuštěné Debianem o půlnoci. 
+> Řešením je nastavit vypínání na 23:50, aby se joby nestihly překrýt.
