@@ -9,7 +9,7 @@ categories:
 tags: 
     - Audiobookshelf
     - IaC
-thumbnail: /assets/Audiobookshelf_logo.png
+thumbnail: /assets/Audiobookshelf_logo.webp
 ---
 
 - [Nasazení Audiobookshelf v Proxmox homelabu přes Ansible](#nasazení-audiobookshelf-v-proxmox-homelabu-přes-ansible)
@@ -45,7 +45,7 @@ Moje sbírka audioknih leží na síťovém SMB disku přímo na Zalmanovi (`//1
 3. Dodržet princip nejnižších privilegií (*Principle of Least Privilege*) – tedy žádný kontejner běžící pod `rootem` nebo jedním globálním uživatelem.
 
 > [!note]
-> Do budoucna plánují samostatnou virtuálku na které poběží jen SMB server, aby byla oddělena od Proxmox hypervizoru a dalších služeb.
+> Do budoucna plánuji samostatnou virtuálku na které poběží jen SMB server, aby byla oddělena od Proxmox hypervizoru a dalších služeb.
 
 ### Jak jsem to vyřešil:
 
@@ -88,7 +88,7 @@ services:
 
 *(Poznámka: Konfiguraci a metadata držíme přímo na rychlém lokálním NVMe disku virtuálky v `/opt`, zatímco těžká média si kontejner tahá přes síť ze Samby).*
 
-Teď už Audiobookshelf spokojeně běží na portu `13378`, indexuje stávající knihovnu a já mám v Gitu připravenou šablonu, podle které v dalších krocích úplně stejně nasdím zbytek mediálního stacku.
+Teď už Audiobookshelf spokojeně běží na portu `13378`, indexuje stávající knihovnu a já mám v Gitu připravenou šablonu, podle které v dalších krocích úplně stejně nasadím zbytek mediálního stacku.
 
 ## Reference
 
@@ -96,6 +96,6 @@ Použil jsem:
 - [Ansible suite](https://github.com/ansible-suite) - Hynkovu organizaci pro Ansible role a playbooky
   - [Ansible site](https://github.com/ansible-suite/ansible-site) - repo s konfigurací pro Ansible
   - [Ansible Role: smb_mounts](https://github.com/ansible-suite/ansible-role-smb-mounts) - role pro připojení SMB disků
-  - [Ansible Role: apt_thirdparty](https://github.com/ansible-suite/ansible-role-apt_thirdparty) - role pro přidání třetích stran repozitářů (např. Docker)
+  - [Ansible Role: apt_thirdparty](https://github.com/ansible-suite/ansible-role-apt_thirdparty) - role pro přidání repozitářů třetích stran (např. Docker)
 - [Moje homelab repo](https://github.com/elPytel/homelab-ansible-site) - Můj vlastní repozitář s Ansible playbooky pro homelab
 - [Audiobookshelf](https://audiobookshelf.org/)

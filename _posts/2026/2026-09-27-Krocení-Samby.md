@@ -8,6 +8,7 @@ categories:
     - Proxmox
 tags: 
     - SMB
+thumbnail: /assets/smb_logo.png
 ---
 
 Serve se v 23:55 vypíná abych šetřil proud. Ráno manuálně stolák zapnu. Proxmox naběhně, roztočí virtuálky, kontejnery se spustí... 
