@@ -53,19 +53,23 @@ install: install-deps $(ROW_IMAGES_FOLDER)
 	@printf "$(CYAN)Installing Ruby gems...$(RESET)\n"
 	bundle install
 
+GEN-CATEGORIES = Generate category pages
 gen-categories: $(KATEGORIES_FOLDER) word-count
 	@printf "$(CYAN)Generating category pages...$(RESET)\n"
 	@python3 $(SCRIPTS_FOLDER)/generate_category_pages.py
 
+BUILD = Build the site
 build: gen-categories
 	@printf "$(CYAN)Building site...$(RESET)\n"
 	bundle exec jekyll build
 
+DOCTOR = Run Jekyll doctor to check for issues
 doctor: build
 	@printf "$(CYAN)Running Jekyll doctor...$(RESET)\n"
 	bundle exec jekyll doctor
 
-serve: gen-categories
+SERVE = Serve the site with live reload
+serve: build 
 	@printf "$(CYAN)Serving site (live reload)...$(RESET)\n"
 	bundle exec jekyll serve --incremental
 
@@ -118,3 +122,17 @@ clean:
 	rm -rf $(KATEGORIES_FOLDER)/*
 	@printf "$(CYAN)Cleaning generated word count...$(RESET)\n"
 	rm -rf $(GENERATED_FOLDER)/*
+
+help:
+	@printf "$(CYAN)Available targets:$(RESET)\n"
+	@printf "  $(BOLD)install$(RESET)             - Install dependencies and Ruby gems\n"
+	@printf "  $(BOLD)gen-categories$(RESET)      - ${GEN-CATEGORIES}\n"
+	@printf "  $(BOLD)build$(RESET)               - ${BUILD}\n"
+	@printf "  $(BOLD)serve$(RESET)               - ${SERVE}\n"
+	@printf "  $(BOLD)rotate-images$(RESET)       - Rotate images in '$(ROW_IMAGES_FOLDER)'\n"
+	@printf "  $(BOLD)move-originals$(RESET)      - Move original images to '$(ROW_IMAGES_FOLDER)/$(TO_REMOVE_FOLDER)'\n"
+	@printf "  $(BOLD)resize-images$(RESET)       - Resize images in '$(ROW_IMAGES_FOLDER)' to WebP format\n"
+	@printf "  $(BOLD)keep-to-simplenote$(RESET)  - Convert Google Keep notes to Simplenote format\n"
+	@printf "  $(BOLD)keep-json-to-recipe$(RESET) - Convert Keep JSON recipes to markdown\n"
+	@printf "  $(BOLD)word-count$(RESET)          - Calculate word count of posts\n"
+	@printf "  $(BOLD)clean$(RESET)               - Clean generated files\n"
