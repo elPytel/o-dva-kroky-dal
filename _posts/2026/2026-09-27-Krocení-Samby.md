@@ -11,7 +11,7 @@ tags:
 thumbnail: /assets/smb_logo.png
 ---
 
-Serve se v 23:55 vypíná abych šetřil proud. Ráno manuálně stolák zapnu. Proxmox naběhně, roztočí virtuálky, kontejnery se spustí... 
+Server se v 23:55 vypíná abych šetřil proud. Ráno manuálně stolák zapnu. Proxmox naběhně, roztočí virtuálky, kontejnery se spustí... 
 
 Ale Samba se nepřipojí...
 
@@ -39,7 +39,7 @@ mnt-data.mount +656ms
                           └─-.slice @431ms
 ```
 
-Nejdůležitější je ten sudo journalctl. Z předchozího výstupu už víme:
+Z předchozího výstupu už víme:
 
 ```txt
 networking.service @1.756s +357ms
@@ -49,7 +49,7 @@ mnt-data.mount +656ms
 
 Takže `network-online.target je zde prakticky` jen „networking.service skončila“, nikoliv „ens18 má funkční konektivitu“. To přesně vysvětluje Network is unreachable.
 
-Současný critical-chain už ukazuje, že pokus s `After=networking.service` skutečně funguje z pohledu pořadí — SMB mount je až po networking.service. Jenže to pořadí samo o sobě nestačí.
+Současný critical-chain už ukazuje, že pokus s `After=networking.service` skutečně funguje z pohledu pořadí: SMB mount je až po networking.service. Jenže to pořadí samo o sobě nestačí.
 
 Nastavíme tedy `ifupdown-wait-online.service` a necháme ho čekat na konkrétní interface, který má být online. V mém případě je to `ens18`.
 

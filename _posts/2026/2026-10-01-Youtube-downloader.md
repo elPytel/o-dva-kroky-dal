@@ -2,7 +2,7 @@
 layout: post
 title:  "Youtube downloader"
 author: "Jarda"
-description: Požití yt-dlp pro stahování videí z Youtube
+description: Použití yt-dlp pro stahování videí z Youtube
 categories: 
     - Youtube
 tags: 
