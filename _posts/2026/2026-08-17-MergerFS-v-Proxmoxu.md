@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "MergeFS v Proxmoxu"
+title:  "MergerFS v Proxmoxu"
 author: "Jarda"
 description: Připojení dvou NTFS disků do jednoho sjednoceného poolu pomocí MergeFS
 categories: 

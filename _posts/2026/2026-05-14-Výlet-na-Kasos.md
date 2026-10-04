@@ -5,7 +5,7 @@ author: "Jarda"
 description: Cesta trajektem na řecký ostrov Kasos a zpět.
 categories: 
     - erasmus
-    - řecko
+    - Řecko
     - Kasos
 tags: 
     - trajekt
