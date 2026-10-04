@@ -16,7 +16,7 @@ thumbnail: /assets/Audiobookshelf_logo.webp
   - [Architektura: Čistý hypervizor a dedikovaný Docker-runner](#architektura-čistý-hypervizor-a-dedikovaný-docker-runner)
   - [Bezpečnost na prvním místě: SMB, Least Privilege a UID/GID](#bezpečnost-na-prvním-místě-smb-least-privilege-a-uidgid)
     - [Jak jsem to vyřešil:](#jak-jsem-to-vyřešil)
-  - [Peklo s balíčky v čistém Debianu (`docker.io` vs. `docker-ce`)\*\*](#peklo-s-balíčky-v-čistém-debianu-dockerio-vs-docker-ce)
+  - [Peklo s balíčky v čistém Debianu (`docker.io` vs. `docker-ce`)](#peklo-s-balíčky-v-čistém-debianu-dockerio-vs-docker-ce)
   - [Výsledný stav a struktura v Gitu](#výsledný-stav-a-struktura-v-gitu)
   - [Reference](#reference)
 
@@ -54,11 +54,10 @@ Moje sbírka audioknih leží na síťovém SMB disku přímo na Zalmanovi (`//1
 * **Selektivní Bind Mounts:** Celý SMB share se přes Ansible roli a *Ansible Vault* (pro šifrování hesel v Gitu) připojí na `Docker-runner` do `/mnt/data` s právy nastavenými pro skupinu `media_shared`. Do samotného Docker kontejneru ale nepropisujeme celý disk – namapujeme mu přes *volumes* exkluzivně jen podsložky `/mnt/data/Audio knihy` a `/mnt/data/Podcasts`. O existenci okolních složek nemá kontejner ani tušení.
 * **SGID bit:** Složkám jsem v Ansible nastavil práva `2775` (SGID), což zaručuje, že jakýkoliv nově vytvořený soubor automaticky zdědí skupinu `2000` a ostatní služby s ním nebudou mít problém pracovat.
 
-## Peklo s balíčky v čistém Debianu (`docker.io` vs. `docker-ce`)**
+## Peklo s balíčky v čistém Debianu (`docker.io` vs. `docker-ce`)
 Výchozí repozitáře Debianu obsahují starší balíčky `docker.io` a `docker-compose`, které vůbec neobsahují moderní plugin `docker-compose-plugin` (Compose V2). Když jsme následně přes vlastní Ansible roli přidali oficiální repozitář Dockeru (ve formátu `deb822`), instalace havarovala na konfliktu v `dpkg`, protože nový `docker-compose-plugin` se snažil přepsat binárku ze starého balíčku `docker-compose`. 
 
 **Řešení:** Na čistý Debian nikdy neinstalujte Docker z výchozích distribučních repozitářů. Rovnou přidejte oficiální Docker repozitář a instalujte sadu `docker-ce`, `docker-ce-cli`, `containerd.io` a `docker-compose-plugin`.
-
 
 ## Výsledný stav a struktura v Gitu
 
