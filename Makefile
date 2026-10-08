@@ -1,17 +1,13 @@
 # Makefile: helper targets to generate categories before Jekyll build/serve
 
-SCRIPTS_FOLDER=scripts
+SCRIPTS_FOLDER   =scripts
 KATEGORIES_FOLDER=kategorie
 ROW_IMAGES_FOLDER=big_photos
-TO_REMOVE_FOLDER=to-remove
-GENERATED_FOLDER=generated
+TO_REMOVE_FOLDER =to-remove
+GENERATED_FOLDER =generated
 
 KEEP_SRC=./dont_include/Keep
 
-# Enable colored output (1 = on, 0 = off)
-ENABLE_COLOR ?= 1
-
-ifeq ($(ENABLE_COLOR),1)
 RED    := $(shell printf '\033[0;31m')
 GREEN  := $(shell printf '\033[0;32m')
 YELLOW := $(shell printf '\033[0;33m')
@@ -20,16 +16,6 @@ PURPLE := $(shell printf '\033[0;35m')
 CYAN   := $(shell printf '\033[0;36m')
 BOLD   := $(shell printf '\033[1m')
 RESET  := $(shell printf '\033[0m')
-else
-RED    :=
-GREEN  :=
-YELLOW :=
-BLUE   :=
-PURPLE :=
-CYAN   :=
-BOLD   :=
-RESET  :=
-endif
 
 POST_FILES := $(shell find _posts -type f -name '*.md')
 
@@ -47,10 +33,12 @@ $(ROW_IMAGES_FOLDER)/$(TO_REMOVE_FOLDER):
 	mkdir -p $(ROW_IMAGES_FOLDER)/$(TO_REMOVE_FOLDER)
 
 # jekyll
+INSTALL-DEPS = Install dependencies
 install-deps:
 	@printf "$(CYAN)Installing dependencies...$(RESET)\n"
 	./install_dependencies.sh
 
+INSTALL = Install dependencies and Ruby gems
 install: install-deps $(ROW_IMAGES_FOLDER)
 	@printf "$(CYAN)Installing Ruby gems...$(RESET)\n"
 	bundle install
@@ -118,8 +106,10 @@ generated/word_count.txt: $(POST_FILES) $(SCRIPTS_FOLDER)/count_words.sh
 	@./$(SCRIPTS_FOLDER)/count_words.sh -p
 	@./$(SCRIPTS_FOLDER)/count_words.sh -p > $@
 
+WORD-COUNT = Calculate word count of posts
 word-count: generated/word_count.txt
 
+Clean = Clean generated files
 clean:
 	@printf "$(CYAN)Cleaning generated category pages...$(RESET)\n"
 	rm -rf $(KATEGORIES_FOLDER)/*
@@ -128,7 +118,7 @@ clean:
 
 help:
 	@printf "$(CYAN)Available targets:$(RESET)\n"
-	@printf "  $(BOLD)install$(RESET)             - Install dependencies and Ruby gems\n"
+	@printf "  $(BOLD)install$(RESET)             - ${INSTALL}\n"
 	@printf "  $(BOLD)gen-categories$(RESET)      - ${GEN-CATEGORIES}\n"
 	@printf "  $(BOLD)build$(RESET)               - ${BUILD}\n"
 	@printf "  $(BOLD)serve$(RESET)               - ${SERVE}\n"
@@ -137,5 +127,5 @@ help:
 	@printf "  $(BOLD)resize-images$(RESET)       - Resize images in '$(ROW_IMAGES_FOLDER)' to WebP format\n"
 	@printf "  $(BOLD)keep-to-simplenote$(RESET)  - Convert Google Keep notes to Simplenote format\n"
 	@printf "  $(BOLD)keep-json-to-recipe$(RESET) - Convert Keep JSON recipes to markdown\n"
-	@printf "  $(BOLD)word-count$(RESET)          - Calculate word count of posts\n"
-	@printf "  $(BOLD)clean$(RESET)               - Clean generated files\n"
+	@printf "  $(BOLD)word-count$(RESET)          - ${WORD-COUNT}\n"
+	@printf "  $(BOLD)clean$(RESET)               - ${Clean}\n"

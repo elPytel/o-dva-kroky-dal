@@ -5,9 +5,9 @@ author: "Jarda"
 description: WEB GUI pro správu Docker kontejnerů. Jak ho nasadit přes Ansible a napojit do Homepage.
 categories: 
     - Homelab
-    - Docker
 tags: 
     - Portainer
+    - Docker
 thumbnail: /assets/portainer_logo.svg
 ---
 
