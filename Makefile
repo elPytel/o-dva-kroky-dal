@@ -31,6 +31,8 @@ BOLD   :=
 RESET  :=
 endif
 
+POST_FILES := $(shell find _posts -type f -name '*.md')
+
 .PHONY: build serve gen-categories install
 
 all: serve
@@ -54,12 +56,12 @@ install: install-deps $(ROW_IMAGES_FOLDER)
 	bundle install
 
 GEN-CATEGORIES = Generate category pages
-gen-categories: $(KATEGORIES_FOLDER) word-count
+gen-categories: $(KATEGORIES_FOLDER)
 	@printf "$(CYAN)Generating category pages...$(RESET)\n"
 	@python3 $(SCRIPTS_FOLDER)/generate_category_pages.py
 
 BUILD = Build the site
-build: gen-categories
+build: gen-categories word-count
 	@printf "$(CYAN)Building site...$(RESET)\n"
 	bundle exec jekyll build
 
@@ -111,11 +113,12 @@ keep-json-to-recipe: keep-to-simplenote
 	@printf "$(CYAN)Convert Keep JSON recipes to markdown...$(RESET)\n"
 	@python3 $(SCRIPTS_FOLDER)/keep_json_to_recipe_md.py
 
-# scripts
-word-count:
+generated/word_count.txt: $(POST_FILES) $(SCRIPTS_FOLDER)/count_words.sh
 	@printf "$(CYAN)Calculating word count...$(RESET)\n"
 	@./$(SCRIPTS_FOLDER)/count_words.sh -p
-	@./$(SCRIPTS_FOLDER)/count_words.sh -p > $(GENERATED_FOLDER)/word_count.txt
+	@./$(SCRIPTS_FOLDER)/count_words.sh -p > $@
+
+word-count: generated/word_count.txt
 
 clean:
 	@printf "$(CYAN)Cleaning generated category pages...$(RESET)\n"
