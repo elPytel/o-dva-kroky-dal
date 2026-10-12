@@ -93,7 +93,7 @@ Aby bylo dosaženo lepšího uživatelského zážitku zobrazení, doporučuje s
 - Současný výstup DisplayPort a VGA: 1920 x 1080 pixelů (60 Hz)
 - Současný výstup DisplayPort a DisplayPort: 1920 x 1080 pixelů (60 Hz)
 
-> [!note]
+{: .note }
 > Lze připojit 4k displej, ale s omezením na 30 Hz.
 
 ## Lenovo ThinkPad USB-C Dock: Type 40AF
@@ -123,8 +123,8 @@ Rozlišení monitoru:
 - Až dvě UHD displeje připojené přes DisplayPort™/HDMI™ porty
 - Maximální podpora rozlišení/frekvence: 5120*2880@60Hz
 
-> [!note]
+{: .note }
 > Lze připojit 4k displej a to i při 60 Hz!
 
-> [!warning]
+{: .warning }
 > Dok potřebuje napájení přes 100W aby napájel připojený notebook. Použití slabšího adaptéru umožnujě replikvat porty, ale nedodává dostatek energie pro nabíjení notebooku.

@@ -27,7 +27,7 @@ Konec opravdu stál za to, autoři zde vytěžili herní potenciál úplně na m
 
 Dohrát herní příbeh nám trvalo asi 24 hodin.
 
-> [!tip]
+{: .tip }
 > Dobré rozhodnutí bylo pořídit pro Eriku herní ovladač, takže jsme mohli oba hrát na jednom PC.
 
 Vybrali jsme tento model: GameSir Nova Lite Multiplatform Gaming Controller Gold Yellow
