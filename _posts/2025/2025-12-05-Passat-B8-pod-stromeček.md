@@ -52,7 +52,7 @@ Liberecký IS "Potřebuji vyřídit": [změna vlastníka auta](https://portal.li
 
 Rezervační systém na magistrát: [vs.liberec.cz](https://vs.liberec.cz/)
 
-> [!note]
+{: .note }
 Od července 2025 se prodlužuje platnost evidenční kontroly v ČR na dva roky. Uspoří to čas i peníze při změně vlastníka, evidenční kontrola je totiž nově platná ve lhůtách stanovených pro technickou prohlídku.
 
 - [Plná moc k přepisu vozidla - vzor](https://www.epojisteni.cz/plna-moc-vzor/)
