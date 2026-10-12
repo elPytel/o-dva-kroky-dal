@@ -5,7 +5,7 @@ author: "Jarda"
 description: Návštěva památníku bitvy u Thermopyl.
 categories:
     - turistika
-    - řecko
+    - Řecko
 tags:
     - Thermopylae
 thumbnail: /assets/fotky/2026/20260209_121701.webp

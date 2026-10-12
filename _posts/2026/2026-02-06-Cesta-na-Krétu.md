@@ -6,6 +6,7 @@ description: Jak jsme putovali na Krétu
 categories: 
     - erasmus
     - kréta
+    - Řecko
 tags:
     - Soluň
     - Volos

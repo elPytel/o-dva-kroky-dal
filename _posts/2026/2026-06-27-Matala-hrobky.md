@@ -5,7 +5,7 @@ author: "Jarda"
 description: Průzkum jeskyní a hrobek v Matale
 categories: 
     - turistika
-    - řecko
+    - Řecko
 tags: 
     - Matala
     - jeskyně

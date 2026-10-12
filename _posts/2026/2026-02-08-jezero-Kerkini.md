@@ -5,7 +5,7 @@ author: "Jarda"
 description: Návštěva jezera Kerkini v Řecku
 categories: 
     - turistika
-    - řecko
+    - Řecko
 tags: 
     - jezero
     - Kerkini

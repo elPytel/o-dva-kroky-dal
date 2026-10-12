@@ -88,6 +88,13 @@ def write_page(tag, count):
     esc_title = title.replace('"', '\\"')
     esc_tag = tag.replace('"', '\\"')
     content = f"---\nlayout: category\ntitle: \"{esc_title}\"\ncategory: \"{esc_tag}\"\npermalink: {permalink}\n---\n\n"
+
+    if os.path.exists(filename):
+        with open(filename, 'r', encoding='utf-8') as f:
+            if f.read() == content:
+                print('Unchanged', filename)
+                return
+
     with open(filename, 'w', encoding='utf-8') as f:
         f.write(content)
     print('Wrote', filename)
