@@ -83,3 +83,9 @@ Jakmile běží P330 s aktivním AMT na síti a MeshCentral je dostupný z prohl
 4. MeshCentral se s P330 spojí a na dashboardu uvidíš dostupné funkce: Power Control (zapnutí/vypnutí natvrdo) a především záložku *Desktop*, přes kterou získáš hardwarové KVM přes IP.
 
 Dej si jen pozor na to, že pokud má P330 dedikovanou grafickou kartu (např. nějaké NVIDIA Quadro), Intel AMT KVM umí přenášet obraz pouze z integrované grafiky na procesoru (iGPU). Pro plné využití vzdáleného obrazu z BIOSu je často nutné v BIOSu nastavit integrovanou grafiku jako primární zobrazovač.
+
+## Reference
+
+- [Intel Active Management Technology - Getting Started](https://www.intel.com/content/www/us/en/developer/articles/guide/getting-started-with-active-management-technology.html)
+- [github: MeshCommander](https://github.com/Ylianst/MeshCommander?tab=readme-ov-file)
+- [youtube: MeshCommander - Introduction](https://www.youtube.com/watch?v=k7xVkZSVY0E)
