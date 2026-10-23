@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Pečené americké brambory 🥔
+title: "Pečené americké brambory 🥔"
 ---
 
 # Ingredience:
@@ -22,7 +22,7 @@ plech a pečící papír.
 Umyjeme brambory.
 Nakrájíme brambory na měsíčky.
 
-Okorenime
+Okořeníme
 V hrnci je lehce polejeme řepkovým olejem. 
 Přidáme menší čajovou lžičku soli. Můžeme zakapnout chilli olejem. 
 Přidáme skadkou pariku přiměřeně hodně. 

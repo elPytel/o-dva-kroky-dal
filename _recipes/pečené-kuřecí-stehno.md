@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Pečené kuřecí stehno 🍗
+title: "Pečené kuřecí stehno 🍗"
 ---
 
 Ingredience 

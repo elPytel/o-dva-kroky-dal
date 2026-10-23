@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Pečená kuřecí stehna v alobalu 🍗 ala Miki 🍺
+title: "Pečená kuřecí stehna v alobalu 🍗 ala Miki 🍺"
 ---
 
 Ingredience (4 porce)

@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Snídaňový burger 🍞🍅🍳🍳🍄‍🟫
+title: "Snídaňový burger 🍞🍅🍳🍳🍄‍🟫"
 ---
 
 

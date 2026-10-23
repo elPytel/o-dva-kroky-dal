@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Zapečený chléb
+title: "Zapečený chléb"
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Kuřecí čína 🐔🍗🇨🇳
+title: "Kuřecí čína 🐔🍗🇨🇳"
 ---
 3 porce
 

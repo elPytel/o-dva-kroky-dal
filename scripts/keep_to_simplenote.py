@@ -12,8 +12,11 @@ import os
 import glob
 import uuid
 from datetime import datetime, timezone
+from pathlib import Path
 
-KEEP_PATH = "../dont_include/Keep"
+REPOSITORY_ROOT = Path(__file__).resolve().parent.parent
+KEEP_PATH = REPOSITORY_ROOT / "dont_include" / "Keep"
+OUTPUT_PATH = REPOSITORY_ROOT / "keep.json"
 
 def convert_timestamp(timestamp):
     # Convert Keep timestamp in epoch microseconds to ISO format
@@ -81,7 +84,7 @@ for filename in files:
         }
     )
 
-with open("./keep.json", "w") as f:
+with OUTPUT_PATH.open("w") as f:
     json.dump(data, f)
 
 print("Finished! Generated keep.json for import into Simplenote.")

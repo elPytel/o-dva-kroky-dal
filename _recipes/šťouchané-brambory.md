@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Šťouchané brambory 🥔
+title: "Šťouchané brambory 🥔"
 ---
 
 Ingredience (4 porce)

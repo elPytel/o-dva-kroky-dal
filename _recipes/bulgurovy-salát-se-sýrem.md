@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Bulgurovy salát se sýrem 
+title: "Bulgurovy salát se sýrem "
 ---
 
 Nepřekonatelný bulgurový salát

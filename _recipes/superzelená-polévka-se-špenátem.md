@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Superzelená polévka se špenátem 🍲🌿🌿
+title: "Superzelená polévka se špenátem 🍲🌿🌿"
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Dýňové placičky se slaninou 🎃🥞🥓
+title: "Dýňové placičky se slaninou 🎃🥞🥓"
 ---
 3 porce
 

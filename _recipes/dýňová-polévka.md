@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Dýňová polévka 🎃🍲
+title: "Dýňová polévka 🎃🍲"
 ---
 Krémová polévka z máslové dýně  
 4 porce

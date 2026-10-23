@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Marocký kuskus 🇲🇦
+title: "Marocký kuskus 🇲🇦"
 ---
 4 porce
 
@@ -19,7 +19,9 @@ title: Marocký kuskus 🇲🇦
 - 1 sáček (10 g) kořenicí směsi  
 - 1 sáček (80 g) omáčky  
 
-Návod na přípravu:  
+
+# Postup přípravy:
+
 1. Příprava zeleniny: 
 Očistěte cuketu, lilek a papriku. Nakrájejte je na větší kousky. Cibuli a česnek oloupejte a nakrájejte najemno.  
 

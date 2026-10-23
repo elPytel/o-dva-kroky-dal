@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Domácí párečky v těstíčku 🌭
+title: "Domácí párečky v těstíčku 🌭"
 ---
 
 # Ingredience: 

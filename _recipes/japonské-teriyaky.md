@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Japonské Teriyaky
+title: "Japonské Teriyaky"
 ---
 4 porce  
 

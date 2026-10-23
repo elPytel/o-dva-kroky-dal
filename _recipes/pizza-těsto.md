@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Pizza Těsto 🫓🍕
+title: "Pizza Těsto 🫓🍕"
 ---
 
 # Ingredience:

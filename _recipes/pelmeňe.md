@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Pelmeňe 
+title: "Pelmeňe "
 ---
 
 Jedna porce:

@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Zapékaná špagetová dýně 🍝🎃
+title: "Zapékaná špagetová dýně 🍝🎃"
 ---
 4 porce
 

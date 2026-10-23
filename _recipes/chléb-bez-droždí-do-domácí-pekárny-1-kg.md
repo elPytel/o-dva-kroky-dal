@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: 🥖 Chléb bez droždí do domácí pekárny (1 kg)
+title: "Chléb bez droždí do domácí pekárny (1 kg) 🥖 "
 ---
 
 

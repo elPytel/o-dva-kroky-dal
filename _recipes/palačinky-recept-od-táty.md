@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Palačinky - recept od táty 🥞
+title: "Palačinky - recept od táty 🥞"
 ---
 
 # Ingredience:

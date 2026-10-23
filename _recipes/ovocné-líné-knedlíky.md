@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Ovocné líné knedlíky 
+title: "Ovocné líné knedlíky "
 ---
 
 4 porce

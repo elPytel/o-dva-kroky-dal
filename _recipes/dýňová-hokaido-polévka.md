@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Dýňová Hokaido polévka 🎃
+title: "Dýňová Hokaido polévka 🎃"
 ---
 
 # Ingredience:

@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Burrito 🌯
+title: "Burrito 🌯"
 ---
 
 # Ingredience:

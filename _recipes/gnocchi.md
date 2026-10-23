@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Gnocchi
+title: "Gnocchi"
 ---
 
 

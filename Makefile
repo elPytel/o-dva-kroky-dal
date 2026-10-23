@@ -90,7 +90,7 @@ keep-to-simplenote:
 	  echo "Directory '$(KEEP_SRC)' not found. Create or adjust path before running."; \
 	  exit 1; \
 	fi
-	@if [ -z "$$((ls -A $(KEEP_SRC) 2>/dev/null) || true)" ]; then \
+	@if [ -z "$$(ls -A "$(KEEP_SRC)" 2>/dev/null)" ]; then \
 	  echo "Directory '$(KEEP_SRC)' is empty. Add files before running."; \
 	  exit 1; \
 	fi
@@ -99,7 +99,7 @@ keep-to-simplenote:
 
 keep-json-to-recipe: keep-to-simplenote
 	@printf "$(CYAN)Convert Keep JSON recipes to markdown...$(RESET)\n"
-	@python3 $(SCRIPTS_FOLDER)/keep_json_to_recipe_md.py
+	@python3 $(SCRIPTS_FOLDER)/json2recipe.py
 
 generated/word_count.txt: $(POST_FILES) $(SCRIPTS_FOLDER)/count_words.sh
 	@printf "$(CYAN)Calculating word count...$(RESET)\n"

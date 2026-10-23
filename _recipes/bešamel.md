@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Bešamel
+title: "Bešamel"
 ---
 Na dvě porce
 

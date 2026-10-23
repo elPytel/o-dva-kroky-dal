@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Jak na ztracené vejce? 🥚
+title: "Jak na ztracené vejce? 🥚"
 ---
 
 

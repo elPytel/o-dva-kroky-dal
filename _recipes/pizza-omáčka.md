@@ -1,8 +1,8 @@
 ---
 layout: recipe
-title: Pizza + omáčka 🍕
+title: "Pizza + omáčka 🍕"
 ---
-Na dvě pizzzy
+Na 4 pizzzy
 
 
 # Ingredience:

@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Špagety 🍝
+title: "Špagety 🍝"
 ---
 70g na jednu porci
 4 porce 280g

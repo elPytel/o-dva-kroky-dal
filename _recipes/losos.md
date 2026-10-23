@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Losos 🐟
+title: "Losos 🐟"
 ---
 
 # Ingredience:

@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Bílý dort 🍰
+title: "Bílý dort 🍰"
 ---
 
 # Ingredience:

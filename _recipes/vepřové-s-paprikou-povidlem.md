@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Vepřové s paprikou, povidlem 🥩🫑🥫
+title: "Vepřové s paprikou, povidlem 🥩🫑🥫"
 ---
 
 
