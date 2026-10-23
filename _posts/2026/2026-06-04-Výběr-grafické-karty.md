@@ -21,7 +21,7 @@ Myšlenka serveru je taková, že z něj půjde streamovat hry do obýváku, tak
 Počítač má jeden half-height PCIe slot, takže je potřeba hledat grafické karty s nízkým profilem (low-profile) a zároveň s co nejnižší spotřebou, aby se vešly do malého prostoru a byly kompatibilní s napájením počítače. Maximální spotřeba by měla být kolem 75 W, ideálně méně, abych předešel problémům s chlazením a napájením.
 
 - [Starší grafické karty od NVIDIA](#starší-grafické-karty-od-nvidia)
-  - [Quadro P400](#quadro-p400)
+  - [NVIDIA Quadro P400](#nvidia-quadro-p400)
   - [NVIDIA Quadro P620](#nvidia-quadro-p620)
   - [NVIDIA Quadro P1000](#nvidia-quadro-p1000)
   - [Yeston GTX 1050 ti 4GDDR5](#yeston-gtx-1050-ti-4gddr5)
@@ -45,7 +45,7 @@ Počítač má jeden half-height PCIe slot, takže je potřeba hledat grafické 
 
 # Starší grafické karty od NVIDIA
 
-## Quadro P400
+## NVIDIA Quadro P400
 
 | Parametr | hodnota |
 | --- | --- |
