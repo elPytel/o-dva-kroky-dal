@@ -8,7 +8,7 @@ categories:
 tags: 
     - Bash
     - Jupyter
-    - VSCode
+    - VS Code
 thumbnail: "/assets/programování/Jupyter.png"
 ---
 
