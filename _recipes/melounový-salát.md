@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Melounový salát 🍉🥗
+title: "Melounový salát 🍉🥗"
 ---
 
 # Ingredience:

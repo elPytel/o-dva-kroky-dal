@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Anglická snídaně 🌭🥚🫘 🇻🇬
+title: "Anglická snídaně 🌭🥚🫘 🇻🇬"
 ---
 
 2 porce

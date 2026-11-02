@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Boloňská omáčka 🍅🫙🍝
+title: "Boloňská omáčka 🍅🫙🍝"
 ---
 5 porce 
 

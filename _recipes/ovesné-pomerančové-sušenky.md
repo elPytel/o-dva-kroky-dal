@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Ovesné pomerančové sušenky 
+title: "Ovesné pomerančové sušenky "
 ---
 
 

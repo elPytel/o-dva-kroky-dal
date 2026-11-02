@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Karamelizovaná cibulka 🧅
+title: "Karamelizovaná cibulka 🧅"
 ---
 Přibližně 3 porce
 

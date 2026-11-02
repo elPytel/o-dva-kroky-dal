@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Turecká vejce 🥚
+title: "Turecká vejce 🥚"
 ---
 2 porce
 

@@ -1,49 +1,44 @@
 ---
 layout: recipe
-title: Curry s čočkou 🍛
+title: "Curry s čočkou 🍛"
 ---
-● 1 tablespoon refined or virgin coconut oil, or a neutral-flavored oil
-● 4 cloves garlic, minced
-●  1-2 serrano peppers, diced (adjust according to desired spice level)
-● 2 inch piece of fresh ginger, peeled and minced or grated
+Ingredience
+Základ a aromata:
 
-● 1 tablespoon minced fresh turmeric, or 1 teaspoon ground turmeric
-● 1 teaspoon ground cumin
-● 1/2 teaspoon ground coriander
-● 1/2 teaspoon Indian red chili powder (if you only have regular chili powder, which is a blend, use 1 teaspoon)
-●  2 teaspoons curry powder
-● 1 teaspoon garam masala
-● Kosher salt or sea salt to taste (I use about 1 tsp kosher salt, and add more at the end)
-●  Freshly cracked black pepper to taste
+1 lžíce kokosového oleje (panenského nebo rafinovaného) nebo neutrálního oleje
+4 stroužky česneku, nasekané nadrobno
+1–2 serrano papričky, nakrájené na kostičky (upravte podle pálivosti, semínka můžete nechat pro větší grády) [02:13]
+Asi 5 cm čerstvého zázvoru, oloupaného a nastrouhaného nebo nasekaného [01:58]
+(Volitelně) 300–400 g kuřecích prsou nakrájených na menší kostičky
+Směs koření:
 
-●  1 cup (180-190g) red lentils, or split red lentils (the split variety will cook a bit quicker)
-● 2 cups (480 mL) low-sodium vegetable broth
-● 1 (400g) can crushed tomatoes
-●  1 (400 mL) can full-fat coconut milk
-● 3 tablespoons unsweetened creamy almond butter
-● 1/2 a small lemon, juiced
-● 1/2 cup (~8g) fresh cilantro, roughly chopped
-● For serving: Basmati or Jasmine rice and Indian flatbread such as roti, paratha, or naan
+1 lžíce čerstvé kurkumy (nasekané) nebo 1 lžička mleté kurkumy [02:52]
+1 lžička mletého římského kmínu (cumin)
+1/2 lžičky mletého koriandru
+1/2 lžičky indického červeného chilli (nebo 1 lžička běžného chilli koření)
+2 lžičky kari koření (curry powder)
+1 lžička garam masala
+Sůl a čerstvě mletý pepř podle chuti
+Hlavní suroviny:
 
+1 hrnek (cca 190 g) červené čočky (propláchnuté) [03:16]
+2 hrnky (480 ml) zeleninového vývaru (pokud možno s nízkým obsahem soli)
+1 plechovka (400 g) drcených rajčat
+1 plechovka (400 ml) plnotučného kokosového mléka [04:43]
+3 lžíce neslazeného mandlového másla (dodá neuvěřitelnou krémovost) [05:01]
+Šťáva z 1/2 malého citronu
+1/2 hrnku čerstvého koriandru, nasekaného nahrubo
 
+Postup přípravy
+Příprava: Najemno nasekejte česnek, nastrouhejte zázvor a nakrájejte papričky [01:22]. V misce si předem smíchejte veškeré suché koření, aby se vám při vaření nepřipálilo. Čočku důkladně propláchněte v cedníku, dokud nepoteče čirá voda [03:16]. Pokud používáte kuřecí maso, nakrájejte ho na menší sousta.
+Restování aromat: Ve velkém hrnci nebo hluboké pánvi rozehřejte olej. Přidejte česnek, zázvor a papričky a krátce (asi 1 minutu) restujte, dokud se nerozvoní [03:35].
+Rozvinutí koření: Přisypte připravenou směs koření, sůl a pepř. Nechte koření "rozvonět" (tzv. bloom) v oleji asi minutu. Pokud by se směs lepila, snižte teplotu [03:46].
+Maso (volitelně): Přidejte nakrájené kuřecí maso a nechte ho ze všech stran zatáhnout.
+Tekutiny a čočka: Zalijte zeleninovým vývarem (pokud jsou na dně přichycené kousky koření, vařečkou je odškrábněte – je v nich nejvíc chuti) [04:14]. Přidejte propláchnutou čočku a drcená rajčata v plechovce [04:21]. (V této fázi můžete přidat i trošku curry pasty, pokud ji používáte).
+Vaření: Směs přiveďte k varu, poté snižte teplotu, přikryjte pokličkou a nechte probublávat 20–30 minut, dokud čočka nezměkne a nevstřebá většinu tekutiny [04:26].
+Zjemnění: Jakmile je čočka uvařená, vlijte kokosové mléko a přidejte mandlové máslo [04:37]. Pořádně promíchejte a nechte ještě 5–7 minut povařit odkryté, aby kari krásně zhoustlo [05:15].
+Dokončení: Nakonec vmíchejte citronovou šťávu a čerstvý koriandr [05:44]. Podle potřeby ještě dosolte nebo opepřete.
+Servírování: [05:51]
+Podávejte s rýží basmati nebo jasmínovou rýží. Skvěle se k tomu hodí i indické placky jako naan, roti nebo paratha.
 
-# Postup:
-
-1) najemno nakrajet česnek, nastrouhat zazvor, nekrajet papričky
-2) Připravit směs koření
-3) proplachnout čočku
-4) připravit na menší kostičky kuřecí maso
-5) Nahřát na panvi trošku oleje a osmahnout na chvíli ingredience z bodu 1)
-6) přidat ingredience z bodu 2), nechat lehce provonět
-7) přidat maso a nechat zatáhnout
-8) zalít vývarem
-(9) přidat curry pastu)
-10) přidat proplachnutou čočku
-11) přidat 400g rajčat v plechovce
-12) necháme pod pokličkou povařit 20-30 min
-13) přidáme coconut milk
-(14) Almond butter)
-15) přidat citron a čerstvý  koriandr 
-
-
-[BHRyfEbhFFU?si=vXRrmYjOXnRn6sJo](https://youtu.be/BHRyfEbhFFU?si=vXRrmYjOXnRn6sJo)
+Odkaz na video: https://youtu.be/BHRyfEbhFFU

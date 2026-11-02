@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Cuketová buchta 🥒🥧
+title: "Cuketová buchta 🥒🥧"
 ---
 
 ⏱️ Doba přípravy: cca 50 minut

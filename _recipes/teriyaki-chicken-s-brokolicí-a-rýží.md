@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Teriyaki Chicken s brokolicí a rýží  🍗🥦🍚 
+title: "Teriyaki Chicken s brokolicí a rýží  🍗🥦🍚 "
 ---
 
 4 porce:

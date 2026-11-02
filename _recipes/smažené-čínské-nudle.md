@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Smažené čínské nudle
+title: "Smažené čínské nudle"
 ---
 4 porce  
 

@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Toustový chléb
+title: "Toustový chléb"
 ---
 
 

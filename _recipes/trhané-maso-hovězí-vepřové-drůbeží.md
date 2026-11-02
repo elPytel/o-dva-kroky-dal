@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Trhané maso (hovězí, vepřové, drůbeží)
+title: "Trhané maso (hovězí, vepřové, drůbeží)"
 ---
 Množství: 5 porcí
 

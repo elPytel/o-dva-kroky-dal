@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Trhané maso - vepřové 🥩🐷
+title: "Trhané maso - vepřové 🥩🐷"
 ---
 4 porce
 

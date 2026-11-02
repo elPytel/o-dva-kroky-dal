@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Nakládaná červená cibule ve sladkokyselém nálevu 🧅
+title: "Nakládaná červená cibule ve sladkokyselém nálevu 🧅"
 ---
 Ingredience na jednu porci
 - cibule 1 ks

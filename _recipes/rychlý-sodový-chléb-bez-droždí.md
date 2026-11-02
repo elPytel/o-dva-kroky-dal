@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: 🥖 Rychlý sodový chléb (bez droždí)
+title: "Rychlý sodový chléb (bez droždí) 🥖 "
 ---
 
 

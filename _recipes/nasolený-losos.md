@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Nasolený losos 🐟🧂
+title: "Nasolený losos 🐟🧂"
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Honzův chleba 🍞
+title: "Honzův chleba 🍞"
 ---
 
 # Ingredience:

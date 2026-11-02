@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Lilkový salát s rajčaty a petrželí 🍆🍅🌿
+title: "Lilkový salát s rajčaty a petrželí 🍆🍅🌿"
 ---
 
 # Ingredience:
@@ -13,13 +13,13 @@ title: Lilkový salát s rajčaty a petrželí 🍆🍅🌿
 - Olej na smažení  
 
 
-# Postup:
+# Postup přípravy:
 
 Příprava lilku: 
 Lilek nakrájejte na plátky nebo menší kousky, osolte a nechte asi 10–15 minut vypotit, aby pustil hořkost. Poté ho osušte papírovou utěrkou.
 
 Smažení lilku:  
-Lilel nakrájejte na kostičky. 
+Lilek nakrájejte na kostičky. 
 Na pánvi rozehřejte trochu oleje a lilek opečte dozlatova, aby změkl a získal jemně nasládlou chuť.
 
 Příprava zeleniny:

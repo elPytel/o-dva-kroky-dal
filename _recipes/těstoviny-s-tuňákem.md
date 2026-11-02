@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Těstoviny s tuňákem 🍝🐧
+title: "Těstoviny s tuňákem 🍝🐧"
 ---
 2 porce
 

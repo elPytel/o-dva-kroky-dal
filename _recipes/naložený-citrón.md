@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Naložený citrón 🍋🫙
+title: "Naložený citrón 🍋🫙"
 ---
 
 

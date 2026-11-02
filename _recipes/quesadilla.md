@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Quesadilla 🥞
+title: "Quesadilla 🥞"
 ---
 
 # Zdroj:

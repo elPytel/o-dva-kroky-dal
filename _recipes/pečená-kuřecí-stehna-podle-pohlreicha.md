@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Pečená kuřecí stehna 🍗 podle Pohlreicha
+title: "Pečená kuřecí stehna 🍗 podle Pohlreicha"
 ---
 
 

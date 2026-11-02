@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Kuře Kaidžú s rýží a zeleninou 🐔🦍🦐🍚🥗
+title: "Kuře Kaidžú s rýží a zeleninou 🐔🦍🦐🍚🥗"
 ---
 (bez lepku)
 

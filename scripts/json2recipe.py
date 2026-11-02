@@ -1,19 +1,20 @@
 #!/usr/bin/env python
 
 import json
-import os
+from pathlib import Path
 
-KEEP_JSON = "keep.json"
-RECIPES_FOLDER = "../_recipes"
+REPOSITORY_ROOT = Path(__file__).resolve().parent.parent
+KEEP_JSON = REPOSITORY_ROOT / "keep.json"
+RECIPES_FOLDER = REPOSITORY_ROOT / "_recipes"
 
-with open("../keep.json", "r") as f:
+with KEEP_JSON.open("r") as f:
     data = json.load(f)
 
 # f string template
 recipe_template = """\
 ---
 layout: recipe
-title: {title}
+title: {title_yaml}
 ---
 {content}
 """
@@ -65,10 +66,15 @@ for note in data:
 
     filename = title_to_filename(note['title'])
 
-    path_filename = os.path.join(RECIPES_FOLDER, f"{filename}.md")
+    path_filename = RECIPES_FOLDER / f"{filename}.md"
     content = format_content(note)
-    with open(path_filename, "w") as f:
-        f.write(recipe_template.format(title=note['title'], content=content))
+    with path_filename.open("w") as f:
+        f.write(
+            recipe_template.format(
+                title_yaml=json.dumps(note['title'], ensure_ascii=False),
+                content=content,
+            )
+        )
 
 print(f"Converted {len(data)} notes to recipes in {RECIPES_FOLDER}.")
 print("Done.")

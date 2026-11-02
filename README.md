@@ -200,17 +200,19 @@ Nejdříve jsem se snažil použít gkeepapi. Nepoužívají však pro přihlaš
 - [gkeepapi](https://github.com/kiwiz/gkeepapi)
 - [gkeepapi documentation](https://gkeepapi.readthedocs.io/en/latest/)
 
-Jako nejsnazší postup se ukázalo stáhnout exportovaná data z googlu jako zip. Požijte nástroj: [takeout.google.com](https://takeout.google.com). Vyberte Google Keep a stáhněte data jako zip (odeslání odkazu na email). Následně připravit jednoduchý skript, který převede json soubory na markdown soubory s recepty.
+Jako nejsnazší postup se ukázalo stáhnout exportovaná data z googlu jako zip. Požijte nástroj: [takeout.google.com](https://takeout.google.com). Vyberte Google Keep a stáhněte data jako zip (odeslání odkazu na email). Následně jsem připravil jednoduchý skript, který převede json soubory na markdown soubory s recepty.
+
+Rozbalil jsem .zip a složku `Keep` jsem umístil do složky `./dont_include/`. V této složce se nachází json soubory s exportovanými daty z Google Keep. 
 
 Převod exportovaných dat z Google Keep do jednoho jsonu:
 ```bash
-python3 keep_to_simplenote.py
+make keep-to-simplenote
 ```
 Script očekává soubory v sectě: `./dont_include/Keep/`.
 
 Převod velkého json soubor na markdown soubory s recepty provede script:
 ```bash
-python3 json2recipe.py
+make keep-json-to-recipe
 ```
 
 - [Google Takeout](https://takeout.google.com/)

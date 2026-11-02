@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Polévka Batátová 🍲
+title: "Polévka Batátová 🍲"
 ---
 Co budete potřebovat:
 

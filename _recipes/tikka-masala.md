@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Tikka masala
+title: "Tikka masala"
 ---
 4 porce
 
