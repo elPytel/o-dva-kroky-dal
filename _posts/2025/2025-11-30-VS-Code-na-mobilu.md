@@ -6,7 +6,7 @@ categories:
     - mobily
     - samsung
 tags:
-    - VSCode
+    - VS Code
     - termux
 thumbnail: /assets/phone/20251130_122435_Opera.jpg
 ---

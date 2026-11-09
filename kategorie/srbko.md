@@ -1,7 +1,7 @@
 ---
 layout: category
-title: "srbko"
-category: "srbko"
+title: "Srbko"
+category: "Srbko"
 permalink: /kategorie/srbko/
 ---
 
