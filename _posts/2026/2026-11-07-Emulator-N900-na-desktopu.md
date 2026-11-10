@@ -5,8 +5,8 @@ author: "Jarda"
 description: Jak zkoušet aplikace pro Maemo 5 na PC bez telefonu. qemu-user, Xvfb, motiv z telefonu a vlastní lišta a přepínač oken.
 categories:
     - n900
+    - Claude
 tags:
-    - N900
     - Maemo
     - emulátor
     - Hildon
