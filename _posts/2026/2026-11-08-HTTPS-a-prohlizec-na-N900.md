@@ -11,6 +11,7 @@ tags:
     - TLS
     - MicroB
     - prohlížeč
+thumbnail: /assets/n900/IDOS v MicroBu.png
 ---
 
 - [Problém: TLS 1.0 a staré certifikáty](#problém-tls-10-a-staré-certifikáty)
@@ -50,7 +51,8 @@ MicroB bere certifikáty přes `libnssckbi.so`, což je ve skutečnosti odkaz na
 
 Ověřil jsem to nejdřív na vlastní testovací certifikační autoritě: na PC jsem spustil `openssl s_server -tls1` s certifikátem podepsaným vlastní CA, na telefonu `cmcli -v` bez přidané CA hlásí „unable to get local issuer certificate“ a po přidání „Verified OK“. Pak jsem v MicroBu otevřel stránku a **načetla se bez varování o certifikátu**. Skutečný web ověřil `https://tls-v1-0.badssl.com:1010/` (TLS 1.0 s certifikátem od Let's Encrypt): načetla se bez varování.
 
-<!-- Sem hodí screenshot: tls-v1-0.badssl.com v MicroBu (apps/microb-nss nebo ca-certs-n900/docs/microb-tls10-badssl.png, Screenshot-20261108-152434.png). -->
+![MicroB s TLS 1.0 a badssl.com]({{ site.baseurl }}/assets/n900/microb-tls10-badssl.png)
+*Screenshot: tls-v1-0.badssl.com v MicroBu*
 
 To pomáhá jen u webů, které ještě povolují TLS 1.0. Pro zbytek bylo potřeba sáhnout hlouběji.
 
@@ -87,11 +89,13 @@ Po instalaci je potřeba restartovat démona prohlížeče (`/etc/init.d/tablet-
 
 Po restartu se **původní MicroB** otevřel na `https://www.seznam.cz/` s ověřeným certifikátem. Před tím: „SSL error“.
 
-<!-- Sem hodí screenshot: Seznam v MicroBu (Screenshot-20261108-172258.png) -->
+![MicroB s TLS 1.2 a Seznam.cz]({{ site.baseurl }}/assets/n900/Seznam v MicroBu.png)
+*Screenshot: seznam.cz v MicroBu*
 
 A také na **IDOS** (`https://idos.cz/`): stylovaná stránka s formulářem a barvami, jen načítání trvá asi **20 sekund**.
 
-<!-- Sem hodí screenshot: IDOS v MicroBu (Screenshot-20261108-173049.png) -->
+![IDOS v MicroBu]({{ site.baseurl }}/assets/n900/IDOS v MicroBu.png)
+*Screenshot: idos.cz v MicroBu*
 
 Příčinu pomalého načítání zatím neznám. Handshake je rychlý, takže podezřívám správce certifikátů (kořenů je teď kolem 420), neoptimalizovanou kryptografii v C na 600 MHz nebo samotný Gecko 1.9.2 s moderním JavaScriptem. Změřím to někdy v budoucnu.
 
