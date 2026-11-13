@@ -11,6 +11,7 @@ tags:
     - Signal
     - Rust
     - experiment
+thumbnail: /assets/Signal_logo.svg
 ---
 
 - [Co jsem chtěl](#co-jsem-chtěl)

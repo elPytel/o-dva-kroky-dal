@@ -10,6 +10,7 @@ tags:
     - Maemo
     - terminál
     - tmux
+thumbnail: /assets/n900/n900_mc.png
 ---
 
 - [Co telefon má a co mu chybí](#co-telefon-má-a-co-mu-chybí)

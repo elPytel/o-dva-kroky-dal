@@ -10,6 +10,7 @@ tags:
     - Maemo
     - Rust
     - Go
+thumbnail: "/assets/programování/Go_logo.png"
 ---
 
 - [Proč zrovna Rust a Go](#proč-zrovna-rust-a-go)
