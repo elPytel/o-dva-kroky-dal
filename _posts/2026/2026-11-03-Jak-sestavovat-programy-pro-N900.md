@@ -10,6 +10,7 @@ tags:
     - Maemo
     - cross-kompilace
     - Workshop
+thumbnail: https://github.com/elPytel/nokia-n900-notes/blob/main/assets/91lsz9ZdF7L._AC_SL1500_.jpg?raw=true
 ---
 
 - [Co musíme postavit a pro vývoj](#co-musíme-postavit-a-pro-vývoj)

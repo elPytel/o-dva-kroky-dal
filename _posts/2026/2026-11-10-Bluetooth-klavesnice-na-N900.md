@@ -12,6 +12,7 @@ tags:
     - X11
     - klávesnice
     - experiment
+thumbnail: /assets/Bluetooth_logo.png
 ---
 
 - [Co jsem chtěl](#co-jsem-chtěl)
